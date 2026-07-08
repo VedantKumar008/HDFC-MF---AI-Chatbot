@@ -25,17 +25,16 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
 
     logger.info("Starting backend startup sequence...")
     try:
+        # Only load schemes during startup (lightweight)
         state.schemes = load_scheme_summaries(settings.resolved_data_path)
-        retriever, manifest = load_knowledge_base(
-            schemes_dir=settings.resolved_data_path,
-            faiss_dir=settings.resolved_faiss_path,
-            embedding_model=settings.embedding_model,
-        )
-        state.retriever = retriever
-        state.index_manifest = manifest
+        
+        # Lazy load FAISS index and embedding model on first request
+        state.retriever = None
+        state.index_manifest = None
         state.embedding_model_name = settings.embedding_model
         state.ready = True
         state.load_error = None
+        logger.info("Backend ready (FAISS index will load on first request)")
     except Exception as exc:
         state.ready = False
         state.load_error = str(exc)
@@ -43,6 +42,6 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
         raise
 
     state.startup_seconds = round(time.perf_counter() - started, 2)
-    logger.info("Backend ready in %.2fs", state.startup_seconds)
+    logger.info("Backend startup completed in %.2fs", state.startup_seconds)
     yield
     logger.info("Backend shutdown")

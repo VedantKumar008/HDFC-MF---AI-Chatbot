@@ -22,16 +22,30 @@ def _build_pipeline(request: Request) -> RagPipeline:
     state = request.app.state.app_state
     settings = request.app.state.settings
 
-    if not state.ready or state.retriever is None:
+    if not state.ready:
         raise HTTPException(
             status_code=503,
-            detail="Backend is still loading. Please retry shortly.",
+            detail="Backend is not ready. Please retry shortly.",
         )
     if not settings.groq_api_key:
         raise HTTPException(
             status_code=503,
             detail="GROQ_API_KEY is not configured on the backend.",
         )
+
+    # Lazy load FAISS index and embedding model on first request
+    if state.retriever is None:
+        logger.info("Loading FAISS index and embedding model on first request...")
+        from backend.app.services.knowledge_base import load_knowledge_base
+        
+        retriever, manifest = load_knowledge_base(
+            schemes_dir=settings.resolved_data_path,
+            faiss_dir=settings.resolved_faiss_path,
+            embedding_model=settings.embedding_model,
+        )
+        state.retriever = retriever
+        state.index_manifest = manifest
+        logger.info("FAISS index loaded successfully")
 
     from backend.app.rag.groq_client import GroqChatClient
 
