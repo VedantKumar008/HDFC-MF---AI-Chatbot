@@ -8,7 +8,7 @@
   "env": {
     "NEXT_PUBLIC_BACKEND_URL": {
       "description": "Backend API URL (Render deployment)",
-      "value": "https://your-render-app.onrender.com"
+      "value": "https://hdfc-mf-ai-chatbot.onrender.com"
     }
   }
 }
