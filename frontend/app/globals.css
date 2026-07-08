@@ -24,3 +24,36 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Ensure markdown content has proper contrast */
+.prose {
+  color: #18181b;
+}
+
+.prose p {
+  color: #27272a;
+}
+
+.prose strong {
+  color: #18181b;
+}
+
+.prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
+  color: #18181b;
+}
+
+.prose a {
+  color: #059669;
+}
+
+.prose code {
+  color: #27272a;
+  background-color: #f4f4f5;
+  padding: 0.125rem 0.25rem;
+  border-radius: 0.25rem;
+}
+
+.prose pre {
+  background-color: #f4f4f5;
+  color: #18181b;
+}

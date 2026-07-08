@@ -9,7 +9,12 @@ from dataclasses import dataclass
 from pipeline.pipeline.faiss_index import FaissRetriever
 
 from backend.app.rag.groq_client import GroqChatClient
-from backend.app.rag.prompts import NOT_FOUND_MESSAGE, SYSTEM_PROMPT, build_user_prompt
+from backend.app.rag.prompts import (
+    NOT_FOUND_MESSAGE,
+    SYSTEM_PROMPT,
+    build_user_prompt,
+    enhance_query_with_context,
+)
 from backend.app.rag.retrieval import RetrievalService, RetrievedChunk, format_context
 from backend.app.schemas import SchemeSummary
 
@@ -73,7 +78,10 @@ class RagPipeline:
         retrieval: RetrievalResult | None = None,
         history: list[dict[str, str]] | None = None,
     ) -> Iterator[str]:
-        result = retrieval or self.retrieve(query)
+        # Enhance query with context for pronoun resolution
+        enhanced_query = enhance_query_with_context(query, history)
+        
+        result = retrieval or self.retrieve(enhanced_query)
         if not result.has_context:
             yield NOT_FOUND_MESSAGE
             return
@@ -83,8 +91,9 @@ class RagPipeline:
             messages = [messages[0], *history, messages[-1]]
 
         logger.info(
-            "Streaming Groq response (retrieval=%.3fs, chunks=%s)",
+            "Streaming Groq response (retrieval=%.3fs, chunks=%s, query_enhanced=%s)",
             result.retrieval_seconds,
             len(result.chunks),
+            enhanced_query != query,
         )
         yield from self.groq_client.stream_completion(messages)

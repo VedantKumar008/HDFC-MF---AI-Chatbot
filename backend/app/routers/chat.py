@@ -93,6 +93,9 @@ async def _sse_stream(request: Request, payload: ChatRequest) -> AsyncIterator[s
 
         # Phase 6: Get conversation history for context
         history = session.get_recent_messages(limit=5)
+        logger.info(f"Retrieved history for session {payload.session_id}: {len(history)} messages")
+        for i, msg in enumerate(history):
+            logger.info(f"History message {i}: role={msg['role']}, content={msg['content'][:100]}")
         
         # Store user message
         session.add_message("user", payload.message)

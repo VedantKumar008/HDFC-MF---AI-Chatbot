@@ -105,6 +105,7 @@ export default function Home() {
       let assistantMessage = "";
 
       if (reader) {
+        let currentEvent = "";
         while (true) {
           const { done, value } = await reader.read();
           if (done) break;
@@ -113,10 +114,12 @@ export default function Home() {
           const lines = chunk.split("\n");
 
           for (const line of lines) {
-            if (line.startsWith("data: ")) {
+            if (line.startsWith("event: ")) {
+              currentEvent = line.slice(7);
+            } else if (line.startsWith("data: ")) {
               try {
                 const data = JSON.parse(line.slice(6));
-                if (data.event === "token" && data.content) {
+                if (currentEvent === "token" && data.content) {
                   assistantMessage += data.content;
                   setMessages((prev) => {
                     const newMessages = [...prev];
@@ -128,10 +131,10 @@ export default function Home() {
                     }
                     return newMessages;
                   });
-                } else if (data.event === "blocked") {
+                } else if (currentEvent === "blocked") {
                   assistantMessage = "This request was blocked by the compliance layer.";
                   setMessages((prev) => [...prev, { role: "assistant", content: assistantMessage }]);
-                } else if (data.event === "error") {
+                } else if (currentEvent === "error") {
                   assistantMessage = `Error: ${data.message || "Something went wrong"}`;
                   setMessages((prev) => [...prev, { role: "assistant", content: assistantMessage }]);
                 }
@@ -297,13 +300,15 @@ export default function Home() {
                     className={`max-w-[80%] rounded-lg px-4 py-3 ${
                       message.role === "user"
                         ? "bg-emerald-600 text-white"
-                        : "bg-white border border-zinc-200 text-zinc-900"
+                        : "bg-white border border-zinc-200 shadow-sm"
                     }`}
                   >
                     {message.role === "assistant" ? (
-                      <ReactMarkdown className="prose prose-sm max-w-none">
-                        {message.content}
-                      </ReactMarkdown>
+                      <div className="text-zinc-900 text-sm">
+                        <ReactMarkdown>
+                          {message.content}
+                        </ReactMarkdown>
+                      </div>
                     ) : (
                       <p className="text-sm whitespace-pre-wrap">{message.content}</p>
                     )}
@@ -312,11 +317,11 @@ export default function Home() {
               ))}
               {isLoading && (
                 <div className="flex justify-start">
-                  <div className="bg-white border border-zinc-200 rounded-lg px-4 py-3">
+                  <div className="bg-white border border-zinc-200 rounded-lg px-4 py-3 shadow-sm">
                     <div className="flex items-center gap-2">
-                      <div className="w-2 h-2 bg-zinc-400 rounded-full animate-bounce" />
-                      <div className="w-2 h-2 bg-zinc-400 rounded-full animate-bounce delay-100" />
-                      <div className="w-2 h-2 bg-zinc-400 rounded-full animate-bounce delay-200" />
+                      <div className="w-2 h-2 bg-zinc-500 rounded-full animate-bounce" />
+                      <div className="w-2 h-2 bg-zinc-500 rounded-full animate-bounce delay-100" />
+                      <div className="w-2 h-2 bg-zinc-500 rounded-full animate-bounce delay-200" />
                     </div>
                   </div>
                 </div>
@@ -336,7 +341,7 @@ export default function Home() {
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
                 placeholder="Ask about HDFC Mutual Funds..."
-                className="flex-1 px-4 py-3 bg-zinc-100 border-0 rounded-lg focus:outline-none focus:ring-2 focus:ring-emerald-500 text-sm"
+                className="flex-1 px-4 py-3 bg-zinc-100 border-0 rounded-lg focus:outline-none focus:ring-2 focus:ring-emerald-500 text-sm text-zinc-900 placeholder-zinc-500 disabled:text-zinc-400 disabled:placeholder-zinc-400"
                 disabled={isLoading}
               />
               <button
