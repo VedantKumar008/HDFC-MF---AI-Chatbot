@@ -33,6 +33,14 @@ def _build_pipeline(request: Request) -> RagPipeline:
             detail="GROQ_API_KEY is not configured on the backend.",
         )
 
+    # Lazy load schemes on first request
+    if not state.schemes:
+        logger.info("Loading schemes on first request...")
+        from backend.app.services.schemes import load_scheme_summaries
+        
+        state.schemes = load_scheme_summaries(settings.resolved_data_path)
+        logger.info(f"Loaded {len(state.schemes)} schemes")
+
     # Lazy load FAISS index and embedding model on first request
     if state.retriever is None:
         logger.info("Loading FAISS index and embedding model on first request...")

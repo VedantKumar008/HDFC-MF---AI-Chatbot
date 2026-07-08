@@ -24,17 +24,19 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
     started = time.perf_counter()
 
     logger.info("Starting backend startup sequence...")
+    logger.info(f"Project root: {settings.resolved_data_path.parent.parent}")
+    logger.info(f"Data path: {settings.resolved_data_path}")
+    logger.info(f"Data path exists: {settings.resolved_data_path.exists()}")
+    
     try:
-        # Only load schemes during startup (lightweight)
-        state.schemes = load_scheme_summaries(settings.resolved_data_path)
-        
-        # Lazy load FAISS index and embedding model on first request
+        # Even more minimal startup - defer scheme loading too
+        state.schemes = []
         state.retriever = None
         state.index_manifest = None
         state.embedding_model_name = settings.embedding_model
         state.ready = True
         state.load_error = None
-        logger.info("Backend ready (FAISS index will load on first request)")
+        logger.info("Backend ready (schemes and FAISS index will load on first request)")
     except Exception as exc:
         state.ready = False
         state.load_error = str(exc)
