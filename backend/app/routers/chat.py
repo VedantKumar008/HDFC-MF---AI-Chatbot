@@ -9,8 +9,9 @@ from collections.abc import AsyncIterator
 from fastapi import APIRouter, HTTPException, Request
 from fastapi.responses import StreamingResponse
 
-from backend.app.compliance.detector import ComplianceDetector
-from backend.app.rag.pipeline import RagPipeline
+# Defer heavy imports to reduce startup memory
+# from backend.app.compliance.detector import ComplianceDetector
+# from backend.app.rag.pipeline import RagPipeline
 from backend.app.rag.prompts import NOT_FOUND_MESSAGE
 from backend.app.schemas import ChatRequest
 
@@ -18,7 +19,7 @@ router = APIRouter(tags=["chat"])
 logger = logging.getLogger(__name__)
 
 
-def _build_pipeline(request: Request) -> RagPipeline:
+def _build_pipeline(request: Request):  # Deferred: RagPipeline
     state = request.app.state.app_state
     settings = request.app.state.settings
 
@@ -55,7 +56,9 @@ def _build_pipeline(request: Request) -> RagPipeline:
         state.index_manifest = manifest
         logger.info("FAISS index loaded successfully")
 
+    # Import heavy modules only when building pipeline
     from backend.app.rag.groq_client import GroqChatClient
+    from backend.app.rag.pipeline import RagPipeline
 
     groq_client = GroqChatClient(api_key=settings.groq_api_key, model=settings.groq_model)
     return RagPipeline(
@@ -71,6 +74,9 @@ def _build_pipeline(request: Request) -> RagPipeline:
 async def _sse_stream(request: Request, payload: ChatRequest) -> AsyncIterator[str]:
     state = request.app.state.app_state
     pipeline = _build_pipeline(request)
+    
+    # Import compliance detector only when needed
+    from backend.app.compliance.detector import ComplianceDetector
     compliance = ComplianceDetector()
     
     # Phase 6: Get or create session

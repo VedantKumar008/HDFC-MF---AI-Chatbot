@@ -7,8 +7,9 @@ import logging
 from pathlib import Path
 from typing import Any
 
-from pipeline.pipeline.builder import IndexBuildPipeline
-from pipeline.pipeline.faiss_index import FaissRetriever
+# Defer heavy imports to reduce startup memory
+# from pipeline.pipeline.builder import IndexBuildPipeline
+# from pipeline.pipeline.faiss_index import FaissRetriever
 
 logger = logging.getLogger(__name__)
 
@@ -17,7 +18,11 @@ def load_knowledge_base(
     schemes_dir: Path,
     faiss_dir: Path,
     embedding_model: str,
-) -> tuple[FaissRetriever, dict[str, Any]]:
+) -> tuple:  # Deferred: (FaissRetriever, dict[str, Any])
+    # Import heavy modules only when loading knowledge base
+    from pipeline.pipeline.builder import IndexBuildPipeline
+    from pipeline.pipeline.faiss_index import FaissRetriever
+    
     pipeline = IndexBuildPipeline(
         schemes_dir=schemes_dir,
         output_dir=faiss_dir,

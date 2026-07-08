@@ -6,16 +6,12 @@ import logging
 from collections.abc import Iterator
 from dataclasses import dataclass
 
-from pipeline.pipeline.faiss_index import FaissRetriever
-
-from backend.app.rag.groq_client import GroqChatClient
 from backend.app.rag.prompts import (
     NOT_FOUND_MESSAGE,
     SYSTEM_PROMPT,
     build_user_prompt,
     enhance_query_with_context,
 )
-from backend.app.rag.retrieval import RetrievalService, RetrievedChunk, format_context
 from backend.app.schemas import SchemeSummary
 
 logger = logging.getLogger(__name__)
@@ -23,7 +19,7 @@ logger = logging.getLogger(__name__)
 
 @dataclass
 class RetrievalResult:
-    chunks: list[RetrievedChunk]
+    chunks: list  # Deferred: RetrievedChunk
     retrieval_seconds: float
     has_context: bool
 
@@ -31,14 +27,17 @@ class RetrievalResult:
 class RagPipeline:
     def __init__(
         self,
-        retriever: FaissRetriever,
+        retriever,  # Deferred: FaissRetriever
         schemes: list[SchemeSummary],
-        groq_client: GroqChatClient,
+        groq_client,  # Deferred: GroqChatClient
         *,
         top_k: int = 5,
         min_score: float = 0.4,
         min_top_score: float = 0.45,
     ) -> None:
+        # Import heavy modules only when pipeline is instantiated
+        from backend.app.rag.retrieval import RetrievalService
+        
         self.retrieval = RetrievalService(
             retriever,
             schemes,
@@ -62,6 +61,8 @@ class RagPipeline:
         query: str,
         retrieval: RetrievalResult,
     ) -> list[dict[str, str]]:
+        from backend.app.rag.retrieval import format_context
+        
         context = format_context(retrieval.chunks)
         messages: list[dict[str, str]] = [{"role": "system", "content": SYSTEM_PROMPT}]
         messages.append(
