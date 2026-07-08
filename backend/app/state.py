@@ -5,7 +5,8 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from typing import Any
 
-from pipeline.pipeline.faiss_index import FaissRetriever
+# Defer heavy imports to reduce startup memory
+# from pipeline.pipeline.faiss_index import FaissRetriever
 
 from backend.app.schemas import SchemeSummary
 from backend.app.session.store import SessionStore
@@ -16,7 +17,7 @@ class AppState:
     ready: bool = False
     startup_seconds: float | None = None
     schemes: list[SchemeSummary] = field(default_factory=list)
-    retriever: FaissRetriever | None = None
+    retriever: Any = None  # Deferred: FaissRetriever
     index_manifest: dict[str, Any] = field(default_factory=dict)
     embedding_model_name: str = "all-MiniLM-L6-v2"
     load_error: str | None = None

@@ -11,7 +11,6 @@ if str(PROJECT_ROOT) not in sys.path:
 
 from backend.app.config import get_settings
 from backend.app.lifespan import lifespan
-from backend.app.routers import chat, health, schemes
 from backend.app.state import AppState
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s %(message)s")
@@ -28,12 +27,9 @@ app = FastAPI(
 app.state.settings = settings
 app.state.app_state = AppState()
 
-# Log CORS configuration for debugging
+# Log CORS configuration for debugging (minimal logging to avoid memory issues)
 cors_origins = settings.cors_origin_list
-logging.info(f"CORS Origins configured: {cors_origins}")
-logging.info(f"CORS allow_credentials: True")
-logging.info(f"CORS allow_methods: ['*']")
-logging.info(f"CORS allow_headers: ['*']")
+print(f"CORS Origins: {cors_origins}")
 
 app.add_middleware(
     CORSMiddleware,
@@ -42,6 +38,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Defer router imports to reduce startup memory
+from backend.app.routers import health, schemes, chat
 
 app.include_router(health.router)
 app.include_router(schemes.router)
