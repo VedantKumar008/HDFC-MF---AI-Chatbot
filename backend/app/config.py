@@ -3,12 +3,15 @@ import os
 
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
-# Hardcode the project root based on the actual workspace location
-PROJECT_ROOT = Path(r"c:\HDFC  MF - AI Chatbot\hdfc-mf-ai-assistant")
-
-# Force absolute paths at module level
-DATA_PATH = (PROJECT_ROOT / "data" / "schemes").resolve()
-FAISS_PATH = (PROJECT_ROOT / "data" / "faiss").resolve()
+# Get project root - works in both development and production
+# In production (Render), the repo is cloned to /opt/render/project/src
+# In development, it's the local workspace
+if os.getenv("RENDER"):
+    # Production: Render deployment
+    PROJECT_ROOT = Path("/opt/render/project/src")
+else:
+    # Development: local workspace
+    PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 
 
 class Settings(BaseSettings):
@@ -26,13 +29,21 @@ class Settings(BaseSettings):
     rag_min_score: float = 0.4
     rag_min_top_score: float = 0.45
 
-    @property
-    def data_path(self) -> Path:
-        return DATA_PATH
+    # Allow environment variables to override paths
+    data_path: Path | None = None
+    faiss_path: Path | None = None
 
     @property
-    def faiss_path(self) -> Path:
-        return FAISS_PATH
+    def resolved_data_path(self) -> Path:
+        if self.data_path:
+            return Path(self.data_path).resolve()
+        return (PROJECT_ROOT / "data" / "schemes").resolve()
+
+    @property
+    def resolved_faiss_path(self) -> Path:
+        if self.faiss_path:
+            return Path(self.faiss_path).resolve()
+        return (PROJECT_ROOT / "data" / "faiss").resolve()
 
     @property
     def cors_origin_list(self) -> list[str]:

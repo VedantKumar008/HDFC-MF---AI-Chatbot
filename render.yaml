@@ -4,18 +4,20 @@ services:
     runtime: python
     plan: free
     rootDir: .
-    buildCommand: pip install -r requirements.txt
-    startCommand: uvicorn backend.app.main:app --host 0.0.0.0 --port $PORT
+    buildCommand: cd backend && pip install -r requirements.txt
+    startCommand: cd backend && uvicorn app.main:app --host 0.0.0.0 --port $PORT
     healthCheckPath: /health
     envVars:
       - key: PYTHON_VERSION
         value: "3.11.11"
+      - key: RENDER
+        value: "true"
       - key: CORS_ORIGINS
-        value: https://your-vercel-app.vercel.app,http://localhost:3000
+        value: https://hdfc-mf-ai-chatbot.vercel.app,http://localhost:3000
       - key: DATA_PATH
-        value: ./data/schemes
+        value: /opt/render/project/src/data/schemes
       - key: FAISS_PATH
-        value: ./data/faiss
+        value: /opt/render/project/src/data/faiss
       - key: EMBEDDING_MODEL
         value: all-MiniLM-L6-v2
       - key: RAG_TOP_K

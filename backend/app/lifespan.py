@@ -25,10 +25,10 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
 
     logger.info("Starting backend startup sequence...")
     try:
-        state.schemes = load_scheme_summaries(settings.data_path)
+        state.schemes = load_scheme_summaries(settings.resolved_data_path)
         retriever, manifest = load_knowledge_base(
-            schemes_dir=settings.data_path,
-            faiss_dir=settings.faiss_path,
+            schemes_dir=settings.resolved_data_path,
+            faiss_dir=settings.resolved_faiss_path,
             embedding_model=settings.embedding_model,
         )
         state.retriever = retriever
