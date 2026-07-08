@@ -1,0 +1,77 @@
+name: Daily Data Refresh
+
+on:
+  schedule:
+    # Run daily at 9:00 AM IST (3:30 AM UTC)
+    - cron: '30 3 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  refresh-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run scraper
+        run: |
+          python -m scraper.scraper
+      
+      - name: Verify scheme count
+        run: |
+          SCHEME_COUNT=$(ls data/schemes/*.json | wc -l)
+          if [ "$SCHEME_COUNT" -ne 21 ]; then
+            echo "Error: Expected 21 schemes, found $SCHEME_COUNT"
+            exit 1
+          fi
+          echo "✅ Verified 21 schemes scraped"
+      
+      - name: Build FAISS index
+        run: |
+          python -m pipeline.pipeline
+      
+      - name: Verify index artifacts
+        run: |
+          if [ ! -f "data/faiss/index.faiss" ]; then
+            echo "Error: index.faiss not found"
+            exit 1
+          fi
+          if [ ! -f "data/faiss/chunks.json" ]; then
+            echo "Error: chunks.json not found"
+            exit 1
+          fi
+          if [ ! -f "data/faiss/manifest.json" ]; then
+            echo "Error: manifest.json not found"
+            exit 1
+          fi
+          echo "✅ All index artifacts verified"
+      
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --quiet || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/schemes/ data/faiss/
+          git commit -m "Daily data refresh: $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
+      
+      - name: No changes detected
+        if: steps.git-check.outputs.changed != 'true'
+        run: |
+          echo "No data changes detected. Skipping commit."

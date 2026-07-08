@@ -1,0 +1,2021 @@
+{
+  "id": "hdfc-dividend-yield-fund-direct-growth",
+  "scheme_name": "HDFC Dividend Yield Fund Direct Growth",
+  "fund_name": "HDFC Dividend Yield Fund",
+  "groww_url": "https://groww.in/mutual-funds/hdfc-dividend-yield-fund-direct-growth",
+  "scraped_at": "2026-07-08T05:10:57.517813+00:00",
+  "category": "Equity",
+  "sub_category": "Thematic",
+  "super_category": "HDFC Dividend Yield Fund",
+  "scheme_type": "Growth",
+  "plan_type": "Direct",
+  "description": "The scheme seeks to provide capital appreciation and/or dividend distribution by predominantly investing in a well-diversified portfolio of equity and equity related instruments of dividend yielding companies.",
+  "fund_objective": "The scheme seeks to provide capital appreciation and/or dividend distribution by predominantly investing in a well-diversified portfolio of equity and equity related instruments of dividend yielding companies.",
+  "nav": 26.854,
+  "nav_date": "07-Jul-2026",
+  "aum": 5610.7916,
+  "expense_ratio": 0.85,
+  "exit_load": "Exit load of 1% if redeemed within 1 year.",
+  "risk_level": "Moderately High",
+  "fund_manager": "Gopal Agrawal",
+  "fund_manager_details": [
+    {
+      "person_name": "Priya Ranjan",
+      "education": "Mr. Ranjan is B.E(Computer Science) and PGDBM (Finance).",
+      "experience": "He has over 14 years of experience in equity research.",
+      "date_from": "2022-04-30T18:30:00.000Z",
+      "funds_managed": [
+        {
+          "scheme_name": "HDFC Gilt Fund Direct Growth",
+          "scheme_code": "119116",
+          "search_id": "hdfc-gilt-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Dividend Yield Fund Direct Growth",
+          "scheme_code": "148609",
+          "search_id": "hdfc-dividend-yield-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Defence Fund Direct Growth",
+          "scheme_code": "151750",
+          "search_id": "hdfc-defence-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Transportation and Logistics Fund Direct Growth",
+          "scheme_code": "151901",
+          "search_id": "hdfc-transportation-and-logistics-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "person_name": "Gopal Agrawal",
+      "education": "Mr.Agrawal is a  B.E and MBM.",
+      "experience": "Prior to joining HDFC Mutual Fund he has worked with DSP Mutual Fund, Tata AMC, Mirae Asset Mutual Fund ,SBI Mutual Fund, Kotak Securities, HDFC Securities, IDBI Capital, UTI Securities and IPCL.",
+      "date_from": "2020-11-26T18:30:00.000Z",
+      "funds_managed": [
+        {
+          "scheme_name": "HDFC Value Fund Direct Plan Growth",
+          "scheme_code": "118935",
+          "search_id": "hdfc-value-fund-direct-plan-growth"
+        },
+        {
+          "scheme_name": "HDFC Balanced Advantage Fund Direct Growth",
+          "scheme_code": "118968",
+          "search_id": "hdfc-balanced-advantage-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Large and Mid Cap Fund Direct Growth",
+          "scheme_code": "130498",
+          "search_id": "hdfc-large-and-mid-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Dividend Yield Fund Direct Growth",
+          "scheme_code": "148609",
+          "search_id": "hdfc-dividend-yield-fund-direct-growth"
+        }
+      ]
+    }
+  ],
+  "holdings": [
+    {
+      "company_name": "HDFC Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 5.18,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "ICICI Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 4.8,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Axis Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 3.74,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Larsen & Toubro Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.69,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bharti Airtel Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.56,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Reliance Industries Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.35,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Maruti Suzuki India Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.27,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Kotak Mahindra Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.12,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Tech Mahindra Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.12,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Sun Pharmaceutical Industries Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.02,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NTPC Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.0,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bajaj Auto Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.96,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "SBI Life Insurance Company Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.96,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "State Bank of India",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.89,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Sterlite Technologies Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.82,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Infosys Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.72,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "HCL Technologies Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.52,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Eicher Motors Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.48,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Tata Steel Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.48,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Indusind Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.47,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Tata Consultancy Services Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.33,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Coal India Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.31,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Info Edge (India) Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.28,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Aster DM Healthcare Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.24,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "ITC Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.18,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Cipla Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.09,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Hindustan Unilever Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.09,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Oil & Natural Gas Corporation Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.09,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Ambuja Cements Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.04,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Hindustan Petroleum Corporation Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.02,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Cummins India Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.99,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Apollo Hospitals Enterprise Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.98,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "CESC Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.97,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Balrampur Chini Mills Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.92,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Power Finance Corporation Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.92,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "PVR Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.91,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "UPL Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.87,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Nestle India Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.81,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Cholamandalam Financial Holdings Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.8,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Embassy Office Parks REIT",
+      "sector_name": "Real Estate",
+      "nature_name": "REALEST",
+      "instrument_name": "Real Estate Investment Trusts",
+      "rating": null,
+      "corpus_per": 0.77,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Hindustan Aeronautics Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.73,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "TD Power Systems Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.73,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "AIA Engineering Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.72,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Tata Communications Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.7,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Siemens Ltd",
+      "sector_name": "Diversified",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.69,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "RHI Magnesita India Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.69,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Siemens Energy India Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.69,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bharat Electronics Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.66,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Wipro Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.66,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Glenmark Pharmaceuticals Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.63,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Vardhman Textiles Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.63,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "HDFC Life Insurance Co Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.63,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Fusion Micro Finance Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.63,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Finolex Cables Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.61,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "RBL Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.61,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "REC Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.6,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "BEML Land Assets Ltd.",
+      "sector_name": "Real Estate",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.6,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GAIL (India) Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.59,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "PNB Housing Finance Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.59,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Apollo Tyres Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.56,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Biocon Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.56,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "VRL Logistics Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.56,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Blue Dart Express Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.55,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Godrej Consumer Products Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.55,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NHPC Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.55,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bosch Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.52,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bharti Hexacom Ltd.",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.52,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Kaynes Technology India Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.5,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bajaj Finserv Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.48,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Divi's Laboratories Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.48,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Sagility India Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.48,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Canara Bank",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.47,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "UTI Asset Management Company Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.47,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Tata Motors Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.47,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Indraprastha Gas Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.46,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Asian Paints Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.45,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Tata Motors Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.42,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Cyient Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.4,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Lupin Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.4,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Gland Pharma Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.4,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Whirlpool Of India Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.39,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Mahindra & Mahindra Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.38,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Dilip Buildcon Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.38,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Interglobe Aviation Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.37,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Emami Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.36,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "SKF India (Industrial) Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.36,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Mahindra Holidays & Resorts India Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.35,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Medi Assist Healthcare Services Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.33,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GHCL Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.3,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Emcure Pharmaceuticals Ltd.",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.3,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "PNC Infratech Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.29,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "KEC International Ltd",
+      "sector_name": "Diversified",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.27,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "SKF India Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.27,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Star Health & Allied Insurance Co. Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.27,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "STL Networks Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.27,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Anthem Biosciences Ltd.",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.25,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bharat Highways InvIT",
+      "sector_name": "Industrials",
+      "nature_name": "REALEST",
+      "instrument_name": "Infrastructure Investment Trust",
+      "rating": null,
+      "corpus_per": 0.23,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Endurance Technologies Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.22,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Diffusion Engineers Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.21,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Castrol India Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.2,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "INOX INDIA LIMITED EQ",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.19,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "West Coast Paper Mills Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.18,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Repo",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "instrument_name": "Repo",
+      "rating": null,
+      "corpus_per": 0.18,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Gujarat Pipavav Port Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.17,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Voltamp Transformers Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.17,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Electronics Mart India Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.17,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "AFCONS INFRASTRUCTURE LIMITED EQ",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.16,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Chambal Fertilisers & Chemicals Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.15,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Quess Corp Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.15,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "DCX Systems Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.15,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Birlasoft Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.14,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Sun TV Network Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.14,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Techno Electric & Engineering Company Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.14,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Go Fashion (India) Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.14,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "EPACK Durable Ltd.",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.14,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Popular Vehicles And Services Ltd.",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.14,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Jio Financial Services Limited",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.13,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Rishabh Instruments Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.13,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "DAM Capital Advisors Ltd.",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.13,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "BEML Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.12,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Timken India Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.11,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Stanley Lifestyles Ltd.",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.11,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Sai Silks (Kalamandir) Ltd.",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.09,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GHCL Textiles Ltd.",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.07,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "ITC Hotels Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.06,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bluspring Enterprises Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.06,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Digitide Solutions Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.06,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Sonata Software Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.04,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "LatentView Analytics Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.03,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Kwality Walls India Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.01,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NLC India Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.00085371,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Net Payables",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "instrument_name": "Net Payables",
+      "rating": null,
+      "corpus_per": -0.06,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    }
+  ],
+  "asset_allocation": {
+    "by_sector": [
+      {
+        "name": "Financial",
+        "percentage": 27.89
+      },
+      {
+        "name": "Technology",
+        "percentage": 15.11
+      },
+      {
+        "name": "Industrials",
+        "percentage": 13.55
+      },
+      {
+        "name": "Consumer Discretionary",
+        "percentage": 11.15
+      },
+      {
+        "name": "Energy & Utilities",
+        "percentage": 9.9109
+      },
+      {
+        "name": "Healthcare",
+        "percentage": 8.35
+      },
+      {
+        "name": "Materials",
+        "percentage": 6.67
+      },
+      {
+        "name": "Consumer Staples",
+        "percentage": 4.92
+      },
+      {
+        "name": "Real Estate",
+        "percentage": 1.37
+      },
+      {
+        "name": "Diversified",
+        "percentage": 0.96
+      },
+      {
+        "name": "Unspecified",
+        "percentage": 0.12
+      }
+    ],
+    "by_nature": [
+      {
+        "name": "EQUITY",
+        "percentage": 98.8809
+      },
+      {
+        "name": "REALEST",
+        "percentage": 1.0
+      },
+      {
+        "name": "CASH",
+        "percentage": 0.12
+      }
+    ],
+    "by_instrument": [
+      {
+        "name": "Equity",
+        "percentage": 98.8809
+      },
+      {
+        "name": "Real Estate Investment Trusts",
+        "percentage": 0.77
+      },
+      {
+        "name": "Infrastructure Investment Trust",
+        "percentage": 0.23
+      },
+      {
+        "name": "Repo",
+        "percentage": 0.18
+      },
+      {
+        "name": "Net Payables",
+        "percentage": -0.06
+      }
+    ],
+    "by_market_cap": [
+      {
+        "name": "Unspecified",
+        "percentage": 100.0009
+      }
+    ]
+  },
+  "historical_returns": {
+    "simple_return": {
+      "scheme_code": "148609",
+      "return1d": 0.3640457872,
+      "return1w": 0.6776598148,
+      "return1m": 3.2429928191,
+      "return3m": 10.9948947827,
+      "return6m": -2.4548604778,
+      "return9m": 0.6019110676,
+      "return1y": -0.483774933,
+      "return2y": 1.115438424017,
+      "return3y": 51.719051401338,
+      "return4y": 98.707088720463,
+      "return5y": 115.40072492952,
+      "return7y": null,
+      "return10y": null,
+      "return_default": null,
+      "mean_return": null,
+      "sharpe_ratio": null,
+      "beta": null,
+      "standard_deviation": null,
+      "risk_rating": null,
+      "risk": null,
+      "return_since_created": 167.42,
+      "cat_return3m": null,
+      "cat_return6m": null,
+      "cat_return1y": 4.312866904131063,
+      "cat_return3y": 71.04465080728173,
+      "cat_return5y": 143.11898456908415,
+      "cat_return10y": null,
+      "cat_return_since_launch": null,
+      "rank3m": null,
+      "rank6m": null,
+      "rank1yr": null,
+      "rank3yr": null,
+      "rank5yr": null,
+      "rank10yr": null,
+      "index_return1y": null,
+      "index_return3y": null,
+      "index_return5y": null,
+      "index_return_since_launch": null,
+      "alpha": null,
+      "sortino_ratio": null,
+      "information_ratio": null,
+      "plan_id": null,
+      "vro_return_ytd": null,
+      "vro_return9m": null,
+      "vro_return2y": null,
+      "vro_return4y": null,
+      "vro_return_date": null,
+      "vro_modified_ts": null,
+      "vro_row_number": null
+    },
+    "sip_return": {
+      "scheme_code": "148609",
+      "return1d": null,
+      "return1w": null,
+      "return1m": null,
+      "return3m": 16.39082312018122,
+      "return6m": -3.4855827145137215,
+      "return9m": -4.0506786161056825,
+      "return1y": -3.016079430433269,
+      "return2y": -0.4892767938169935,
+      "return3y": 5.827126611411663,
+      "return4y": 11.025964298709129,
+      "return5y": 12.724468734280487,
+      "return7y": null,
+      "return10y": null,
+      "return_default": null,
+      "mean_return": null,
+      "sharpe_ratio": null,
+      "beta": null,
+      "standard_deviation": null,
+      "risk_rating": null,
+      "risk": null,
+      "return_since_created": null,
+      "cat_return3m": null,
+      "cat_return6m": null,
+      "cat_return1y": null,
+      "cat_return3y": null,
+      "cat_return5y": null,
+      "cat_return10y": null,
+      "cat_return_since_launch": null,
+      "rank3m": null,
+      "rank6m": null,
+      "rank1yr": null,
+      "rank3yr": null,
+      "rank5yr": null,
+      "rank10yr": null,
+      "index_return1y": null,
+      "index_return3y": null,
+      "index_return5y": null,
+      "index_return_since_launch": null,
+      "alpha": null,
+      "sortino_ratio": null,
+      "information_ratio": null,
+      "plan_id": null,
+      "vro_return_ytd": null,
+      "vro_return9m": null,
+      "vro_return2y": null,
+      "vro_return4y": null,
+      "vro_return_date": null,
+      "vro_modified_ts": null,
+      "vro_row_number": null
+    },
+    "return_stats": [
+      {
+        "scheme_code": "148609",
+        "return1d": -0.09,
+        "return1w": 1.71,
+        "return1m": 3.53,
+        "return3m": 9.54,
+        "return6m": -1.84,
+        "return9m": null,
+        "return1y": -0.19,
+        "return2y": null,
+        "return3y": 14.8,
+        "return4y": null,
+        "return5y": 16.54,
+        "return7y": null,
+        "return10y": null,
+        "return_default": 64.51,
+        "mean_return": null,
+        "sharpe_ratio": 0.5722410551,
+        "beta": 1.02080570532129,
+        "standard_deviation": 15.864637358220229,
+        "risk_rating": 6,
+        "risk": "Very High",
+        "return_since_created": 19.4679049746,
+        "cat_return3m": 4.029477140522222,
+        "cat_return6m": 1.4918757404444445,
+        "cat_return1y": 4.312866904131056,
+        "cat_return3y": 19.592285477784213,
+        "cat_return5y": 19.4438448290803,
+        "cat_return10y": 15.233951394522775,
+        "cat_return_since_launch": null,
+        "rank3m": 3,
+        "rank6m": 4,
+        "rank1yr": 6,
+        "rank3yr": 5,
+        "rank5yr": 3,
+        "rank10yr": null,
+        "index_return1y": -0.7199542091,
+        "index_return3y": 16.870795947566,
+        "index_return5y": 13.661375704845,
+        "index_return_since_launch": null,
+        "alpha": 1.71993696883217,
+        "sortino_ratio": 0.800717804340211,
+        "information_ratio": 0.670544,
+        "plan_id": null,
+        "vro_return_ytd": null,
+        "vro_return9m": null,
+        "vro_return2y": null,
+        "vro_return4y": null,
+        "vro_return_date": null,
+        "vro_modified_ts": null,
+        "vro_row_number": null
+      }
+    ],
+    "stats": [
+      {
+        "type": "FUND_RETURN",
+        "stat_1y": -0.19,
+        "stat_3y": 14.8,
+        "stat_5y": 16.54,
+        "stat_all": 64.51,
+        "title": "Fund Returns"
+      },
+      {
+        "type": "CATEGORY_AVG_RETURN",
+        "stat_1y": 4.312866904131056,
+        "stat_3y": 19.592285477784213,
+        "stat_5y": 19.4438448290803,
+        "stat_all": null,
+        "title": "Category Average"
+      },
+      {
+        "type": "RANK_WITHIN_CATEGORY",
+        "stat_1y": 6,
+        "stat_3y": 5,
+        "stat_5y": 3,
+        "stat_all": null,
+        "title": "Rank Within Category"
+      }
+    ],
+    "portfolio_turnover": 6.0,
+    "historic_fund_expense": [
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-30T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-29T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-28T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-27T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-26T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-25T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-24T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-23T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-22T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-21T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-20T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-19T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      }
+    ]
+  },
+  "tax_information": {
+    "tax_impact": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "category_description": "Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.",
+    "stamp_duty": "0.005% (from July 1st, 2020)",
+    "exit_load": "Exit load of 1% if redeemed within 1 year.",
+    "historic_exit_loads": [
+      {
+        "cdsc": true,
+        "note": "Exit load of 1% if redeemed within 1 year.",
+        "as_on_date": "2020-11-27T00:00:00",
+        "front_load": 0,
+        "back_load": 0
+      }
+    ],
+    "html_tax_implication": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "html_exit_tax_section": ""
+  },
+  "faq_content": [
+    {
+      "question": "c_return_analysis",
+      "answer": "Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y"
+    },
+    {
+      "question": "expense_analysis",
+      "answer": "Lower expense ratio: 0.85%"
+    },
+    {
+      "question": "Understand terms",
+      "answer": "Annualised returns Average of the yearly returns of a mutual fund over a given period. Absolute returns The total return of a mutual fund over a given period."
+    }
+  ],
+  "additional_text": {
+    "about": "",
+    "investment_objective": "The scheme seeks to provide capital appreciation and/or dividend distribution by predominantly investing in a well-diversified portfolio of equity and equity related instruments of dividend yielding companies.",
+    "fund_house_section": "",
+    "fund_management_section": "PR Priya Ranjan May 2022 - Present View details Education Mr. Ranjan is B.E(Computer Science) and PGDBM (Finance). Experience He has over 14 years of experience in equity research. Also manages these schemes HDFC Gilt Fund Direct Growth HDFC Dividend Yield Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth GA Gopal Agrawal Nov 2020 - Present View details Education Mr.Agrawal is a B.E and MBM. Experience Prior to joining HDFC Mutual Fund he has worked with DSP Mutual Fund, Tata AMC, Mirae Asset Mutual Fund ,SBI Mutual Fund, Kotak Securities, HDFC Securities, IDBI Capital, UTI Securities and IPCL. Also manages these schemes HDFC Value Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Large and Mid Cap Fund Direct Growth HDFC Dividend Yield Fund Direct Growth",
+    "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
+    "returns_and_rankings_section": "",
+    "meta_description": "HDFC Dividend Yield Fund Direct Growth is Thematic Equity mutual fund with risk-reward rating of null/10. It has track record of 6 years, with three year return of 14.8. Risk is Very High",
+    "category_helper_text": "Invests in stocks as per Contrarian investment strategy",
+    "blocked_reason": null,
+    "brochure_link": "https://files.hdfcfund.com/s3fs-public/Others/2020-11/Leaflet%20-%20HDFC%20Dividend%20Yield%20Fund.pdf",
+    "scheme_info_link": "https://www.hdfcfund.com/",
+    "sid_url": "https://www.hdfcfund.com"
+  },
+  "investment_terms": {
+    "min_investment_amount": 100.0,
+    "min_sip_investment": 100.0,
+    "max_sip_investment": 999999999.0,
+    "min_withdrawal": 100.0,
+    "sip_allowed": true,
+    "lumpsum_allowed": true,
+    "lock_in": {
+      "years": null,
+      "months": null,
+      "days": null
+    },
+    "launch_date": "18-Dec-2020",
+    "isin": "INF179KC1AO6",
+    "plan_type": "Direct",
+    "additional_details": {}
+  },
+  "amc_info": {
+    "amc": "HDFC",
+    "name": "HDFC Mutual Fund",
+    "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
+    "phone": "022 – 66316333",
+    "aum": 934237.7677,
+    "launch_date": "1999-12-09T18:30:00.690Z",
+    "email": "shareholders.relations@hdfcfund.com",
+    "rank": "2",
+    "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
+    "more_description": "<p>It is the largest asset management company (AMC) in the country (as per average assets under\nmanagement as on 31 December 2018 of Rs. 339,178 Crores</p>\n<p>Launched on the 10th of December, 1999, HDFC Asset Management Company Ltd. is among the\nmost popular fund houses in India. The company offers an extensive range of mutual funds and is\nhome to some of the most trustworthy fund managers who ensure that your hard-earned money is\ninvested in the right schemes. Whether you seek growth funds, income funds, or even retirement\nfunds, HDFC AMC Ltd. has it all.</p>\n\n<p>HDFC Mutual Fund has left no stone unturned to cater to investors from all walks of life. Be it any\nfinancial goal – long-term, short-term, retirement, tax-saving and so on – HDFC has that plan for you.</p>",
+    "sponsor": null,
+    "trustee": null,
+    "assets_managed": null,
+    "service_officer": null,
+    "vro_amc_id": null,
+    "vro_amc_short_name": null,
+    "vro_ceo": null,
+    "vro_cio": null,
+    "vro_city": null,
+    "vro_fax": null,
+    "vro_management_trustee": null,
+    "vro_pin": null,
+    "vro_website": "http://www.hdfcfund.com",
+    "vro_investor_relation_officer": null,
+    "vro_owner_type": null,
+    "vro_modified_ts": null,
+    "vro_row_number": null
+  },
+  "benchmark": "NIFTY 500 Total Return Index",
+  "raw_sections": {
+    "analysis": [
+      {
+        "scheme_code": "148609",
+        "analysis_type": "CONS",
+        "analysis_subject": "c_return_analysis",
+        "analysis_desc": "Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y",
+        "analysis_data": "c_return_analysis",
+        "rating": null
+      },
+      {
+        "scheme_code": "148609",
+        "analysis_type": "PROS",
+        "analysis_subject": "expense_analysis",
+        "analysis_desc": "Lower expense ratio: 0.85%",
+        "analysis_data": "0.85",
+        "rating": null
+      }
+    ],
+    "category_info": {
+      "category": "Equity",
+      "category_helper_text": "Invests in stocks as per Contrarian investment strategy",
+      "definition": "",
+      "sub_type": "Contra",
+      "tax_impact": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+      "description": "Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.",
+      "tags": null
+    },
+    "historic_fund_expense": [
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-30T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-29T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-28T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-27T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-26T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-25T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-24T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-23T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-22T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-21T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-20T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-19T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-18T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-17T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-16T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-15T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-14T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-13T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-12T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.86,
+        "as_on_date": "2026-06-11T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.86,
+        "as_on_date": "2026-06-10T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-09T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.86,
+        "as_on_date": "2026-06-08T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.85,
+        "as_on_date": "2026-06-07T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      }
+    ],
+    "fund_news": null,
+    "peer_comparison": []
+  }
+}

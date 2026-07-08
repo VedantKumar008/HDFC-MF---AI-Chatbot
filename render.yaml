@@ -1,0 +1,30 @@
+services:
+  - type: web
+    name: hdfc-mf-ai-assistant-api
+    runtime: python
+    plan: free
+    rootDir: .
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.11"
+      - key: CORS_ORIGINS
+        value: https://your-vercel-app.vercel.app,http://localhost:3000
+      - key: DATA_PATH
+        value: ./data/schemes
+      - key: FAISS_PATH
+        value: ./data/faiss
+      - key: EMBEDDING_MODEL
+        value: all-MiniLM-L6-v2
+      - key: RAG_TOP_K
+        value: "5"
+      - key: RAG_MIN_SCORE
+        value: "0.4"
+      - key: RAG_MIN_TOP_SCORE
+        value: "0.45"
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: llama-3.3-70b-versatile

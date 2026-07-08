@@ -1,0 +1,1174 @@
+{
+  "id": "hdfc-defence-fund-direct-growth",
+  "scheme_name": "HDFC Defence Fund Direct Growth",
+  "fund_name": "HDFC Defence Fund",
+  "groww_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth",
+  "scraped_at": "2026-07-08T05:11:34.665230+00:00",
+  "category": "Equity",
+  "sub_category": "Thematic",
+  "super_category": "HDFC Defence Fund",
+  "scheme_type": "Growth",
+  "plan_type": "Direct",
+  "description": "The scheme seeks to provide long-term capital appreciation by investing predominantly in equity and equity related securities of Defence & allied sector companies.",
+  "fund_objective": "The scheme seeks to provide long-term capital appreciation by investing predominantly in equity and equity related securities of Defence & allied sector companies.",
+  "nav": 30.444,
+  "nav_date": "07-Jul-2026",
+  "aum": 9724.27,
+  "expense_ratio": 0.87,
+  "exit_load": "Exit load of 1%, if redeemed within 1 year.",
+  "risk_level": "Very High",
+  "fund_manager": "Dhruv Muchhal",
+  "fund_manager_details": [
+    {
+      "person_name": "Priya Ranjan",
+      "education": "Mr. Ranjan is B.E(Computer Science) and PGDBM (Finance).",
+      "experience": "He has over 14 years of experience in equity research.",
+      "date_from": "2025-04-17T18:30:00.000Z",
+      "funds_managed": [
+        {
+          "scheme_name": "HDFC Gilt Fund Direct Growth",
+          "scheme_code": "119116",
+          "search_id": "hdfc-gilt-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Dividend Yield Fund Direct Growth",
+          "scheme_code": "148609",
+          "search_id": "hdfc-dividend-yield-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Defence Fund Direct Growth",
+          "scheme_code": "151750",
+          "search_id": "hdfc-defence-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Transportation and Logistics Fund Direct Growth",
+          "scheme_code": "151901",
+          "search_id": "hdfc-transportation-and-logistics-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "person_name": "Dhruv Muchhal",
+      "education": "Mr. Dhruv has done B.Com, CA and CFA",
+      "experience": "Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
+      "date_from": "2023-06-21T18:30:00.000Z",
+      "funds_managed": [
+        {
+          "scheme_name": "HDFC Flexi Cap Direct Plan Growth",
+          "scheme_code": "118955",
+          "search_id": "hdfc-equity-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Value Fund Direct Plan Growth",
+          "scheme_code": "118935",
+          "search_id": "hdfc-value-fund-direct-plan-growth"
+        },
+        {
+          "scheme_name": "HDFC Low Duration Fund Direct Growth",
+          "scheme_code": "118942",
+          "search_id": "hdfc-low-duration-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Focused Fund Direct Growth",
+          "scheme_code": "118950",
+          "search_id": "hdfc-focused-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Floating Rate Debt Fund Direct Plan Growth",
+          "scheme_code": "118961",
+          "search_id": "hdfc-floating-rate-i-come-fund-short-term-fund-wp-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Balanced Advantage Fund Direct Growth",
+          "scheme_code": "118968",
+          "search_id": "hdfc-balanced-advantage-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Dynamic Debt Fund Direct Plan Growth",
+          "scheme_code": "119075",
+          "search_id": "hdfc-high-interest-fund-dynamic-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Medium Term Debt Fund Direct Growth",
+          "scheme_code": "119081",
+          "search_id": "hdfc-medium-term-debt-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Income Fund Direct Growth",
+          "scheme_code": "119069",
+          "search_id": "hdfc-i-come-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Infrastructure Fund Direct Growth",
+          "scheme_code": "118979",
+          "search_id": "hdfc-infrastructure-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Corporate Bond Fund Direct Plan Growth",
+          "scheme_code": "118987",
+          "search_id": "hdfc-medium-term-opportunities-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Hybrid Debt Fund Direct Growth",
+          "scheme_code": "119118",
+          "search_id": "hdfc-monthly-i-come-plan-long-term-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Mid Cap Fund Direct Growth",
+          "scheme_code": "118989",
+          "search_id": "hdfc-mid-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Equity Savings Direct Plan Growth",
+          "scheme_code": "119128",
+          "search_id": "hdfc-equity-savings-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Multi Asset Allocation Fund Direct Growth",
+          "scheme_code": "119131",
+          "search_id": "hdfc-multi-asset-allocation-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Hybrid Equity Fund Direct Plan Growth",
+          "scheme_code": "119062",
+          "search_id": "hdfc-premier-multi-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Short Term Debt Fund Direct Plan Growth",
+          "scheme_code": "119016",
+          "search_id": "hdfc-short-term-opportunities-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
+          "scheme_code": "119060",
+          "search_id": "hdfc-elss-tax-saver-fund-direct-plan-growth"
+        },
+        {
+          "scheme_name": "HDFC Large Cap Fund Direct Growth",
+          "scheme_code": "119018",
+          "search_id": "hdfc-large-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Credit Risk Debt Fund Direct Growth",
+          "scheme_code": "128051",
+          "search_id": "hdfc-corporate-debt-opportunities-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Banking and PSU Debt Fund Direct Growth",
+          "scheme_code": "128629",
+          "search_id": "hdfc-banking-and-psu-debt-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Arbitrage Fund Direct Growth",
+          "scheme_code": "129052",
+          "search_id": "hdfc-arbitrage-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Large and Mid Cap Fund Direct Growth",
+          "scheme_code": "130498",
+          "search_id": "hdfc-large-and-mid-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Small Cap Fund Direct Growth",
+          "scheme_code": "130503",
+          "search_id": "hdfc-small-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Ultra Short Term Fund Direct Growth",
+          "scheme_code": "145034",
+          "search_id": "hdfc-ultra-short-term-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Liquid Direct Plan Growth",
+          "scheme_code": "119091",
+          "search_id": "hdfc-liquid-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Overnight Fund Direct Growth",
+          "scheme_code": "119110",
+          "search_id": "hdfc-overnight-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Money Market Fund Direct Growth",
+          "scheme_code": "119092",
+          "search_id": "hdfc-money-market-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Savings Fund Equity Plan Direct Growth",
+          "scheme_code": "136094",
+          "search_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
+          "scheme_code": "136464",
+          "search_id": "hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
+          "scheme_code": "136465",
+          "search_id": "hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Housing Opportunities Fund Direct Growth",
+          "scheme_code": "141924",
+          "search_id": "hdfc-housing-opportunities-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Banking & Financial Services Fund Direct Growth",
+          "scheme_code": "148986",
+          "search_id": "hdfc-banking-financial-services-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Multi Cap Fund Direct Growth",
+          "scheme_code": "149368",
+          "search_id": "hdfc-multi-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Business Cycle Fund Direct Growth",
+          "scheme_code": "150805",
+          "search_id": "hdfc-business-cycle-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Long Duration Debt Fund Direct Growth",
+          "scheme_code": "151313",
+          "search_id": "hdfc-long-duration-debt-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC MNC Fund Direct Growth",
+          "scheme_code": "151458",
+          "search_id": "hdfc-mnc-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Defence Fund Direct Growth",
+          "scheme_code": "151750",
+          "search_id": "hdfc-defence-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Consumption Fund Direct Growth",
+          "scheme_code": "151804",
+          "search_id": "hdfc-consumption-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Transportation and Logistics Fund Direct Growth",
+          "scheme_code": "151901",
+          "search_id": "hdfc-transportation-and-logistics-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Technology Fund Direct Growth",
+          "scheme_code": "152059",
+          "search_id": "hdfc-technology-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Pharma And Healthcare Fund Direct Growth",
+          "scheme_code": "152082",
+          "search_id": "hdfc-pharma-and-healthcare-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Manufacturing Fund Direct Growth",
+          "scheme_code": "152600",
+          "search_id": "hdfc-manufacturing-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Children's Fund Direct Plan",
+          "scheme_code": "119066",
+          "search_id": "hdfc-children's-fund-direct-plan"
+        },
+        {
+          "scheme_name": "HDFC Innovation Fund Direct Growth",
+          "scheme_code": "153620",
+          "search_id": "hdfc-innovation-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Diversified Equity All Cap Active FoF Direct Growth",
+          "scheme_code": "153860",
+          "search_id": "hdfc-diversified-equity-all-cap-active-fof-direct-growth"
+        }
+      ]
+    },
+    {
+      "person_name": "Rahul Baijal",
+      "education": "Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering",
+      "experience": "Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.",
+      "date_from": "2025-04-17T18:30:00.000Z",
+      "funds_managed": [
+        {
+          "scheme_name": "HDFC Large Cap Fund Direct Growth",
+          "scheme_code": "119018",
+          "search_id": "hdfc-large-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Business Cycle Fund Direct Growth",
+          "scheme_code": "150805",
+          "search_id": "hdfc-business-cycle-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Defence Fund Direct Growth",
+          "scheme_code": "151750",
+          "search_id": "hdfc-defence-fund-direct-growth"
+        }
+      ]
+    }
+  ],
+  "holdings": [
+    {
+      "company_name": "Bharat Electronics Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 15.48,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bharat Forge Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 14.39,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Hindustan Aeronautics Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 12.06,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Solar Industries India Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 11.97,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "MTAR Technologies Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 6.08,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Astra Microwave Products Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 5.93,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "BEML Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 5.06,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Eicher Motors Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 4.07,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bharat Dynamics Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 4.03,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Premier Explosives Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 3.31,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Mazagon Dock Shipbuilders Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.91,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Centum Electronics Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.53,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Cyient DLM Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.38,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bosch Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.31,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Data Patterns (India) Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.2,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Repo",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "instrument_name": "Repo",
+      "rating": null,
+      "corpus_per": 1.89,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "SEDEMAC Mechatronics Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.88,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Aequs Ltd.",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.79,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Power Mech Projects Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.78,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "ideaForge Technology Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.28,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Rishabh Instruments Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.21,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "JNK India Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.21,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Tata Motors Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.2,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Diffusion Engineers Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.19,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Net Payables",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "instrument_name": "Net Payables",
+      "rating": null,
+      "corpus_per": -0.14,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    }
+  ],
+  "asset_allocation": {
+    "by_sector": [
+      {
+        "name": "Industrials",
+        "percentage": 55.48
+      },
+      {
+        "name": "Consumer Discretionary",
+        "percentage": 20.77
+      },
+      {
+        "name": "Materials",
+        "percentage": 15.28
+      },
+      {
+        "name": "Technology",
+        "percentage": 6.72
+      },
+      {
+        "name": "Unspecified",
+        "percentage": 1.75
+      }
+    ],
+    "by_nature": [
+      {
+        "name": "EQUITY",
+        "percentage": 98.25
+      },
+      {
+        "name": "CASH",
+        "percentage": 1.75
+      }
+    ],
+    "by_instrument": [
+      {
+        "name": "Equity",
+        "percentage": 98.25
+      },
+      {
+        "name": "Repo",
+        "percentage": 1.89
+      },
+      {
+        "name": "Net Payables",
+        "percentage": -0.14
+      }
+    ],
+    "by_market_cap": [
+      {
+        "name": "Unspecified",
+        "percentage": 100.0
+      }
+    ]
+  },
+  "historical_returns": {
+    "simple_return": {
+      "scheme_code": "151750",
+      "return1d": 0.061810729,
+      "return1w": 2.006433854,
+      "return1m": 7.4515283843,
+      "return3m": 30.4742512938,
+      "return6m": 27.1044258027,
+      "return9m": 22.1088570408,
+      "return1y": 17.3297730307,
+      "return2y": 26.394082597082,
+      "return3y": 202.885278188084,
+      "return4y": null,
+      "return5y": null,
+      "return7y": null,
+      "return10y": null,
+      "return_default": null,
+      "mean_return": null,
+      "sharpe_ratio": null,
+      "beta": null,
+      "standard_deviation": null,
+      "risk_rating": null,
+      "risk": null,
+      "return_since_created": 207.58,
+      "cat_return3m": null,
+      "cat_return6m": null,
+      "cat_return1y": 1.683742031761959,
+      "cat_return3y": 56.1292890734993,
+      "cat_return5y": 127.52829935214689,
+      "cat_return10y": null,
+      "cat_return_since_launch": null,
+      "rank3m": null,
+      "rank6m": null,
+      "rank1yr": null,
+      "rank3yr": null,
+      "rank5yr": null,
+      "rank10yr": null,
+      "index_return1y": null,
+      "index_return3y": null,
+      "index_return5y": null,
+      "index_return_since_launch": null,
+      "alpha": null,
+      "sortino_ratio": null,
+      "information_ratio": null,
+      "plan_id": null,
+      "vro_return_ytd": null,
+      "vro_return9m": null,
+      "vro_return2y": null,
+      "vro_return4y": null,
+      "vro_return_date": null,
+      "vro_modified_ts": null,
+      "vro_row_number": null
+    },
+    "sip_return": {
+      "scheme_code": "151750",
+      "return1d": null,
+      "return1w": null,
+      "return1m": null,
+      "return3m": 124.56950635077662,
+      "return6m": 62.77223896194164,
+      "return9m": 38.983439432225374,
+      "return1y": 27.314423532280287,
+      "return2y": 21.68576912045791,
+      "return3y": null,
+      "return4y": null,
+      "return5y": null,
+      "return7y": null,
+      "return10y": null,
+      "return_default": null,
+      "mean_return": null,
+      "sharpe_ratio": null,
+      "beta": null,
+      "standard_deviation": null,
+      "risk_rating": null,
+      "risk": null,
+      "return_since_created": null,
+      "cat_return3m": null,
+      "cat_return6m": null,
+      "cat_return1y": null,
+      "cat_return3y": null,
+      "cat_return5y": null,
+      "cat_return10y": null,
+      "cat_return_since_launch": null,
+      "rank3m": null,
+      "rank6m": null,
+      "rank1yr": null,
+      "rank3yr": null,
+      "rank5yr": null,
+      "rank10yr": null,
+      "index_return1y": null,
+      "index_return3y": null,
+      "index_return5y": null,
+      "index_return_since_launch": null,
+      "alpha": null,
+      "sortino_ratio": null,
+      "information_ratio": null,
+      "plan_id": null,
+      "vro_return_ytd": null,
+      "vro_return9m": null,
+      "vro_return2y": null,
+      "vro_return4y": null,
+      "vro_return_date": null,
+      "vro_modified_ts": null,
+      "vro_row_number": null
+    },
+    "return_stats": [
+      {
+        "scheme_code": "151750",
+        "return1d": -1.4,
+        "return1w": -0.19,
+        "return1m": 6.01,
+        "return3m": 26.13,
+        "return6m": 22.79,
+        "return9m": null,
+        "return1y": 16.25,
+        "return2y": null,
+        "return3y": 43.59,
+        "return4y": null,
+        "return5y": null,
+        "return7y": null,
+        "return10y": null,
+        "return_default": null,
+        "mean_return": null,
+        "sharpe_ratio": 0,
+        "beta": 0,
+        "standard_deviation": 0,
+        "risk_rating": 6,
+        "risk": "Very High",
+        "return_since_created": 43.2310732302,
+        "cat_return3m": 2.5656679740026664,
+        "cat_return6m": -1.8938418510786885,
+        "cat_return1y": 1.6837420317619618,
+        "cat_return3y": 16.009830982472828,
+        "cat_return5y": 17.871031512501187,
+        "cat_return10y": 13.5931085900705,
+        "cat_return_since_launch": null,
+        "rank3m": 1,
+        "rank6m": 1,
+        "rank1yr": 2,
+        "rank3yr": 1,
+        "rank5yr": null,
+        "rank10yr": null,
+        "index_return1y": null,
+        "index_return3y": null,
+        "index_return5y": null,
+        "index_return_since_launch": null,
+        "alpha": 0,
+        "sortino_ratio": 0,
+        "information_ratio": 0,
+        "plan_id": null,
+        "vro_return_ytd": null,
+        "vro_return9m": null,
+        "vro_return2y": null,
+        "vro_return4y": null,
+        "vro_return_date": null,
+        "vro_modified_ts": null,
+        "vro_row_number": null
+      }
+    ],
+    "stats": [
+      {
+        "type": "FUND_RETURN",
+        "stat_1y": 16.25,
+        "stat_3y": 43.59,
+        "stat_5y": null,
+        "stat_all": null,
+        "title": "Fund Returns"
+      },
+      {
+        "type": "CATEGORY_AVG_RETURN",
+        "stat_1y": 1.6837420317619618,
+        "stat_3y": 16.009830982472828,
+        "stat_5y": 17.871031512501187,
+        "stat_all": null,
+        "title": "Category Average"
+      },
+      {
+        "type": "RANK_WITHIN_CATEGORY",
+        "stat_1y": 2,
+        "stat_3y": 1,
+        "stat_5y": null,
+        "stat_all": null,
+        "title": "Rank Within Category"
+      }
+    ],
+    "portfolio_turnover": 16.0,
+    "historic_fund_expense": [
+      {
+        "expense_ratio": 0.87,
+        "as_on_date": "2026-06-30T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-29T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-28T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-27T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-26T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-25T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-24T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.87,
+        "as_on_date": "2026-06-23T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.87,
+        "as_on_date": "2026-06-22T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-21T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-20T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-19T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      }
+    ]
+  },
+  "tax_information": {
+    "tax_impact": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "category_description": "Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.",
+    "stamp_duty": "0.005% (from July 1st, 2020)",
+    "exit_load": "Exit load of 1%, if redeemed within 1 year.",
+    "historic_exit_loads": [
+      {
+        "cdsc": true,
+        "note": "Exit load of 1%, if redeemed within 1 year.",
+        "as_on_date": "2023-05-19T00:00:00",
+        "front_load": 0,
+        "back_load": 0
+      }
+    ],
+    "html_tax_implication": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "html_exit_tax_section": ""
+  },
+  "faq_content": [
+    {
+      "question": "expense_analysis",
+      "answer": "Lower expense ratio: 0.87%"
+    },
+    {
+      "question": "p_return_analysis",
+      "answer": "Consistently higher annualised returns than category average for the past 1Y and 3Y"
+    },
+    {
+      "question": "rank_analysis",
+      "answer": "Consistently top ranked fund"
+    },
+    {
+      "question": "Understand terms",
+      "answer": "Annualised returns Average of the yearly returns of a mutual fund over a given period. Absolute returns The total return of a mutual fund over a given period."
+    }
+  ],
+  "additional_text": {
+    "about": "",
+    "investment_objective": "The scheme seeks to provide long-term capital appreciation by investing predominantly in equity and equity related securities of Defence & allied sector companies.",
+    "fund_house_section": "",
+    "fund_management_section": "PR Priya Ranjan Apr 2025 - Present View details Education Mr. Ranjan is B.E(Computer Science) and PGDBM (Finance). Experience He has over 14 years of experience in equity research. Also manages these schemes HDFC Gilt Fund Direct Growth HDFC Dividend Yield Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth DM Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Low Duration Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Rate Debt Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Debt Fund Direct Plan Growth HDFC Medium Term Debt Fund Direct Growth HDFC Income Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Hybrid Debt Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Hybrid Equity Fund Direct Plan Growth HDFC Short Term Debt Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Debt Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large and Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Duration Debt Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth RB Rahul Baijal Apr 2025 - Present View details Education Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering Experience Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank. Also manages these schemes HDFC Large Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Defence Fund Direct Growth",
+    "minimum_investments_section": "Min. for 1st investment Not Supported Min. for 2nd investment Not Supported Min. for SIP ₹100",
+    "returns_and_rankings_section": "",
+    "meta_description": "HDFC Defence Fund Direct Growth is Thematic Equity mutual fund with risk-reward rating of null/10. It has track record of 3 years, with three year return of 43.59. Risk is Very High",
+    "category_helper_text": "Invests in stocks as per Contrarian investment strategy",
+    "blocked_reason": "The fund house has blocked one-time investments in this fund. You can explore similar funds from the ‘Peer Comparison’ section.",
+    "brochure_link": null,
+    "scheme_info_link": null,
+    "sid_url": "https://www.hdfcfund.com"
+  },
+  "investment_terms": {
+    "min_investment_amount": 100.0,
+    "min_sip_investment": 100.0,
+    "max_sip_investment": 5000.0,
+    "min_withdrawal": 100.0,
+    "sip_allowed": true,
+    "lumpsum_allowed": false,
+    "lock_in": {
+      "years": null,
+      "months": null,
+      "days": null
+    },
+    "launch_date": "02-Jun-2023",
+    "isin": "INF179KC1GI5",
+    "plan_type": "Direct",
+    "additional_details": {
+      "lock_in_yrs": null,
+      "isTaxSaverFund": false,
+      "min_age": null,
+      "exit_age": null,
+      "max_amt": 25000,
+      "days": null,
+      "lump_sum_not_allowed_reason": null,
+      "sip_not_allowed_reason": null,
+      "redeem_not_allowed_reason": null,
+      "max_age": null,
+      "max_lumpsum_amount": null,
+      "max_sip_amount": 25000,
+      "compliance_date": "2026-05-04"
+    }
+  },
+  "amc_info": {
+    "amc": "HDFC",
+    "name": "HDFC Mutual Fund",
+    "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
+    "phone": "022 – 66316333",
+    "aum": 934237.7677,
+    "launch_date": "1999-12-09T18:30:00.422Z",
+    "email": "shareholders.relations@hdfcfund.com",
+    "rank": "2",
+    "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
+    "more_description": "<p>It is the largest asset management company (AMC) in the country (as per average assets under\nmanagement as on 31 December 2018 of Rs. 339,178 Crores</p>\n<p>Launched on the 10th of December, 1999, HDFC Asset Management Company Ltd. is among the\nmost popular fund houses in India. The company offers an extensive range of mutual funds and is\nhome to some of the most trustworthy fund managers who ensure that your hard-earned money is\ninvested in the right schemes. Whether you seek growth funds, income funds, or even retirement\nfunds, HDFC AMC Ltd. has it all.</p>\n\n<p>HDFC Mutual Fund has left no stone unturned to cater to investors from all walks of life. Be it any\nfinancial goal – long-term, short-term, retirement, tax-saving and so on – HDFC has that plan for you.</p>",
+    "sponsor": null,
+    "trustee": null,
+    "assets_managed": null,
+    "service_officer": null,
+    "vro_amc_id": null,
+    "vro_amc_short_name": null,
+    "vro_ceo": null,
+    "vro_cio": null,
+    "vro_city": null,
+    "vro_fax": null,
+    "vro_management_trustee": null,
+    "vro_pin": null,
+    "vro_website": "http://www.hdfcfund.com",
+    "vro_investor_relation_officer": null,
+    "vro_owner_type": null,
+    "vro_modified_ts": null,
+    "vro_row_number": null
+  },
+  "benchmark": "Nifty India Defence Total Return Index",
+  "raw_sections": {
+    "analysis": [
+      {
+        "scheme_code": "151750",
+        "analysis_type": "PROS",
+        "analysis_subject": "expense_analysis",
+        "analysis_desc": "Lower expense ratio: 0.87%",
+        "analysis_data": "0.87",
+        "rating": null
+      },
+      {
+        "scheme_code": "151750",
+        "analysis_type": "PROS",
+        "analysis_subject": "p_return_analysis",
+        "analysis_desc": "Consistently higher annualised returns than category average for the past 1Y and 3Y",
+        "analysis_data": "p_return_analysis",
+        "rating": null
+      },
+      {
+        "scheme_code": "151750",
+        "analysis_type": "PROS",
+        "analysis_subject": "rank_analysis",
+        "analysis_desc": "Consistently top ranked fund",
+        "analysis_data": "rank_analysis",
+        "rating": null
+      }
+    ],
+    "category_info": {
+      "category": "Equity",
+      "category_helper_text": "Invests in stocks as per Contrarian investment strategy",
+      "definition": "",
+      "sub_type": "Contra",
+      "tax_impact": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+      "description": "Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.",
+      "tags": null
+    },
+    "historic_fund_expense": [
+      {
+        "expense_ratio": 0.87,
+        "as_on_date": "2026-06-30T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-29T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-28T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-27T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-26T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-25T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-24T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.87,
+        "as_on_date": "2026-06-23T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.87,
+        "as_on_date": "2026-06-22T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-21T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-20T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-19T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-18T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-17T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-16T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-15T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-14T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-13T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-12T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.89,
+        "as_on_date": "2026-06-11T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.89,
+        "as_on_date": "2026-06-10T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.88,
+        "as_on_date": "2026-06-09T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.89,
+        "as_on_date": "2026-06-08T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.89,
+        "as_on_date": "2026-06-07T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      }
+    ],
+    "fund_news": null,
+    "peer_comparison": []
+  }
+}

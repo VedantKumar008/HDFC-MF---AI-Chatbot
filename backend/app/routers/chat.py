@@ -1,0 +1,129 @@
+"""Streaming chat endpoint powered by RAG + Groq."""
+
+from __future__ import annotations
+
+import json
+import logging
+from collections.abc import AsyncIterator
+
+from fastapi import APIRouter, HTTPException, Request
+from fastapi.responses import StreamingResponse
+
+from backend.app.compliance.detector import ComplianceDetector
+from backend.app.rag.pipeline import RagPipeline
+from backend.app.rag.prompts import NOT_FOUND_MESSAGE
+from backend.app.schemas import ChatRequest
+
+router = APIRouter(tags=["chat"])
+logger = logging.getLogger(__name__)
+
+
+def _build_pipeline(request: Request) -> RagPipeline:
+    state = request.app.state.app_state
+    settings = request.app.state.settings
+
+    if not state.ready or state.retriever is None:
+        raise HTTPException(
+            status_code=503,
+            detail="Backend is still loading. Please retry shortly.",
+        )
+    if not settings.groq_api_key:
+        raise HTTPException(
+            status_code=503,
+            detail="GROQ_API_KEY is not configured on the backend.",
+        )
+
+    from backend.app.rag.groq_client import GroqChatClient
+
+    groq_client = GroqChatClient(api_key=settings.groq_api_key, model=settings.groq_model)
+    return RagPipeline(
+        retriever=state.retriever,
+        schemes=state.schemes,
+        groq_client=groq_client,
+        top_k=settings.rag_top_k,
+        min_score=settings.rag_min_score,
+        min_top_score=settings.rag_min_top_score,
+    )
+
+
+async def _sse_stream(request: Request, payload: ChatRequest) -> AsyncIterator[str]:
+    state = request.app.state.app_state
+    pipeline = _build_pipeline(request)
+    compliance = ComplianceDetector()
+    
+    # Phase 6: Get or create session
+    session = state.session_store.get_or_create_session(payload.session_id)
+    
+    try:
+        # Phase 5: Compliance check before retrieval
+        query_result = compliance.check_query(payload.message)
+        if query_result.action.value != "allow":
+            logger.info(f"Query blocked: {query_result.reason}")
+            # Store user message even if blocked
+            session.add_message("user", payload.message)
+            yield _sse_event("blocked", {"reason": query_result.reason})
+            yield _sse_event("token", {"content": query_result.message})
+            # Store assistant response
+            session.add_message("assistant", query_result.message)
+            yield _sse_event("done", {"session_id": payload.session_id})
+            return
+
+        retrieval = pipeline.retrieve(payload.message)
+        yield _sse_event(
+            "retrieval",
+            {
+                "retrieval_seconds": round(retrieval.retrieval_seconds, 4),
+                "chunk_count": len(retrieval.chunks),
+                "has_context": retrieval.has_context,
+            },
+        )
+
+        # Phase 5: Compliance check after retrieval (anti-hallucination)
+        retrieval_result = compliance.check_retrieval(retrieval.has_context, len(retrieval.chunks))
+        if retrieval_result.action.value != "allow":
+            logger.info(f"Retrieval blocked: {retrieval_result.reason}")
+            # Store user message
+            session.add_message("user", payload.message)
+            yield _sse_event("blocked", {"reason": retrieval_result.reason})
+            yield _sse_event("token", {"content": retrieval_result.message})
+            # Store assistant response
+            session.add_message("assistant", retrieval_result.message)
+            yield _sse_event("done", {"session_id": payload.session_id})
+            return
+
+        # Phase 6: Get conversation history for context
+        history = session.get_recent_messages(limit=5)
+        
+        # Store user message
+        session.add_message("user", payload.message)
+        
+        # Stream response with history
+        full_response = ""
+        for token in pipeline.stream_answer(payload.message, retrieval=retrieval, history=history):
+            full_response += token
+            yield _sse_event("token", {"content": token})
+        
+        # Store assistant response
+        session.add_message("assistant", full_response)
+
+        yield _sse_event("done", {"session_id": payload.session_id})
+    except Exception as exc:
+        logger.exception("Chat stream failed")
+        yield _sse_event("error", {"message": str(exc)})
+
+
+def _sse_event(event: str, data: dict) -> str:
+    return f"event: {event}\ndata: {json.dumps(data, ensure_ascii=False)}\n\n"
+
+
+@router.post("/chat")
+async def chat(request: Request, payload: ChatRequest) -> StreamingResponse:
+    return StreamingResponse(
+        _sse_stream(request, payload),
+        media_type="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+            "X-Accel-Buffering": "no",
+        },
+    )

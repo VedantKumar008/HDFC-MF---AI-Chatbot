@@ -1,0 +1,2439 @@
+{
+  "id": "hdfc-monthly-i-come-plan-long-term-plan-direct-growth",
+  "scheme_name": "HDFC Hybrid Debt Fund Direct Growth",
+  "fund_name": "HDFC Hybrid Debt Fund",
+  "groww_url": "https://groww.in/mutual-funds/hdfc-monthly-i-come-plan-long-term-plan-direct-growth",
+  "scraped_at": "2026-07-08T05:11:26.088055+00:00",
+  "category": "Hybrid",
+  "sub_category": "Conservative Hybrid",
+  "super_category": "HDFC Hybrid Debt Fund",
+  "scheme_type": "Growth",
+  "plan_type": "Direct",
+  "description": "The scheme seeks to generate income/capital appreciation by investing primarily in debt securities, money market instruments and moderate exposure to equities.",
+  "fund_objective": "The scheme seeks to generate income/capital appreciation by investing primarily in debt securities, money market instruments and moderate exposure to equities.",
+  "nav": 90.2664,
+  "nav_date": "07-Jul-2026",
+  "aum": 3218.0677,
+  "expense_ratio": 1.17,
+  "exit_load": "Exit load for units in excess of 15% of the investment, 1% will be charged for redemption within 1 year",
+  "risk_level": "Moderately High",
+  "fund_manager": "Prashant Jain, Shobhit Mehrotra",
+  "fund_manager_details": [
+    {
+      "person_name": "Srinivasan Ramamurthy",
+      "education": "Mr. Ramamurthy is an engineer by qualification from Jadavpur University and has done his MBA from IIM - Calcutta.",
+      "experience": "Prior to joining HDFC Asset Management Company Limited, he has worked with Mahindra Mutual Fund, IDBI Federal Life Insurance, IIFL Capital Limited, Maybank Kim Eng, Credit Suisse and KPMG Advisory.",
+      "date_from": "2021-12-13T18:30:00.000Z",
+      "funds_managed": [
+        {
+          "scheme_name": "HDFC Balanced Advantage Fund Direct Growth",
+          "scheme_code": "118968",
+          "search_id": "hdfc-balanced-advantage-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Hybrid Debt Fund Direct Growth",
+          "scheme_code": "119118",
+          "search_id": "hdfc-monthly-i-come-plan-long-term-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Equity Savings Direct Plan Growth",
+          "scheme_code": "119128",
+          "search_id": "hdfc-equity-savings-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Multi Asset Allocation Fund Direct Growth",
+          "scheme_code": "119131",
+          "search_id": "hdfc-multi-asset-allocation-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Hybrid Equity Fund Direct Plan Growth",
+          "scheme_code": "119062",
+          "search_id": "hdfc-premier-multi-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Savings Fund Equity Plan Direct Growth",
+          "scheme_code": "136094",
+          "search_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
+          "scheme_code": "136464",
+          "search_id": "hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
+          "scheme_code": "136465",
+          "search_id": "hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Housing Opportunities Fund Direct Growth",
+          "scheme_code": "141924",
+          "search_id": "hdfc-housing-opportunities-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Multi Asset Active FoF Direct Growth",
+          "scheme_code": "148903",
+          "search_id": "hdfc-multi-asset-active-fof-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Diversified Equity All Cap Active FoF Direct Growth",
+          "scheme_code": "153860",
+          "search_id": "hdfc-diversified-equity-all-cap-active-fof-direct-growth"
+        }
+      ]
+    },
+    {
+      "person_name": "Anupam Joshi",
+      "education": "Mr. Joshi is a PGDM in Business Management.",
+      "experience": "Prior to joining HDFC Mutual Fund he has worked with IDFC AMC, Principal Asset Management Company and ICAP India Pvt. Ltd.",
+      "date_from": "2026-03-06T18:30:00.000Z",
+      "funds_managed": [
+        {
+          "scheme_name": "HDFC Low Duration Fund Direct Growth",
+          "scheme_code": "118942",
+          "search_id": "hdfc-low-duration-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Income Fund Direct Growth",
+          "scheme_code": "119069",
+          "search_id": "hdfc-i-come-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Corporate Bond Fund Direct Plan Growth",
+          "scheme_code": "118987",
+          "search_id": "hdfc-medium-term-opportunities-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Hybrid Debt Fund Direct Growth",
+          "scheme_code": "119118",
+          "search_id": "hdfc-monthly-i-come-plan-long-term-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Hybrid Equity Fund Direct Plan Growth",
+          "scheme_code": "119062",
+          "search_id": "hdfc-premier-multi-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Savings Fund Equity Plan Direct Growth",
+          "scheme_code": "136094",
+          "search_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
+          "scheme_code": "136464",
+          "search_id": "hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
+          "scheme_code": "136465",
+          "search_id": "hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC FMP 1861D March 2022 Direct Growth",
+          "scheme_code": "149924",
+          "search_id": "hdfc-fmp-1861d-march-2022-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC FMP 1876D March 2022 Direct Growth",
+          "scheme_code": "150002",
+          "search_id": "hdfc-fmp-1876d-march-2022-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Nifty G sec Dec 2026 Index Direct Growth",
+          "scheme_code": "150845",
+          "search_id": "hdfc-nifty-g-sec-dec-2026-index-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Nifty G Sec July 2031 Index Direct Growth",
+          "scheme_code": "150847",
+          "search_id": "hdfc-nifty-g-sec-july-2031-index-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Nifty G Sec Jun 2027 Index Direct Growth",
+          "scheme_code": "151181",
+          "search_id": "hdfc-nifty-g-sec-jun-2027-index-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Nifty G Sec Sep 2032 Index Direct Growth",
+          "scheme_code": "151183",
+          "search_id": "hdfc-nifty-g-sec-sep-2032-index-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Long Duration Debt Fund Direct Growth",
+          "scheme_code": "151313",
+          "search_id": "hdfc-long-duration-debt-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Nifty SDL Oct 2026 Index Fund Direct Growth",
+          "scheme_code": "151456",
+          "search_id": "hdfc-nifty-sdl-oct-2026-index-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Nifty G Sec Apr 2029 Index Fund Direct Growth",
+          "scheme_code": "151495",
+          "search_id": "hdfc-nifty-g-sec-apr-2029-index-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC NIFTY G Sec Jun 2036 Index Fund Direct Growth",
+          "scheme_code": "151489",
+          "search_id": "hdfc-nifty-g-sec-jun-2036-index-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC NIFTY SDL Plus G Sec Jun 2027 40:60 Index Fund Direct Growth",
+          "scheme_code": "151570",
+          "search_id": "hdfc-nifty-sdl-plus-g-sec-jun-2027-40:60-index-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC CRISIL IBX Financial Services 3 6 Months Debt Index Fund Direct Growth",
+          "scheme_code": "153517",
+          "search_id": "hdfc-crisil-ibx-financial-services-3-6-months-debt-index-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC CRISIL IBX Financial Services 9 12 Months Debt Index Fund Direct Growth",
+          "scheme_code": "154308",
+          "search_id": "hdfc-crisil-ibx-financial-services-9-12-months-debt-index-fund-direct-growth"
+        }
+      ]
+    },
+    {
+      "person_name": "Dhruv Muchhal",
+      "education": "Mr. Dhruv has done B.Com, CA and CFA",
+      "experience": "Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
+      "date_from": "2023-06-21T18:30:00.000Z",
+      "funds_managed": [
+        {
+          "scheme_name": "HDFC Flexi Cap Direct Plan Growth",
+          "scheme_code": "118955",
+          "search_id": "hdfc-equity-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Value Fund Direct Plan Growth",
+          "scheme_code": "118935",
+          "search_id": "hdfc-value-fund-direct-plan-growth"
+        },
+        {
+          "scheme_name": "HDFC Low Duration Fund Direct Growth",
+          "scheme_code": "118942",
+          "search_id": "hdfc-low-duration-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Focused Fund Direct Growth",
+          "scheme_code": "118950",
+          "search_id": "hdfc-focused-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Floating Rate Debt Fund Direct Plan Growth",
+          "scheme_code": "118961",
+          "search_id": "hdfc-floating-rate-i-come-fund-short-term-fund-wp-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Balanced Advantage Fund Direct Growth",
+          "scheme_code": "118968",
+          "search_id": "hdfc-balanced-advantage-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Dynamic Debt Fund Direct Plan Growth",
+          "scheme_code": "119075",
+          "search_id": "hdfc-high-interest-fund-dynamic-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Medium Term Debt Fund Direct Growth",
+          "scheme_code": "119081",
+          "search_id": "hdfc-medium-term-debt-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Income Fund Direct Growth",
+          "scheme_code": "119069",
+          "search_id": "hdfc-i-come-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Infrastructure Fund Direct Growth",
+          "scheme_code": "118979",
+          "search_id": "hdfc-infrastructure-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Corporate Bond Fund Direct Plan Growth",
+          "scheme_code": "118987",
+          "search_id": "hdfc-medium-term-opportunities-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Hybrid Debt Fund Direct Growth",
+          "scheme_code": "119118",
+          "search_id": "hdfc-monthly-i-come-plan-long-term-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Mid Cap Fund Direct Growth",
+          "scheme_code": "118989",
+          "search_id": "hdfc-mid-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Equity Savings Direct Plan Growth",
+          "scheme_code": "119128",
+          "search_id": "hdfc-equity-savings-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Multi Asset Allocation Fund Direct Growth",
+          "scheme_code": "119131",
+          "search_id": "hdfc-multi-asset-allocation-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Hybrid Equity Fund Direct Plan Growth",
+          "scheme_code": "119062",
+          "search_id": "hdfc-premier-multi-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Short Term Debt Fund Direct Plan Growth",
+          "scheme_code": "119016",
+          "search_id": "hdfc-short-term-opportunities-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
+          "scheme_code": "119060",
+          "search_id": "hdfc-elss-tax-saver-fund-direct-plan-growth"
+        },
+        {
+          "scheme_name": "HDFC Large Cap Fund Direct Growth",
+          "scheme_code": "119018",
+          "search_id": "hdfc-large-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Credit Risk Debt Fund Direct Growth",
+          "scheme_code": "128051",
+          "search_id": "hdfc-corporate-debt-opportunities-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Banking and PSU Debt Fund Direct Growth",
+          "scheme_code": "128629",
+          "search_id": "hdfc-banking-and-psu-debt-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Arbitrage Fund Direct Growth",
+          "scheme_code": "129052",
+          "search_id": "hdfc-arbitrage-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Large and Mid Cap Fund Direct Growth",
+          "scheme_code": "130498",
+          "search_id": "hdfc-large-and-mid-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Small Cap Fund Direct Growth",
+          "scheme_code": "130503",
+          "search_id": "hdfc-small-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Ultra Short Term Fund Direct Growth",
+          "scheme_code": "145034",
+          "search_id": "hdfc-ultra-short-term-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Liquid Direct Plan Growth",
+          "scheme_code": "119091",
+          "search_id": "hdfc-liquid-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Overnight Fund Direct Growth",
+          "scheme_code": "119110",
+          "search_id": "hdfc-overnight-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Money Market Fund Direct Growth",
+          "scheme_code": "119092",
+          "search_id": "hdfc-money-market-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Savings Fund Equity Plan Direct Growth",
+          "scheme_code": "136094",
+          "search_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
+          "scheme_code": "136464",
+          "search_id": "hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
+          "scheme_code": "136465",
+          "search_id": "hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Housing Opportunities Fund Direct Growth",
+          "scheme_code": "141924",
+          "search_id": "hdfc-housing-opportunities-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Banking & Financial Services Fund Direct Growth",
+          "scheme_code": "148986",
+          "search_id": "hdfc-banking-financial-services-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Multi Cap Fund Direct Growth",
+          "scheme_code": "149368",
+          "search_id": "hdfc-multi-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Business Cycle Fund Direct Growth",
+          "scheme_code": "150805",
+          "search_id": "hdfc-business-cycle-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Long Duration Debt Fund Direct Growth",
+          "scheme_code": "151313",
+          "search_id": "hdfc-long-duration-debt-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC MNC Fund Direct Growth",
+          "scheme_code": "151458",
+          "search_id": "hdfc-mnc-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Defence Fund Direct Growth",
+          "scheme_code": "151750",
+          "search_id": "hdfc-defence-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Consumption Fund Direct Growth",
+          "scheme_code": "151804",
+          "search_id": "hdfc-consumption-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Transportation and Logistics Fund Direct Growth",
+          "scheme_code": "151901",
+          "search_id": "hdfc-transportation-and-logistics-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Technology Fund Direct Growth",
+          "scheme_code": "152059",
+          "search_id": "hdfc-technology-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Pharma And Healthcare Fund Direct Growth",
+          "scheme_code": "152082",
+          "search_id": "hdfc-pharma-and-healthcare-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Manufacturing Fund Direct Growth",
+          "scheme_code": "152600",
+          "search_id": "hdfc-manufacturing-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Children's Fund Direct Plan",
+          "scheme_code": "119066",
+          "search_id": "hdfc-children's-fund-direct-plan"
+        },
+        {
+          "scheme_name": "HDFC Innovation Fund Direct Growth",
+          "scheme_code": "153620",
+          "search_id": "hdfc-innovation-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Diversified Equity All Cap Active FoF Direct Growth",
+          "scheme_code": "153860",
+          "search_id": "hdfc-diversified-equity-all-cap-active-fof-direct-growth"
+        }
+      ]
+    }
+  ],
+  "holdings": [
+    {
+      "company_name": "GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 4.17,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "4.45% Government of India (30/10/2034)",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 3.19,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOI Sec 7.23 15/04/2039",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 3.11,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 34733 GOI 05AG54 7.09 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 2.91,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SERIES 134 8.30 LOA 25MR29 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 2.52,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 33071 GOI 19JU53 7.3 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 2.24,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOI Sec 7.18 24/07/2037",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 2.19,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOI - 6.68% (17/09/2031)",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 2.0,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 35840 GOI 15AP65 6.9 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 1.96,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "ICICI Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.95,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 36574 GOI 06OT35 6.48 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 1.95,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Net Current Assets",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "instrument_name": "Net Current Assets",
+      "rating": null,
+      "corpus_per": 1.7,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "ALTIUS TELECOM INFRASTRUCTURE TRUST 7.45 NCD 20AP35 FVRS1LAC",
+      "sector_name": "Real Estate",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 1.67,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "HDFC Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.62,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NATIONAL HIGHWAYS AUTHORITY OF INDIA SERIES VI 8.27 BD 28MR29 FVRS10LAC",
+      "sector_name": "Industrials",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 1.57,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "PIPELINE INFRASTRUCTURE LIMITED SR 3 7.96 NCD 11MR29 FVRS1LAC",
+      "sector_name": "Industrials",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 1.56,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 24A 7.5 BD 31AU26 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Floating Rate Bond",
+      "rating": null,
+      "corpus_per": 1.55,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "EXPORT IMPORT BANK OF INDIA SR Z01 7.45 BD 12AP28 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 1.55,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "BAJAJ HOUSING FINANCE LIMITED 8.05 NCD 08MY29 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 1.55,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "MUTHOOT FINANCE LIMITED RR NCD 26JL29 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 1.55,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "360 ONE PRIME LIMITED RR NCD 25JL28 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 1.55,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "POWER FINANCE CORPORATION LTD. SR 196 7.41 BD 25FB30 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 1.54,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR F 7.37 NCD 12MR35 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 1.51,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "REC LIMITED SR 201B 6.90 BD 31MR31 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 1.5,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 159 6.89 BD 19JL31 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 1.5,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 1.48,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "State Bank of India",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.35,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 36320 GOI 18AG55 7.24 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 1.33,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Axis Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.31,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "7.09% GOI 25-Nov-74",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 1.15,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 34208 GOI 08AP34 7.1 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 1.09,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 165 7.64 BD 28NV37 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Bonds",
+      "rating": null,
+      "corpus_per": 1.08,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "SIDDHIVINAYAK SECURITISATION TRUST SD TRUST PTC 15SEPT25",
+      "sector_name": "Unspecified",
+      "nature_name": "DEBT",
+      "instrument_name": "Securitised Debt",
+      "rating": null,
+      "corpus_per": 1.07,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOI Sec 7.36 12/09/2052",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 1.06,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Reliance Industries Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.03,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 32584 GOI 06FB33 7.26 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 0.94,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR SBM G SA - 5 8.15 BD 28MR29 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.92,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 35031 GOI 07OT34 6.79 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 0.92,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Larsen & Toubro Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.89,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Tata Power Company Ltd SR CGPLAU02 Debenture 9.90 27/08/2028",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 0.88,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SERIES VI 8.37 LOA 25MR29 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 0.79,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SERIES V 8.41 LOA 15MR29 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 0.79,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "REC LIMITED SR 180-B 8.30 BD 25JU29 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.79,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "TVS CREDIT SERVICES LIMITED 9.30 NCD 27JU29 FVRS1CR",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.79,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "LIC HOUSING FINANCE LIMITED TR- 359 7.95 LOA 29JN28 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 0.78,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GRASIM INDUSTRIES LIMITED SR I 7.50 LOA 10JU27 FVRS10LAC",
+      "sector_name": "Materials",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 0.78,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 24E 7.80 BD 15MR27 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 0.78,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD72 9.10 NCD 27JU31 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.78,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "POWER FINANCE CORPORATION LIMITED SR 237A 7.60 BD 13AP29 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.77,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "HDFC ERGO GENERAL INSURANCE COMPANY LIMITED 7.10 NCD 09NV31 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.76,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 179 7.44 BD 13JU34 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Bonds",
+      "rating": null,
+      "corpus_per": 0.76,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 35152 GOI 18NV39 6.92 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 0.76,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "HDFC BANK LIMITED SR Y005 6.83 NCD 08JN31 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.75,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "STATE BANK OF INDIA SR 2 7.36 BD 11JL39 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.75,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NTPC LIMITED SR 82 7.26 NCD 20MR40 FVRS1LAC",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.75,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR D 7.12 NCD 26DC34 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 0.75,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 189 6.78 BD 30AP30 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Bonds",
+      "rating": null,
+      "corpus_per": 0.75,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "BAJAJ FINANCE LIMITED 7.020 NCD 18AP31 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Bonds/NCDs",
+      "rating": null,
+      "corpus_per": 0.74,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NTPC LIMITED SR 83 6.84 NCD 09MY35 FVRS1LAC",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.74,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Kotak Mahindra Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.72,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NTPC Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.72,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "CENTRAL GOVERNMENT LOAN 30962 GOI 16DC61 6.95 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 0.71,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Sun Pharmaceutical Industries Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.7,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "CENTRAL GOVERNMENT LOAN 29633 GOI 17DC50 6.67 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 0.7,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bharti Airtel Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.68,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Repo",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "instrument_name": "Repo",
+      "rating": null,
+      "corpus_per": 0.67,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Embassy Office Parks REIT",
+      "sector_name": "Real Estate",
+      "nature_name": "REALEST",
+      "instrument_name": "Real Estate Investment Trusts",
+      "rating": null,
+      "corpus_per": 0.66,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 32014 GS19MAR2027 C STRIPS FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 0.61,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Tata Consultancy Services Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.6,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Infosys Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.58,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Power Grid Corporation of India Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.54,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Oil & Natural Gas Corporation Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.49,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "INDIAN RAILWAY FINANCE CORPORATION 8.79 BD 04MY30 FVRS10LAC LOA UPTO 03AG10",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Bonds/NCDs",
+      "rating": null,
+      "corpus_per": 0.48,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOI Sec 7.41 19/12/2036",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 0.48,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOI Sec 7.18 14/08/2033",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 0.47,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 7.61 BD 10AG29 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Bonds",
+      "rating": null,
+      "corpus_per": 0.46,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "ITC Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.45,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "HCL Technologies Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.44,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "SBI Life Insurance Company Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.43,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Lupin Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.42,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Hero Motocorp Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.38,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "CENTRAL GOVERNMENT LOAN 30734 GOI 15DC35 6.67 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 0.38,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "CENTRAL GOVERNMENT LOAN 23202 GOI 16SP34 6.19 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 0.37,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Cipla Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.35,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bajaj Auto Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.33,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "RURAL ELECTRIFICATION CORPORATION LIMITED SR 156 7.7 BD 10DC27 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.31,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "MAHINDRA RURAL HOUSING FINANCE LIMITED SR AA 8.35 NCD 24SP32 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.31,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Others Class A2 AIF",
+      "sector_name": "Unspecified",
+      "nature_name": "DEBT",
+      "instrument_name": "Alternative Investment Fund",
+      "rating": null,
+      "corpus_per": 0.31,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NHPC Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.29,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Power Finance Corporation Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.29,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 33002 GOI 12JU63 7.25 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 0.29,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Coal India Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.28,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Indus Towers Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.27,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Union Bank of India",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.26,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Hindustan Petroleum Corporation Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.24,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bharat Petroleum Corporation Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.23,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Escorts Kubota Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.18,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "The Great Eastern Shipping Company Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.18,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "JK Paper Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.18,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Mahindra CIE Automotive Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.17,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Gateway Distriparks Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.17,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "VAJRA 006 TRUST SENIOR TRANCHE A1 PTC 27FEB24",
+      "sector_name": "Unspecified",
+      "nature_name": "DEBT",
+      "instrument_name": "Securitised Debt",
+      "rating": null,
+      "corpus_per": 0.17,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "POWER FINANCE CORPORATION LTD. SR-103 8.94 LOA 25MR28 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Bonds",
+      "rating": null,
+      "corpus_per": 0.16,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "REC Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.16,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Goodyear India Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.15,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "CENTRAL GOVERNMENT LOAN 30951 GOI 15DC51 6.99 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 0.14,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "STATE DEVELOPMENT LOAN 33903 TN 31JN31 7.6 FV RS 100",
+      "sector_name": "Unspecified",
+      "nature_name": "DEBT",
+      "instrument_name": "State Development Loan",
+      "rating": null,
+      "corpus_per": 0.13,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bharat Highways InvIT",
+      "sector_name": "Industrials",
+      "nature_name": "REALEST",
+      "instrument_name": "Infrastructure Investment Trust",
+      "rating": null,
+      "corpus_per": 0.11,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "STATE DEVELOPMENT LOAN 33837 AP 17JN31 7.64 FV RS 100",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "State Development Loan",
+      "rating": null,
+      "corpus_per": 0.02,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOI 8.15 24/11/2026",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "Central Government Loan",
+      "rating": null,
+      "corpus_per": 0.01,
+      "market_cap": null,
+      "portfolio_date": "2026-05-30T18:30:00.000Z"
+    }
+  ],
+  "asset_allocation": {
+    "by_sector": [
+      {
+        "name": "Financial",
+        "percentage": 39.68
+      },
+      {
+        "name": "Entities",
+        "percentage": 36.61
+      },
+      {
+        "name": "Energy & Utilities",
+        "percentage": 6.09
+      },
+      {
+        "name": "Industrials",
+        "percentage": 4.48
+      },
+      {
+        "name": "Unspecified",
+        "percentage": 4.05
+      },
+      {
+        "name": "Technology",
+        "percentage": 2.57
+      },
+      {
+        "name": "Real Estate",
+        "percentage": 2.33
+      },
+      {
+        "name": "Healthcare",
+        "percentage": 1.47
+      },
+      {
+        "name": "Materials",
+        "percentage": 1.24
+      },
+      {
+        "name": "Consumer Discretionary",
+        "percentage": 1.03
+      },
+      {
+        "name": "Consumer Staples",
+        "percentage": 0.45
+      }
+    ],
+    "by_nature": [
+      {
+        "name": "DEBT",
+        "percentage": 77.83
+      },
+      {
+        "name": "EQUITY",
+        "percentage": 19.03
+      },
+      {
+        "name": "CASH",
+        "percentage": 2.37
+      },
+      {
+        "name": "REALEST",
+        "percentage": 0.77
+      }
+    ],
+    "by_instrument": [
+      {
+        "name": "GOI Securities",
+        "percentage": 36.6
+      },
+      {
+        "name": "Debenture",
+        "percentage": 20.39
+      },
+      {
+        "name": "Equity",
+        "percentage": 19.03
+      },
+      {
+        "name": "Non Convertible Debenture",
+        "percentage": 13.15
+      },
+      {
+        "name": "Bonds",
+        "percentage": 3.21
+      },
+      {
+        "name": "Net Current Assets",
+        "percentage": 1.7
+      },
+      {
+        "name": "Floating Rate Bond",
+        "percentage": 1.55
+      },
+      {
+        "name": "Securitised Debt",
+        "percentage": 1.24
+      },
+      {
+        "name": "Bonds/NCDs",
+        "percentage": 1.22
+      },
+      {
+        "name": "Repo",
+        "percentage": 0.67
+      },
+      {
+        "name": "Real Estate Investment Trusts",
+        "percentage": 0.66
+      },
+      {
+        "name": "Alternative Investment Fund",
+        "percentage": 0.31
+      },
+      {
+        "name": "State Development Loan",
+        "percentage": 0.15
+      },
+      {
+        "name": "Infrastructure Investment Trust",
+        "percentage": 0.11
+      },
+      {
+        "name": "Central Government Loan",
+        "percentage": 0.01
+      }
+    ],
+    "by_market_cap": [
+      {
+        "name": "Unspecified",
+        "percentage": 100.0
+      }
+    ]
+  },
+  "historical_returns": {
+    "simple_return": {
+      "scheme_code": "119118",
+      "return1d": 0.0430485472,
+      "return1w": 0.4908101265,
+      "return1m": 2.8909319333,
+      "return3m": 4.3651372367,
+      "return6m": 0.9350271956,
+      "return9m": 2.7186326297,
+      "return1y": 2.8506770814,
+      "return2y": 10.3318658245,
+      "return3y": 28.718095129332,
+      "return4y": 46.82541750254,
+      "return5y": 52.561167706361,
+      "return7y": null,
+      "return10y": 137.528449801905,
+      "return_default": null,
+      "mean_return": null,
+      "sharpe_ratio": null,
+      "beta": null,
+      "standard_deviation": null,
+      "risk_rating": null,
+      "risk": null,
+      "return_since_created": 240.589093,
+      "cat_return3m": null,
+      "cat_return6m": null,
+      "cat_return1y": 5.465055286360143,
+      "cat_return3y": 29.691734965191774,
+      "cat_return5y": 46.76657574666698,
+      "cat_return10y": null,
+      "cat_return_since_launch": null,
+      "rank3m": null,
+      "rank6m": null,
+      "rank1yr": null,
+      "rank3yr": null,
+      "rank5yr": null,
+      "rank10yr": null,
+      "index_return1y": null,
+      "index_return3y": null,
+      "index_return5y": null,
+      "index_return_since_launch": null,
+      "alpha": null,
+      "sortino_ratio": null,
+      "information_ratio": null,
+      "plan_id": null,
+      "vro_return_ytd": null,
+      "vro_return9m": null,
+      "vro_return2y": null,
+      "vro_return4y": null,
+      "vro_return_date": null,
+      "vro_modified_ts": null,
+      "vro_row_number": null
+    },
+    "sip_return": {
+      "scheme_code": "119118",
+      "return1d": null,
+      "return1w": null,
+      "return1m": null,
+      "return3m": 21.569490375786692,
+      "return6m": 10.53191268519846,
+      "return9m": 5.915519438072176,
+      "return1y": 5.176674552253358,
+      "return2y": 4.567796515038444,
+      "return3y": 6.155914908578507,
+      "return4y": 7.672468682169492,
+      "return5y": 8.13450630412731,
+      "return7y": null,
+      "return10y": 8.984937756886168,
+      "return_default": null,
+      "mean_return": null,
+      "sharpe_ratio": null,
+      "beta": null,
+      "standard_deviation": null,
+      "risk_rating": null,
+      "risk": null,
+      "return_since_created": null,
+      "cat_return3m": null,
+      "cat_return6m": null,
+      "cat_return1y": null,
+      "cat_return3y": null,
+      "cat_return5y": null,
+      "cat_return10y": null,
+      "cat_return_since_launch": null,
+      "rank3m": null,
+      "rank6m": null,
+      "rank1yr": null,
+      "rank3yr": null,
+      "rank5yr": null,
+      "rank10yr": null,
+      "index_return1y": null,
+      "index_return3y": null,
+      "index_return5y": null,
+      "index_return_since_launch": null,
+      "alpha": null,
+      "sortino_ratio": null,
+      "information_ratio": null,
+      "plan_id": null,
+      "vro_return_ytd": null,
+      "vro_return9m": null,
+      "vro_return2y": null,
+      "vro_return4y": null,
+      "vro_return_date": null,
+      "vro_modified_ts": null,
+      "vro_row_number": null
+    },
+    "return_stats": [
+      {
+        "scheme_code": "119118",
+        "return1d": -0.05,
+        "return1w": 0.44,
+        "return1m": 2.53,
+        "return3m": 3.76,
+        "return6m": 1.24,
+        "return9m": null,
+        "return1y": 2.81,
+        "return2y": null,
+        "return3y": 8.73,
+        "return4y": null,
+        "return5y": 8.8,
+        "return7y": null,
+        "return10y": 8.99,
+        "return_default": 9.6,
+        "mean_return": 5.72,
+        "sharpe_ratio": 0.5771805839,
+        "beta": 0,
+        "standard_deviation": 4.64200077371744,
+        "risk_rating": 4,
+        "risk": "Moderately High",
+        "return_since_created": 9.4962000805,
+        "cat_return3m": 1.56354484575,
+        "cat_return6m": 1.3940947431928572,
+        "cat_return1y": 5.46505528636014,
+        "cat_return3y": 9.05295380750376,
+        "cat_return5y": 7.975551847063688,
+        "cat_return10y": 7.840624658130519,
+        "cat_return_since_launch": null,
+        "rank3m": 19,
+        "rank6m": 19,
+        "rank1yr": 19,
+        "rank3yr": 15,
+        "rank5yr": 11,
+        "rank10yr": 7,
+        "index_return1y": null,
+        "index_return3y": null,
+        "index_return5y": null,
+        "index_return_since_launch": null,
+        "alpha": 0,
+        "sortino_ratio": 0.7692119921382436,
+        "information_ratio": 0,
+        "plan_id": null,
+        "vro_return_ytd": null,
+        "vro_return9m": null,
+        "vro_return2y": null,
+        "vro_return4y": null,
+        "vro_return_date": null,
+        "vro_modified_ts": null,
+        "vro_row_number": null
+      }
+    ],
+    "stats": [
+      {
+        "type": "FUND_RETURN",
+        "stat_1y": 2.81,
+        "stat_3y": 8.73,
+        "stat_5y": 8.8,
+        "stat_all": 9.6,
+        "title": "Fund Returns"
+      },
+      {
+        "type": "CATEGORY_AVG_RETURN",
+        "stat_1y": 5.46505528636014,
+        "stat_3y": 9.05295380750376,
+        "stat_5y": 7.975551847063688,
+        "stat_all": null,
+        "title": "Category Average"
+      },
+      {
+        "type": "RANK_WITHIN_CATEGORY",
+        "stat_1y": 19,
+        "stat_3y": 15,
+        "stat_5y": 11,
+        "stat_all": null,
+        "title": "Rank Within Category"
+      }
+    ],
+    "portfolio_turnover": 43.0,
+    "historic_fund_expense": [
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-30T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-29T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-28T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-27T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-26T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-25T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-24T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-23T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-22T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-21T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-20T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-19T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      }
+    ]
+  },
+  "tax_information": {
+    "tax_impact": "Returns are taxed as per your Income Tax slab.",
+    "category_description": "Invest predominantly in Government Securities(minimum 80% of total assets). They are relatively more risky than the other debt funds due to fluctuating interest rates.",
+    "stamp_duty": "0.005% (from July 1st, 2020)",
+    "exit_load": "Exit load for units in excess of 15% of the investment, 1% will be charged for redemption within 1 year",
+    "historic_exit_loads": [
+      {
+        "cdsc": true,
+        "note": "Exit load for units in excess of 15% of the investment, 1% will be charged for redemption within 1 year",
+        "as_on_date": "2015-05-08T00:00:00",
+        "front_load": 0,
+        "back_load": 0
+      },
+      {
+        "cdsc": true,
+        "note": "Exit load of 1.50% if redeemed within 12 months, 1% if redeemed after 12 months but within 24 months and 0.50% if redeemed after 24 months but within 36 months",
+        "as_on_date": "2015-03-02T00:00:00",
+        "front_load": 0,
+        "back_load": 0
+      },
+      {
+        "cdsc": true,
+        "note": "Exit load of 2% if redeemed within 12 months, 1% if redeemed after 12 months but within 24 months and 0.50% if redeemed after 24 months but within 36 months from the date of allotment",
+        "as_on_date": "2014-12-01T00:00:00",
+        "front_load": 0,
+        "back_load": 0
+      },
+      {
+        "cdsc": true,
+        "note": "Exit load of 1% if redeemed within 18 months",
+        "as_on_date": "2014-07-01T00:00:00",
+        "front_load": 0,
+        "back_load": 0
+      },
+      {
+        "cdsc": true,
+        "note": "Exit load of 1% if redeemed within 1 year",
+        "as_on_date": "2013-01-01T00:00:00",
+        "front_load": 0,
+        "back_load": 0
+      }
+    ],
+    "html_tax_implication": "Returns are taxed as per your Income Tax slab.",
+    "html_exit_tax_section": ""
+  },
+  "faq_content": [
+    {
+      "question": "p_return_analysis",
+      "answer": "5Y and 10Y annualised returns higher than category average"
+    },
+    {
+      "question": "c_return_analysis",
+      "answer": "Consistently lower annualised returns than category average for the past 1Y and 3Y"
+    },
+    {
+      "question": "expense_analysis",
+      "answer": "Higher expense ratio: 1.17%"
+    },
+    {
+      "question": "Understand terms",
+      "answer": "Annualised returns Average of the yearly returns of a mutual fund over a given period. Absolute returns The total return of a mutual fund over a given period."
+    }
+  ],
+  "additional_text": {
+    "about": "",
+    "investment_objective": "The scheme seeks to generate income/capital appreciation by investing primarily in debt securities, money market instruments and moderate exposure to equities.",
+    "fund_house_section": "",
+    "fund_management_section": "SR Srinivasan Ramamurthy Dec 2021 - Present View details Education Mr. Ramamurthy is an engineer by qualification from Jadavpur University and has done his MBA from IIM - Calcutta. Experience Prior to joining HDFC Asset Management Company Limited, he has worked with Mahindra Mutual Fund, IDBI Federal Life Insurance, IIFL Capital Limited, Maybank Kim Eng, Credit Suisse and KPMG Advisory. Also manages these schemes HDFC Balanced Advantage Fund Direct Growth HDFC Hybrid Debt Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Hybrid Equity Fund Direct Plan Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Multi Asset Active FoF Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth AJ Anupam Joshi Mar 2026 - Present View details Education Mr. Joshi is a PGDM in Business Management. Experience Prior to joining HDFC Mutual Fund he has worked with IDFC AMC, Principal Asset Management Company and ICAP India Pvt. Ltd. Also manages these schemes HDFC Low Duration Fund Direct Growth HDFC Income Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Hybrid Debt Fund Direct Growth HDFC Hybrid Equity Fund Direct Plan Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC FMP 1861D March 2022 Direct Growth HDFC FMP 1876D March 2022 Direct Growth HDFC Nifty G sec Dec 2026 Index Direct Growth HDFC Nifty G Sec July 2031 Index Direct Growth HDFC Nifty G Sec Jun 2027 Index Direct Growth HDFC Nifty G Sec Sep 2032 Index Direct Growth HDFC Long Duration Debt Fund Direct Growth HDFC Nifty SDL Oct 2026 Index Fund Direct Growth HDFC Nifty G Sec Apr 2029 Index Fund Direct Growth HDFC NIFTY G Sec Jun 2036 Index Fund Direct Growth HDFC NIFTY SDL Plus G Sec Jun 2027 40:60 Index Fund Direct Growth HDFC CRISIL IBX Financial Services 3 6 Months Debt Index Fund Direct Growth HDFC CRISIL IBX Financial Services 9 12 Months Debt Index Fund Direct Growth DM Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Low Duration Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Rate Debt Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Debt Fund Direct Plan Growth HDFC Medium Term Debt Fund Direct Growth HDFC Income Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Hybrid Debt Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Hybrid Equity Fund Direct Plan Growth HDFC Short Term Debt Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Debt Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large and Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Duration Debt Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth",
+    "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
+    "returns_and_rankings_section": "",
+    "meta_description": "HDFC Hybrid Debt Fund Direct Growth is Conservative Hybrid Hybrid mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 8.73. Risk is Moderately High",
+    "category_helper_text": "Invest in Government securities (80%+)",
+    "blocked_reason": null,
+    "brochure_link": null,
+    "scheme_info_link": null,
+    "sid_url": "https://www.hdfcfund.com"
+  },
+  "investment_terms": {
+    "min_investment_amount": 100.0,
+    "min_sip_investment": 100.0,
+    "max_sip_investment": 999999999.0,
+    "min_withdrawal": 100.0,
+    "sip_allowed": true,
+    "lumpsum_allowed": true,
+    "lock_in": {
+      "years": null,
+      "months": null,
+      "days": null
+    },
+    "launch_date": "01-Jan-2013",
+    "isin": "INF179K01XE6",
+    "plan_type": "Direct",
+    "additional_details": {}
+  },
+  "amc_info": {
+    "amc": "HDFC",
+    "name": "HDFC Mutual Fund",
+    "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
+    "phone": "022 – 66316333",
+    "aum": 934237.7677,
+    "launch_date": "1999-12-09T18:30:00.225Z",
+    "email": "shareholders.relations@hdfcfund.com",
+    "rank": "2",
+    "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
+    "more_description": "<p>It is the largest asset management company (AMC) in the country (as per average assets under\nmanagement as on 31 December 2018 of Rs. 339,178 Crores</p>\n<p>Launched on the 10th of December, 1999, HDFC Asset Management Company Ltd. is among the\nmost popular fund houses in India. The company offers an extensive range of mutual funds and is\nhome to some of the most trustworthy fund managers who ensure that your hard-earned money is\ninvested in the right schemes. Whether you seek growth funds, income funds, or even retirement\nfunds, HDFC AMC Ltd. has it all.</p>\n\n<p>HDFC Mutual Fund has left no stone unturned to cater to investors from all walks of life. Be it any\nfinancial goal – long-term, short-term, retirement, tax-saving and so on – HDFC has that plan for you.</p>",
+    "sponsor": null,
+    "trustee": null,
+    "assets_managed": null,
+    "service_officer": null,
+    "vro_amc_id": null,
+    "vro_amc_short_name": null,
+    "vro_ceo": null,
+    "vro_cio": null,
+    "vro_city": null,
+    "vro_fax": null,
+    "vro_management_trustee": null,
+    "vro_pin": null,
+    "vro_website": "http://www.hdfcfund.com",
+    "vro_investor_relation_officer": null,
+    "vro_owner_type": null,
+    "vro_modified_ts": null,
+    "vro_row_number": null
+  },
+  "benchmark": "NIFTY 50 Hybrid Composite Debt 15:85 Conservative Index",
+  "raw_sections": {
+    "analysis": [
+      {
+        "scheme_code": "119118",
+        "analysis_type": "PROS",
+        "analysis_subject": "p_return_analysis",
+        "analysis_desc": "5Y and 10Y annualised returns higher than category average",
+        "analysis_data": "p_return_analysis",
+        "rating": null
+      },
+      {
+        "scheme_code": "119118",
+        "analysis_type": "CONS",
+        "analysis_subject": "c_return_analysis",
+        "analysis_desc": "Consistently lower annualised returns than category average for the past 1Y and 3Y",
+        "analysis_data": "c_return_analysis",
+        "rating": null
+      },
+      {
+        "scheme_code": "119118",
+        "analysis_type": "CONS",
+        "analysis_subject": "expense_analysis",
+        "analysis_desc": "Higher expense ratio: 1.17%",
+        "analysis_data": "1.17",
+        "rating": null
+      }
+    ],
+    "category_info": {
+      "category": "Debt",
+      "category_helper_text": "Invest in Government securities (80%+)",
+      "definition": "",
+      "sub_type": "Gilt",
+      "tax_impact": "Returns are taxed as per your Income Tax slab.",
+      "description": "Invest predominantly in Government Securities(minimum 80% of total assets). They are relatively more risky than the other debt funds due to fluctuating interest rates.",
+      "tags": null
+    },
+    "historic_fund_expense": [
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-30T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-29T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-28T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-27T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-26T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-25T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-24T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-23T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-22T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-21T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-20T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-19T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-18T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-17T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-16T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-15T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-14T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-13T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-12T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-11T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-10T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-09T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-08T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.17,
+        "as_on_date": "2026-06-07T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      }
+    ],
+    "fund_news": null,
+    "peer_comparison": [
+      {
+        "id": null,
+        "scheme_search": null,
+        "search_id": "parag-parikh-conservative-hybrid-fund-direct-growth",
+        "category": "Hybrid",
+        "sub_category": "Conservative Hybrid",
+        "sub_sub_category": "",
+        "aum": 3418.90101778,
+        "mean_return": null,
+        "return3y": 11.02,
+        "return1y": 5.7,
+        "min_investment": 5000,
+        "groww_rating": 5,
+        "risk_rating": 4,
+        "super_category": "Parag Parikh Conservative Hybrid Fund",
+        "scheme_name": "Parag Parikh Conservative Hybrid Fund Direct Growth",
+        "fund_manager": "Rajeev Thakkar",
+        "fund_house": "PPFAS Mutual Fund",
+        "scheme_code": "148958",
+        "direct_scheme_code": "148958",
+        "regular_search_id": null,
+        "launch_date": "2021-05-25T18:30:00.000Z",
+        "risk": "Moderately High",
+        "available_for_investment": true,
+        "prime_investment_allowed": null,
+        "min_sip_investment": 1000,
+        "sip_allowed": true,
+        "plan_type": "Direct",
+        "scheme_type": "Growth",
+        "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/ppfas_groww.png",
+        "groww_scheme_code": "INF879O01175",
+        "expense_ratio": "0.3",
+        "swp_frequencies": null,
+        "tag": null,
+        "sub_tag": null,
+        "note_text": null,
+        "deep_link": null,
+        "fund_name": "Parag Parikh Conservative Hybrid Fund"
+      },
+      {
+        "id": null,
+        "scheme_search": null,
+        "search_id": "icici-prudential-regular-savings-fund-direct-growth",
+        "category": "Hybrid",
+        "sub_category": "Conservative Hybrid",
+        "sub_sub_category": "",
+        "aum": 3302.00063885,
+        "mean_return": 8.68,
+        "return3y": 10.03,
+        "return1y": 5.51,
+        "min_investment": 5000,
+        "groww_rating": 5,
+        "risk_rating": 5,
+        "super_category": "ICICI Prudential Regular Savings Fund",
+        "scheme_name": "ICICI Prudential Regular Savings Fund Direct Growth",
+        "fund_manager": "Rajat Chandak, Manish Banthia",
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_code": "120616",
+        "direct_scheme_code": "120616",
+        "regular_search_id": "icici-prudential-regular-savings-fund-direct-growth",
+        "launch_date": "2013-01-02T18:30:00.000Z",
+        "risk": "High",
+        "available_for_investment": true,
+        "prime_investment_allowed": null,
+        "min_sip_investment": 100,
+        "sip_allowed": true,
+        "plan_type": "Direct",
+        "scheme_type": "Growth",
+        "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/icici_groww.png",
+        "groww_scheme_code": "INF109K01S39",
+        "expense_ratio": "1.03",
+        "swp_frequencies": null,
+        "tag": null,
+        "sub_tag": null,
+        "note_text": null,
+        "deep_link": null,
+        "fund_name": "ICICI Prudential Regular Savings Fund"
+      },
+      {
+        "id": null,
+        "scheme_search": null,
+        "search_id": "dsp-regular-savings-fund-direct-growth",
+        "category": "Hybrid",
+        "sub_category": "Conservative Hybrid",
+        "sub_sub_category": "",
+        "aum": 179.4098,
+        "mean_return": 3.82,
+        "return3y": 9.55,
+        "return1y": 4.42,
+        "min_investment": 100,
+        "groww_rating": 4,
+        "risk_rating": 4,
+        "super_category": "DSP Regular Savings Fund",
+        "scheme_name": "DSP Regular Savings Fund Direct Growth",
+        "fund_manager": "Kedar Karnik, Vikram Chopra, Mayur Patel",
+        "fund_house": "DSP Mutual Fund",
+        "scheme_code": "118994",
+        "direct_scheme_code": "118994",
+        "regular_search_id": "dsp-blackrock-mip-fund-growth",
+        "launch_date": "2013-01-01T18:30:00.000Z",
+        "risk": "Moderately High",
+        "available_for_investment": true,
+        "prime_investment_allowed": null,
+        "min_sip_investment": 100,
+        "sip_allowed": true,
+        "plan_type": "Direct",
+        "scheme_type": "Growth",
+        "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/dsp_groww.png",
+        "groww_scheme_code": "INF740K01NO5",
+        "expense_ratio": "0.64",
+        "swp_frequencies": null,
+        "tag": null,
+        "sub_tag": null,
+        "note_text": null,
+        "deep_link": null,
+        "fund_name": "DSP Regular Savings Fund"
+      },
+      {
+        "id": null,
+        "scheme_search": null,
+        "search_id": "sbi-magnum-monthly-i-come-plan-direct-growth",
+        "category": "Hybrid",
+        "sub_category": "Conservative Hybrid",
+        "sub_sub_category": "",
+        "aum": 10144.74775321,
+        "mean_return": 5.5,
+        "return3y": 9.45,
+        "return1y": 5.37,
+        "min_investment": 5000,
+        "groww_rating": 4,
+        "risk_rating": 5,
+        "super_category": "SBI Conservative Hybrid Fund",
+        "scheme_name": "SBI Conservative Hybrid Fund Direct Growth",
+        "fund_manager": "Dinesh Ahuja, Ruchit Mehta",
+        "fund_house": "SBI Mutual Fund",
+        "scheme_code": "119839",
+        "direct_scheme_code": "119839",
+        "regular_search_id": "sbi-magnum-monthly-income-plan-growth",
+        "launch_date": "2013-01-06T18:30:00.000Z",
+        "risk": "High",
+        "available_for_investment": true,
+        "prime_investment_allowed": null,
+        "min_sip_investment": 500,
+        "sip_allowed": true,
+        "plan_type": "Direct",
+        "scheme_type": "Growth",
+        "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/sbi_groww.png",
+        "groww_scheme_code": "INF200K01TS8",
+        "expense_ratio": "1.05",
+        "swp_frequencies": null,
+        "tag": null,
+        "sub_tag": null,
+        "note_text": null,
+        "deep_link": null,
+        "fund_name": "SBI Conservative Hybrid Fund"
+      },
+      {
+        "id": null,
+        "scheme_search": null,
+        "search_id": "nippon-india-conservative-hybrid-fund-direct-growth",
+        "category": "Hybrid",
+        "sub_category": "Conservative Hybrid",
+        "sub_sub_category": "",
+        "aum": 967.4773,
+        "mean_return": 6.29,
+        "return3y": 9.01,
+        "return1y": 7.33,
+        "min_investment": 5000,
+        "groww_rating": 5,
+        "risk_rating": 5,
+        "super_category": "Nippon India Conservative Hybrid Fund",
+        "scheme_name": "Nippon India Conservative Hybrid Fund Direct Growth",
+        "fund_manager": "Amit Tripathi, Sanjay Parekh",
+        "fund_house": "Nippon India Mutual Fund",
+        "scheme_code": "118726",
+        "direct_scheme_code": "118726",
+        "regular_search_id": "reliance-monthly-income-plan-growth",
+        "launch_date": "2012-12-31T13:00:00.000Z",
+        "risk": "High",
+        "available_for_investment": true,
+        "prime_investment_allowed": null,
+        "min_sip_investment": 100,
+        "sip_allowed": true,
+        "plan_type": "Direct",
+        "scheme_type": "Growth",
+        "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/reliance_groww.png",
+        "groww_scheme_code": "INF204K01YV4",
+        "expense_ratio": "1.0",
+        "swp_frequencies": null,
+        "tag": null,
+        "sub_tag": null,
+        "note_text": null,
+        "deep_link": null,
+        "fund_name": "Nippon India Conservative Hybrid Fund"
+      }
+    ]
+  }
+}
