@@ -34,6 +34,12 @@ def _build_pipeline(request: Request):  # Deferred: RagPipeline
             detail="GROQ_API_KEY is not configured on the backend.",
         )
 
+    # Check if RAG is disabled for memory-constrained environments
+    if settings.disable_rag:
+        logger.info("RAG disabled - using simple LLM mode")
+        from backend.app.rag.groq_client import GroqChatClient
+        return SimpleGroqPipeline(GroqChatClient(api_key=settings.groq_api_key, model=settings.groq_model))
+
     # Lazy load schemes on first request
     if not state.schemes:
         logger.info("Loading schemes on first request...")
@@ -71,8 +77,37 @@ def _build_pipeline(request: Request):  # Deferred: RagPipeline
     )
 
 
+class SimpleGroqPipeline:
+    """Simple LLM-only pipeline for memory-constrained environments."""
+    
+    def __init__(self, groq_client):
+        self.groq_client = groq_client
+    
+    def retrieve(self, query: str):
+        """Mock retrieval for compatibility."""
+        from backend.app.rag.pipeline import RetrievalResult
+        return RetrievalResult(
+            chunks=[],
+            retrieval_seconds=0.0,
+            has_context=False,
+        )
+    
+    def stream_answer(self, query: str, retrieval=None, history=None):
+        """Stream answer without RAG context."""
+        from backend.app.rag.prompts import SYSTEM_PROMPT
+        
+        messages = [{"role": "system", "content": SYSTEM_PROMPT}]
+        messages.append({"role": "user", "content": query})
+        
+        if history:
+            messages = [messages[0], *history, messages[-1]]
+        
+        yield from self.groq_client.stream_completion(messages)
+
+
 async def _sse_stream(request: Request, payload: ChatRequest) -> AsyncIterator[str]:
     state = request.app.state.app_state
+    settings = request.app.state.settings
     pipeline = _build_pipeline(request)
     
     # Import compliance detector only when needed
@@ -96,28 +131,34 @@ async def _sse_stream(request: Request, payload: ChatRequest) -> AsyncIterator[s
             yield _sse_event("done", {"session_id": payload.session_id})
             return
 
-        retrieval = pipeline.retrieve(payload.message)
-        yield _sse_event(
-            "retrieval",
-            {
-                "retrieval_seconds": round(retrieval.retrieval_seconds, 4),
-                "chunk_count": len(retrieval.chunks),
-                "has_context": retrieval.has_context,
-            },
-        )
+        # Skip retrieval if RAG is disabled
+        if not settings.disable_rag:
+            retrieval = pipeline.retrieve(payload.message)
+            yield _sse_event(
+                "retrieval",
+                {
+                    "retrieval_seconds": round(retrieval.retrieval_seconds, 4),
+                    "chunk_count": len(retrieval.chunks),
+                    "has_context": retrieval.has_context,
+                },
+            )
 
-        # Phase 5: Compliance check after retrieval (anti-hallucination)
-        retrieval_result = compliance.check_retrieval(retrieval.has_context, len(retrieval.chunks))
-        if retrieval_result.action.value != "allow":
-            logger.info(f"Retrieval blocked: {retrieval_result.reason}")
-            # Store user message
-            session.add_message("user", payload.message)
-            yield _sse_event("blocked", {"reason": retrieval_result.reason})
-            yield _sse_event("token", {"content": retrieval_result.message})
-            # Store assistant response
-            session.add_message("assistant", retrieval_result.message)
-            yield _sse_event("done", {"session_id": payload.session_id})
-            return
+            # Phase 5: Compliance check after retrieval (anti-hallucination)
+            retrieval_result = compliance.check_retrieval(retrieval.has_context, len(retrieval.chunks))
+            if retrieval_result.action.value != "allow":
+                logger.info(f"Retrieval blocked: {retrieval_result.reason}")
+                # Store user message
+                session.add_message("user", payload.message)
+                yield _sse_event("blocked", {"reason": retrieval_result.reason})
+                yield _sse_event("token", {"content": retrieval_result.message})
+                # Store assistant response
+                session.add_message("assistant", retrieval_result.message)
+                yield _sse_event("done", {"session_id": payload.session_id})
+                return
+        else:
+            # Mock retrieval for simple mode
+            from backend.app.rag.pipeline import RetrievalResult
+            retrieval = RetrievalResult(chunks=[], retrieval_seconds=0.0, has_context=False)
 
         # Phase 6: Get conversation history for context
         history = session.get_recent_messages(limit=5)

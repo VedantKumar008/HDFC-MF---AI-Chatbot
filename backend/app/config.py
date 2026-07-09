@@ -25,9 +25,10 @@ class Settings(BaseSettings):
     groq_model: str = "llama-3.3-70b-versatile"
     cors_origins: str = "http://localhost:3000"
     embedding_model: str = "all-MiniLM-L6-v2"
-    rag_top_k: int = 5
+    rag_top_k: int = 3  # Reduce from 5 to save memory
     rag_min_score: float = 0.4
     rag_min_top_score: float = 0.45
+    disable_rag: bool = False  # Disable RAG for memory-constrained environments
 
     # Allow environment variables to override paths
     data_path: Path | None = None

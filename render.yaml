@@ -21,11 +21,13 @@ services:
       - key: EMBEDDING_MODEL
         value: all-MiniLM-L6-v2
       - key: RAG_TOP_K
-        value: "5"
+        value: "3"
       - key: RAG_MIN_SCORE
         value: "0.4"
       - key: RAG_MIN_TOP_SCORE
         value: "0.45"
+      - key: DISABLE_RAG
+        value: "true"
       - key: GROQ_API_KEY
         sync: false
       - key: GROQ_MODEL
