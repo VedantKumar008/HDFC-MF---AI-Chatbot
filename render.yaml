@@ -21,13 +21,19 @@ services:
       - key: EMBEDDING_MODEL
         value: all-MiniLM-L6-v2
       - key: RAG_TOP_K
-        value: "3"
+        value: "5"
       - key: RAG_MIN_SCORE
         value: "0.4"
       - key: RAG_MIN_TOP_SCORE
         value: "0.45"
-      - key: DISABLE_RAG
+      - key: USE_PINECONE
         value: "true"
+      - key: PINECONE_API_KEY
+        sync: false
+      - key: PINECONE_INDEX_NAME
+        value: hdfc-mf-schemes
+      - key: PINECONE_ENVIRONMENT
+        value: us-east-1-aws
       - key: GROQ_API_KEY
         sync: false
       - key: GROQ_MODEL

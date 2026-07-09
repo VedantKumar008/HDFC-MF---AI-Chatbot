@@ -50,17 +50,24 @@ def _build_pipeline(request: Request):  # Deferred: RagPipeline
 
     # Lazy load FAISS index and embedding model on first request
     if state.retriever is None:
-        logger.info("Loading FAISS index and embedding model on first request...")
+        if settings.use_pinecone:
+            logger.info("Loading Pinecone index on first request...")
+        else:
+            logger.info("Loading FAISS index and embedding model on first request...")
         from backend.app.services.knowledge_base import load_knowledge_base
         
         retriever, manifest = load_knowledge_base(
             schemes_dir=settings.resolved_data_path,
             faiss_dir=settings.resolved_faiss_path,
             embedding_model=settings.embedding_model,
+            use_pinecone=settings.use_pinecone,
+            pinecone_api_key=settings.pinecone_api_key,
+            pinecone_index_name=settings.pinecone_index_name,
+            pinecone_environment=settings.pinecone_environment,
         )
         state.retriever = retriever
         state.index_manifest = manifest
-        logger.info("FAISS index loaded successfully")
+        logger.info("Knowledge base loaded successfully")
 
     # Import heavy modules only when building pipeline
     from backend.app.rag.groq_client import GroqChatClient

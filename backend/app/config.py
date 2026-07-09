@@ -25,10 +25,14 @@ class Settings(BaseSettings):
     groq_model: str = "llama-3.3-70b-versatile"
     cors_origins: str = "http://localhost:3000"
     embedding_model: str = "all-MiniLM-L6-v2"
-    rag_top_k: int = 3  # Reduce from 5 to save memory
+    rag_top_k: int = 5  # Can increase back to 5 with Pinecone
     rag_min_score: float = 0.4
     rag_min_top_score: float = 0.45
     disable_rag: bool = False  # Disable RAG for memory-constrained environments
+    use_pinecone: bool = False  # Use Pinecone instead of local FAISS
+    pinecone_api_key: str = ""
+    pinecone_index_name: str = "hdfc-mf-schemes"
+    pinecone_environment: str = "us-east-1-aws"
 
     # Allow environment variables to override paths
     data_path: Path | None = None
