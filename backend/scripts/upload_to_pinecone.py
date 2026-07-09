@@ -118,14 +118,14 @@ def upload_to_pinecone(
             
             # Upload in batches
             if len(vectors) >= batch_size:
-                index.upsert(vectors)
+                index.upsert(vectors=vectors)
                 total_vectors += len(vectors)
                 logger.info(f"Uploaded {total_vectors} vectors...")
                 vectors = []
     
     # Upload remaining vectors
     if vectors:
-        index.upsert(vectors)
+        index.upsert(vectors=vectors)
         total_vectors += len(vectors)
     
     logger.info(f"Upload complete! Total vectors: {total_vectors}")
