@@ -122,7 +122,7 @@ class SimpleGroqPipeline:
 
 async def _sse_stream(request: Request, payload: ChatRequest) -> AsyncIterator[str]:
     logger.info(f"[Chat] Starting SSE stream for session: {payload.session_id}")
-    logger.info(f"[Chat] Query: '{payload.query[:50]}...'")
+    logger.info(f"[Chat] Message: '{payload.message[:50]}...'")
     
     state = request.app.state.app_state
     settings = request.app.state.settings
@@ -232,7 +232,7 @@ def _sse_event(event: str, data: dict) -> str:
 
 @router.post("/chat")
 async def chat(request: Request, payload: ChatRequest) -> StreamingResponse:
-    logger.info(f"[Chat] Request received - session: {payload.session_id}, query: '{payload.query[:50]}...'")
+    logger.info(f"[Chat] Request received - session: {payload.session_id}, message: '{payload.message[:50]}...'")
     return StreamingResponse(
         _sse_stream(request, payload),
         media_type="text/event-stream",
