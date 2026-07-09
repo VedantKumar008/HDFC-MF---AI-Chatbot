@@ -219,7 +219,7 @@ async def _sse_stream(request: Request, payload: ChatRequest) -> AsyncIterator[s
         logger.info("[Chat] Storing assistant response...")
         session.add_message("assistant", full_response)
 
-        logger.info("[Chat] SSE stream complete")
+        logger.info("[Chat] SSE stream complete, returning done event to frontend")
         yield _sse_event("done", {"session_id": payload.session_id})
     except Exception as exc:
         logger.exception("Chat stream failed")
@@ -232,6 +232,7 @@ def _sse_event(event: str, data: dict) -> str:
 
 @router.post("/chat")
 async def chat(request: Request, payload: ChatRequest) -> StreamingResponse:
+    logger.info(f"[Chat] Request received - session: {payload.session_id}, query: '{payload.query[:50]}...'")
     return StreamingResponse(
         _sse_stream(request, payload),
         media_type="text/event-stream",

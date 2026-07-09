@@ -36,11 +36,15 @@ class GroqChatClient:
         
         logger.info("[Groq] Stream created, yielding chunks...")
         chunk_count = 0
+        first_token_received = False
         for chunk in stream:
             delta: Any = chunk.choices[0].delta
             content = getattr(delta, "content", None)
             if content:
                 chunk_count += 1
+                if not first_token_received:
+                    logger.info("[Groq] First token received")
+                    first_token_received = True
                 yield content
         
         logger.info(f"[Groq] Stream complete, yielded {chunk_count} chunks")
