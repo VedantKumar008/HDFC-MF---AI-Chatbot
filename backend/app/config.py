@@ -31,7 +31,7 @@ class Settings(BaseSettings):
     disable_rag: bool = False  # Disable RAG for memory-constrained environments
     use_pinecone: bool = False  # Use Pinecone instead of local FAISS
     pinecone_api_key: str = ""
-    pinecone_index_name: str = "hdfc-mf-schemes"
+    pinecone_index_name: str = "hdfc-mf-index"
     pinecone_environment: str = "us-east-1-aws"
 
     # Allow environment variables to override paths

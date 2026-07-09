@@ -50,7 +50,17 @@ class PineconeRetriever:
                 return False
             
             self._index = pc.Index(self.index_name)
-            logger.info(f"Connected to Pinecone index: {self.index_name}")
+            
+            # Get index stats for logging
+            stats = self._index.describe_index_stats()
+            vector_count = stats.get('total_vector_count', 0)
+            
+            logger.info(f"✓ Pinecone connection successful")
+            logger.info(f"✓ Index: {self.index_name}")
+            logger.info(f"✓ Vectors loaded: {vector_count}")
+            logger.info(f"✓ Retrieval source: Pinecone (cloud)")
+            logger.info(f"✓ Embedding model: {self.embedding_model}")
+            
             return True
             
         except Exception as exc:

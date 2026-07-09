@@ -22,6 +22,7 @@ def load_knowledge_base(
     """Load knowledge base from either FAISS or Pinecone."""
     
     if use_pinecone:
+        logger.info("✓ Using Pinecone cloud vector store (no local FAISS loading)")
         return _load_pinecone_knowledge_base(
             pinecone_api_key=pinecone_api_key,
             pinecone_index_name=pinecone_index_name,
@@ -29,6 +30,7 @@ def load_knowledge_base(
             embedding_model=embedding_model,
         )
     else:
+        logger.info("✓ Using local FAISS vector store")
         return _load_faiss_knowledge_base(
             schemes_dir=schemes_dir,
             faiss_dir=faiss_dir,

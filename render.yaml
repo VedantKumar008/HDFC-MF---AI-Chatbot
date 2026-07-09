@@ -31,7 +31,7 @@ services:
       - key: PINECONE_API_KEY
         sync: false
       - key: PINECONE_INDEX_NAME
-        value: hdfc-mf-schemes
+        value: hdfc-mf-index
       - key: PINECONE_ENVIRONMENT
         value: us-east-1-aws
       - key: GROQ_API_KEY
