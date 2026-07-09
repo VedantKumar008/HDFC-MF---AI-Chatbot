@@ -48,11 +48,12 @@ export default function Home() {
     setIsCheckingBackend(true);
     try {
       const response = await fetch(`${backendUrl}/health`);
-      const data = await response.json();
-      if (data.ready) {
+      if (response.ok) {
+        const data = await response.json();
+        // Backend is healthy if we get a successful response
         setIsBackendReady(true);
       } else {
-        // Retry after 2 seconds if backend is loading
+        // Retry after 2 seconds if backend is not ready
         setTimeout(checkBackendHealth, 2000);
       }
     } catch (error) {
