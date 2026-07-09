@@ -73,7 +73,7 @@ class PineconeRetriever:
             return False
     
     def search(self, query: str, top_k: int = 5) -> list[PineconeChunk]:
-        """Search for similar chunks in Pinecone using HuggingFace Inference API."""
+        """Search for similar chunks in Pinecone using HuggingFace Inference Client."""
         if not self._index:
             logger.warning("Pinecone index not initialized")
             return []
@@ -81,26 +81,28 @@ class PineconeRetriever:
         try:
             logger.info(f"[Pinecone] Starting search for query: '{query[:50]}...'")
             
-            # Use HuggingFace Inference API for query embeddings (no local model loading)
+            # Use HuggingFace Inference Client for query embeddings (no local model loading)
             logger.info("[Pinecone] Requesting query embedding from HuggingFace")
-            import requests
             import os
             
             hf_api_key = os.getenv("HF_API_KEY", "")
             if not hf_api_key:
                 raise RuntimeError("HF_API_KEY environment variable not set. HuggingFace API key is required for embeddings.")
             
-            # HuggingFace Inference API for all-MiniLM-L6-v2
+            from huggingface_hub import InferenceClient
+            
+            client = InferenceClient(token=hf_api_key)
             model_id = "sentence-transformers/all-MiniLM-L6-v2"
-            api_url = f"https://api-inference.huggingface.co/pipeline/feature-extraction/{model_id}"
             
-            headers = {"Authorization": f"Bearer {hf_api_key}"}
-            response = requests.post(api_url, headers=headers, json={"inputs": query})
+            # Generate embedding using feature extraction
+            query_embedding = client.feature_extraction(text=query, model=model_id)
             
-            if response.status_code != 200:
-                raise RuntimeError(f"HuggingFace API error: {response.status_code} - {response.text}")
+            # Convert to list if needed
+            if hasattr(query_embedding, 'tolist'):
+                query_embedding = query_embedding.tolist()
+            elif not isinstance(query_embedding, list):
+                query_embedding = list(query_embedding)
             
-            query_embedding = response.json()
             logger.info(f"[Pinecone] Query embedding received ({len(query_embedding)} dimensions)")
             
             # Search Pinecone
