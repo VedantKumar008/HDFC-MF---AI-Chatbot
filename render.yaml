@@ -34,8 +34,6 @@ services:
         value: hdfc-mf-index
       - key: PINECONE_ENVIRONMENT
         value: us-east-1-aws
-      - key: HF_API_KEY
-        sync: false
       - key: GROQ_API_KEY
         sync: false
       - key: GROQ_MODEL
