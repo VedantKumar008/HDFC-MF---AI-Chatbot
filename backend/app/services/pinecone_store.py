@@ -59,7 +59,12 @@ class PineconeRetriever:
             logger.info(f"✓ Index: {self.index_name}")
             logger.info(f"✓ Vectors loaded: {vector_count}")
             logger.info(f"✓ Retrieval source: Pinecone (cloud)")
-            logger.info(f"✓ Embedding model: {self.embedding_model}")
+            
+            # Log embedding provider info
+            logger.info("[Embedding] Provider: HuggingFace Inference API")
+            logger.info("[Embedding] Model: sentence-transformers/all-MiniLM-L6-v2")
+            logger.info("[Embedding] Dimensions: 384")
+            logger.info("[Embedding] Local model loading: DISABLED")
             
             return True
             
@@ -68,7 +73,7 @@ class PineconeRetriever:
             return False
     
     def search(self, query: str, top_k: int = 5) -> list[PineconeChunk]:
-        """Search for similar chunks in Pinecone using local sentence-transformers."""
+        """Search for similar chunks in Pinecone using HuggingFace Inference API."""
         if not self._index:
             logger.warning("Pinecone index not initialized")
             return []
@@ -76,21 +81,30 @@ class PineconeRetriever:
         try:
             logger.info(f"[Pinecone] Starting search for query: '{query[:50]}...'")
             
-            # Use local sentence-transformers for query embeddings
-            # This is required because Pinecone inference API only supports 1024-dim models
-            # which are incompatible with existing 384-dim all-MiniLM-L6-v2 vectors
-            logger.info("[Pinecone] Loading sentence-transformers model for query embedding...")
-            from sentence_transformers import SentenceTransformer
+            # Use HuggingFace Inference API for query embeddings (no local model loading)
+            logger.info("[Pinecone] Requesting query embedding from HuggingFace")
+            import requests
+            import os
             
-            model = SentenceTransformer(self.embedding_model)
-            logger.info(f"[Pinecone] Local embedding model loaded: {self.embedding_model}")
+            hf_api_key = os.getenv("HF_API_KEY", "")
+            if not hf_api_key:
+                raise RuntimeError("HF_API_KEY environment variable not set. HuggingFace API key is required for embeddings.")
             
-            logger.info("[Pinecone] Generating query embedding...")
-            query_embedding = model.encode(query).tolist()
-            logger.info(f"[Pinecone] Query embedding generated (dimension: {len(query_embedding)})")
+            # HuggingFace Inference API for all-MiniLM-L6-v2
+            model_id = "sentence-transformers/all-MiniLM-L6-v2"
+            api_url = f"https://api-inference.huggingface.co/pipeline/feature-extraction/{model_id}"
+            
+            headers = {"Authorization": f"Bearer {hf_api_key}"}
+            response = requests.post(api_url, headers=headers, json={"inputs": query})
+            
+            if response.status_code != 200:
+                raise RuntimeError(f"HuggingFace API error: {response.status_code} - {response.text}")
+            
+            query_embedding = response.json()
+            logger.info(f"[Pinecone] Query embedding received ({len(query_embedding)} dimensions)")
             
             # Search Pinecone
-            logger.info(f"[Pinecone] Querying Pinecone index with top_k={top_k}...")
+            logger.info("[Pinecone] Searching Pinecone index")
             results = self._index.query(
                 vector=query_embedding,
                 top_k=top_k,
@@ -112,7 +126,7 @@ class PineconeRetriever:
                 )
                 chunks.append(chunk)
             
-            logger.info(f"[Pinecone] Search complete, returning {len(chunks)} chunks")
+            logger.info("[Pinecone] Retrieval complete")
             return chunks
             
         except Exception as exc:
