@@ -140,7 +140,8 @@ async def _sse_stream(request: Request, payload: ChatRequest) -> AsyncIterator[s
     # Phase 6: Get or create session
     logger.info("[Chat] Getting or creating session...")
     session = state.session_store.get_or_create_session(payload.session_id)
-    logger.info(f"[Chat] Session ready, history length: {len(session.history)}")
+    history_len = len(session.messages) if hasattr(session, 'messages') else 0
+    logger.info(f"[Chat] Session ready, messages length: {history_len}")
     
     try:
         # Phase 5: Compliance check before retrieval
@@ -163,20 +164,23 @@ async def _sse_stream(request: Request, payload: ChatRequest) -> AsyncIterator[s
         if not settings.disable_rag:
             logger.info("[Chat] Starting retrieval...")
             retrieval = pipeline.retrieve(payload.message)
-            logger.info(f"[Chat] Retrieval complete: {len(retrieval.chunks)} chunks")
+            chunks_len = len(retrieval.chunks) if hasattr(retrieval, 'chunks') else 0
+            logger.info(f"[Chat] Retrieval complete: {chunks_len} chunks")
             
             yield _sse_event(
                 "retrieval",
                 {
-                    "retrieval_seconds": round(retrieval.retrieval_seconds, 4),
-                    "chunk_count": len(retrieval.chunks),
-                    "has_context": retrieval.has_context,
+                    "retrieval_seconds": round(retrieval.retrieval_seconds, 4) if hasattr(retrieval, 'retrieval_seconds') else 0,
+                    "chunk_count": len(retrieval.chunks) if hasattr(retrieval, 'chunks') else 0,
+                    "has_context": retrieval.has_context if hasattr(retrieval, 'has_context') else False,
                 },
             )
 
             # Phase 5: Compliance check after retrieval (anti-hallucination)
             logger.info("[Chat] Running compliance check on retrieval...")
-            retrieval_result = compliance.check_retrieval(retrieval.has_context, len(retrieval.chunks))
+            has_context = retrieval.has_context if hasattr(retrieval, 'has_context') else False
+            chunks_len = len(retrieval.chunks) if hasattr(retrieval, 'chunks') else 0
+            retrieval_result = compliance.check_retrieval(has_context, chunks_len)
             if retrieval_result.action.value != "allow":
                 logger.info(f"[Chat] Retrieval blocked: {retrieval_result.reason}")
                 # Store user message
@@ -197,7 +201,7 @@ async def _sse_stream(request: Request, payload: ChatRequest) -> AsyncIterator[s
 
         # Phase 6: Get conversation history for context
         logger.info("[Chat] Retrieving conversation history...")
-        history = session.get_recent_messages(limit=5)
+        history = session.get_recent_messages(limit=5) if hasattr(session, 'get_recent_messages') else []
         logger.info(f"[Chat] Retrieved {len(history)} history messages")
         
         # Store user message
