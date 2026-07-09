@@ -23,6 +23,7 @@ def load_knowledge_base(
     
     if use_pinecone:
         logger.info("✓ Using Pinecone cloud vector store (no local FAISS loading)")
+        # Completely bypass FAISS - don't even access faiss_dir
         return _load_pinecone_knowledge_base(
             pinecone_api_key=pinecone_api_key,
             pinecone_index_name=pinecone_index_name,

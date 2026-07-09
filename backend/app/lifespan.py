@@ -36,7 +36,11 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
         state.embedding_model_name = settings.embedding_model
         state.ready = True
         state.load_error = None
-        logger.info("Backend ready (schemes and FAISS index will load on first request)")
+        
+        if settings.use_pinecone:
+            logger.info("Backend ready (schemes and Pinecone will load on first request)")
+        else:
+            logger.info("Backend ready (schemes and FAISS index will load on first request)")
     except Exception as exc:
         state.ready = False
         state.load_error = str(exc)

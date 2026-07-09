@@ -5,11 +5,17 @@ from __future__ import annotations
 import re
 import time
 from dataclasses import dataclass
+from typing import Any
 
-from pipeline.pipeline.faiss_index import FaissRetriever
-from pipeline.pipeline.models import ChunkRecord
+# Defer FAISS imports to avoid loading when using Pinecone
+# from pipeline.pipeline.faiss_index import FaissRetriever
+# from pipeline.pipeline.models import ChunkRecord
 
 from backend.app.schemas import SchemeSummary
+
+
+# Type alias for compatibility with both FAISS and Pinecone
+ChunkRecord = dict[str, Any]
 
 
 @dataclass
@@ -28,7 +34,7 @@ class RetrievalOutput:
 class RetrievalService:
     def __init__(
         self,
-        retriever: FaissRetriever,
+        retriever: Any,  # Can be FaissRetriever or PineconeRetriever
         schemes: list[SchemeSummary],
         *,
         top_k: int = 5,
@@ -42,7 +48,24 @@ class RetrievalService:
     def retrieve(self, query: str) -> RetrievalOutput:
         started = time.perf_counter()
         scheme_ids = detect_scheme_ids(query, self.schemes)
+        
+        # Handle both FAISS and Pinecone retrievers
         raw_results = self.retriever.search(query, top_k=self.top_k * 2)
+        
+        # Convert Pinecone results to expected format
+        if hasattr(raw_results[0], 'text'):  # PineconeChunk objects
+            raw_results = [
+                (
+                    {
+                        'text': chunk.text,
+                        'scheme_id': chunk.scheme_id,
+                        'scheme_name': chunk.scheme_name,
+                        'section': 'unknown',
+                    },
+                    chunk.score
+                )
+                for chunk in raw_results
+            ]
 
         filtered: list[RetrievedChunk] = []
         for chunk, score in raw_results:

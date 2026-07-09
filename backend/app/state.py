@@ -39,4 +39,9 @@ class AppState:
     def chunk_count(self) -> int:
         if not self.retriever:
             return 0
-        return len(self.retriever.chunks)
+        # Handle both FAISS and Pinecone retrievers
+        try:
+            return len(self.retriever.chunks)
+        except AttributeError:
+            # Pinecone retriever doesn't have chunks property
+            return 0

@@ -48,23 +48,31 @@ def _build_pipeline(request: Request):  # Deferred: RagPipeline
         state.schemes = load_scheme_summaries(settings.resolved_data_path)
         logger.info(f"Loaded {len(state.schemes)} schemes")
 
-    # Lazy load FAISS index and embedding model on first request
+    # Lazy load retriever on first request
     if state.retriever is None:
         if settings.use_pinecone:
-            logger.info("Loading Pinecone index on first request...")
+            logger.info("Loading Pinecone retriever on first request...")
+            from backend.app.services.knowledge_base import load_knowledge_base
+            
+            retriever, manifest = load_knowledge_base(
+                schemes_dir=settings.resolved_data_path,
+                faiss_dir=settings.resolved_faiss_path,  # Not used when USE_PINECONE=true
+                embedding_model=settings.embedding_model,
+                use_pinecone=True,
+                pinecone_api_key=settings.pinecone_api_key,
+                pinecone_index_name=settings.pinecone_index_name,
+                pinecone_environment=settings.pinecone_environment,
+            )
         else:
             logger.info("Loading FAISS index and embedding model on first request...")
-        from backend.app.services.knowledge_base import load_knowledge_base
-        
-        retriever, manifest = load_knowledge_base(
-            schemes_dir=settings.resolved_data_path,
-            faiss_dir=settings.resolved_faiss_path,
-            embedding_model=settings.embedding_model,
-            use_pinecone=settings.use_pinecone,
-            pinecone_api_key=settings.pinecone_api_key,
-            pinecone_index_name=settings.pinecone_index_name,
-            pinecone_environment=settings.pinecone_environment,
-        )
+            from backend.app.services.knowledge_base import load_knowledge_base
+            
+            retriever, manifest = load_knowledge_base(
+                schemes_dir=settings.resolved_data_path,
+                faiss_dir=settings.resolved_faiss_path,
+                embedding_model=settings.embedding_model,
+                use_pinecone=False,
+            )
         state.retriever = retriever
         state.index_manifest = manifest
         logger.info("Knowledge base loaded successfully")
