@@ -2,10 +2,13 @@
 
 from __future__ import annotations
 
+import logging
 import re
 from dataclasses import dataclass
 from enum import Enum
 from typing import Literal
+
+logger = logging.getLogger(__name__)
 
 
 class ComplianceAction(Enum):
@@ -73,10 +76,14 @@ class ComplianceDetector:
         Returns:
             ComplianceResult with action and optional message
         """
+        logger.info(f"[Compliance] Query received: '{query}'")
         query_lower = query.lower().strip()
         
         # Check for investment advice patterns
         if self.advice_regex.search(query):
+            logger.info("[Compliance] Classification: BLOCKED")
+            logger.info("[Compliance] Reason: Investment advice detected")
+            logger.info("[Compliance] Retrieval allowed: False")
             return ComplianceResult(
                 action=ComplianceAction.BLOCK_ADVICE,
                 message=self.ADVICE_MESSAGE,
@@ -85,6 +92,9 @@ class ComplianceDetector:
         
         # Check for out-of-scope fund patterns
         if self.scope_regex.search(query):
+            logger.info("[Compliance] Classification: BLOCKED")
+            logger.info("[Compliance] Reason: Out-of-scope fund house detected")
+            logger.info("[Compliance] Retrieval allowed: False")
             return ComplianceResult(
                 action=ComplianceAction.BLOCK_SCOPE,
                 message=self.SCOPE_MESSAGE,
@@ -92,6 +102,9 @@ class ComplianceDetector:
             )
         
         # Query is allowed to proceed to RAG
+        logger.info("[Compliance] Classification: ALLOWED")
+        logger.info("[Compliance] Reason: Query passes compliance checks")
+        logger.info("[Compliance] Retrieval allowed: True")
         return ComplianceResult(
             action=ComplianceAction.ALLOW,
             reason="Query passes compliance checks"
@@ -108,13 +121,21 @@ class ComplianceDetector:
         Returns:
             ComplianceResult with action and optional message
         """
+        logger.info(f"[Compliance] Retrieval check - has_context: {has_context}, chunk_count: {chunk_count}")
+        
         if not has_context or chunk_count == 0:
+            logger.info("[Compliance] Classification: BLOCKED")
+            logger.info("[Compliance] Reason: No relevant chunks found in retrieval")
+            logger.info("[Compliance] Generation allowed: False")
             return ComplianceResult(
                 action=ComplianceAction.BLOCK_HALLUCINATION,
                 message=self.HALLUCINATION_MESSAGE,
                 reason="No relevant chunks found in retrieval"
             )
         
+        logger.info("[Compliance] Classification: ALLOWED")
+        logger.info("[Compliance] Reason: Sufficient context retrieved")
+        logger.info("[Compliance] Generation allowed: True")
         return ComplianceResult(
             action=ComplianceAction.ALLOW,
             reason="Sufficient context retrieved"
