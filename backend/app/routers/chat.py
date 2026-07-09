@@ -121,22 +121,33 @@ class SimpleGroqPipeline:
 
 
 async def _sse_stream(request: Request, payload: ChatRequest) -> AsyncIterator[str]:
+    logger.info(f"[Chat] Starting SSE stream for session: {payload.session_id}")
+    logger.info(f"[Chat] Query: '{payload.query[:50]}...'")
+    
     state = request.app.state.app_state
     settings = request.app.state.settings
+    
+    logger.info("[Chat] Building pipeline...")
     pipeline = _build_pipeline(request)
+    logger.info("[Chat] Pipeline built successfully")
     
     # Import compliance detector only when needed
+    logger.info("[Chat] Loading compliance detector...")
     from backend.app.compliance.detector import ComplianceDetector
     compliance = ComplianceDetector()
+    logger.info("[Chat] Compliance detector loaded")
     
     # Phase 6: Get or create session
+    logger.info("[Chat] Getting or creating session...")
     session = state.session_store.get_or_create_session(payload.session_id)
+    logger.info(f"[Chat] Session ready, history length: {len(session.history)}")
     
     try:
         # Phase 5: Compliance check before retrieval
+        logger.info("[Chat] Running compliance check on query...")
         query_result = compliance.check_query(payload.message)
         if query_result.action.value != "allow":
-            logger.info(f"Query blocked: {query_result.reason}")
+            logger.info(f"[Chat] Query blocked: {query_result.reason}")
             # Store user message even if blocked
             session.add_message("user", payload.message)
             yield _sse_event("blocked", {"reason": query_result.reason})
@@ -146,9 +157,14 @@ async def _sse_stream(request: Request, payload: ChatRequest) -> AsyncIterator[s
             yield _sse_event("done", {"session_id": payload.session_id})
             return
 
+        logger.info("[Chat] Query compliance check passed")
+
         # Skip retrieval if RAG is disabled
         if not settings.disable_rag:
+            logger.info("[Chat] Starting retrieval...")
             retrieval = pipeline.retrieve(payload.message)
+            logger.info(f"[Chat] Retrieval complete: {len(retrieval.chunks)} chunks")
+            
             yield _sse_event(
                 "retrieval",
                 {
@@ -159,9 +175,10 @@ async def _sse_stream(request: Request, payload: ChatRequest) -> AsyncIterator[s
             )
 
             # Phase 5: Compliance check after retrieval (anti-hallucination)
+            logger.info("[Chat] Running compliance check on retrieval...")
             retrieval_result = compliance.check_retrieval(retrieval.has_context, len(retrieval.chunks))
             if retrieval_result.action.value != "allow":
-                logger.info(f"Retrieval blocked: {retrieval_result.reason}")
+                logger.info(f"[Chat] Retrieval blocked: {retrieval_result.reason}")
                 # Store user message
                 session.add_message("user", payload.message)
                 yield _sse_event("blocked", {"reason": retrieval_result.reason})
@@ -172,27 +189,37 @@ async def _sse_stream(request: Request, payload: ChatRequest) -> AsyncIterator[s
                 return
         else:
             # Mock retrieval for simple mode
+            logger.info("[Chat] RAG disabled, using mock retrieval")
             from backend.app.rag.pipeline import RetrievalResult
             retrieval = RetrievalResult(chunks=[], retrieval_seconds=0.0, has_context=False)
 
+        logger.info("[Chat] Retrieval compliance check passed")
+
         # Phase 6: Get conversation history for context
+        logger.info("[Chat] Retrieving conversation history...")
         history = session.get_recent_messages(limit=5)
-        logger.info(f"Retrieved history for session {payload.session_id}: {len(history)} messages")
-        for i, msg in enumerate(history):
-            logger.info(f"History message {i}: role={msg['role']}, content={msg['content'][:100]}")
+        logger.info(f"[Chat] Retrieved {len(history)} history messages")
         
         # Store user message
+        logger.info("[Chat] Storing user message...")
         session.add_message("user", payload.message)
         
         # Stream response with history
+        logger.info("[Chat] Starting response stream...")
         full_response = ""
+        token_count = 0
         for token in pipeline.stream_answer(payload.message, retrieval=retrieval, history=history):
             full_response += token
+            token_count += 1
             yield _sse_event("token", {"content": token})
         
+        logger.info(f"[Chat] Stream complete, yielded {token_count} tokens")
+        
         # Store assistant response
+        logger.info("[Chat] Storing assistant response...")
         session.add_message("assistant", full_response)
 
+        logger.info("[Chat] SSE stream complete")
         yield _sse_event("done", {"session_id": payload.session_id})
     except Exception as exc:
         logger.exception("Chat stream failed")

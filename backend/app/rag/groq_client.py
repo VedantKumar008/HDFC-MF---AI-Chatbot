@@ -2,10 +2,13 @@
 
 from __future__ import annotations
 
+import logging
 from collections.abc import Iterator
 from typing import Any
 
 from groq import Groq
+
+logger = logging.getLogger(__name__)
 
 
 class GroqChatClient:
@@ -20,6 +23,9 @@ class GroqChatClient:
         temperature: float = 0.2,
         max_tokens: int = 1024,
     ) -> Iterator[str]:
+        logger.info(f"[Groq] Starting stream completion with model: {self.model}")
+        logger.info(f"[Groq] Message count: {len(messages)}")
+        
         stream = self.client.chat.completions.create(
             model=self.model,
             messages=messages,
@@ -27,8 +33,14 @@ class GroqChatClient:
             max_tokens=max_tokens,
             stream=True,
         )
+        
+        logger.info("[Groq] Stream created, yielding chunks...")
+        chunk_count = 0
         for chunk in stream:
             delta: Any = chunk.choices[0].delta
             content = getattr(delta, "content", None)
             if content:
+                chunk_count += 1
                 yield content
+        
+        logger.info(f"[Groq] Stream complete, yielded {chunk_count} chunks")

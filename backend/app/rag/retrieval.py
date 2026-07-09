@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import logging
 import re
 import time
 from dataclasses import dataclass
@@ -12,6 +13,8 @@ from typing import Any
 # from pipeline.pipeline.models import ChunkRecord
 
 from backend.app.schemas import SchemeSummary
+
+logger = logging.getLogger(__name__)
 
 
 # Type alias for compatibility with both FAISS and Pinecone
@@ -46,14 +49,21 @@ class RetrievalService:
         self.min_score = min_score
 
     def retrieve(self, query: str) -> RetrievalOutput:
+        logger.info(f"[Retrieval] Starting retrieval for query: '{query[:50]}...'")
         started = time.perf_counter()
+        
+        logger.info("[Retrieval] Detecting scheme IDs in query...")
         scheme_ids = detect_scheme_ids(query, self.schemes)
+        logger.info(f"[Retrieval] Detected scheme IDs: {scheme_ids}")
         
         # Handle both FAISS and Pinecone retrievers
+        logger.info(f"[Retrieval] Calling retriever.search with top_k={self.top_k * 2}")
         raw_results = self.retriever.search(query, top_k=self.top_k * 2)
+        logger.info(f"[Retrieval] Retriever returned {len(raw_results)} results")
         
         # Convert Pinecone results to expected format
-        if hasattr(raw_results[0], 'text'):  # PineconeChunk objects
+        if raw_results and hasattr(raw_results[0], 'text'):  # PineconeChunk objects
+            logger.info("[Retrieval] Converting Pinecone results to standard format")
             raw_results = [
                 (
                     {
@@ -66,7 +76,9 @@ class RetrievalService:
                 )
                 for chunk in raw_results
             ]
+            logger.info(f"[Retrieval] Conversion complete")
 
+        logger.info(f"[Retrieval] Filtering results (min_score={self.min_score})")
         filtered: list[RetrievedChunk] = []
         for chunk, score in raw_results:
             if score < self.min_score:
@@ -76,12 +88,15 @@ class RetrievalService:
             filtered.append(RetrievedChunk(chunk=chunk, score=score))
 
         if scheme_ids and not filtered:
+            logger.info("[Retrieval] No results after scheme filtering, relaxing filter")
             for chunk, score in raw_results:
                 if score >= self.min_score:
                     filtered.append(RetrievedChunk(chunk=chunk, score=score))
 
         filtered = filtered[: self.top_k]
         elapsed = time.perf_counter() - started
+        logger.info(f"[Retrieval] Retrieved {len(filtered)} chunks in {elapsed:.2f}s")
+        
         return RetrievalOutput(
             chunks=filtered,
             elapsed_seconds=elapsed,

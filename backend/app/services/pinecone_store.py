@@ -74,20 +74,49 @@ class PineconeRetriever:
             return []
         
         try:
-            # Import embedding model only when needed
-            from sentence_transformers import SentenceTransformer
+            logger.info(f"[Pinecone] Starting search for query: '{query[:50]}...'")
             
-            # Load embedding model
-            model = SentenceTransformer(self.embedding_model)
-            query_embedding = model.encode(query).tolist()
+            # Try OpenAI embeddings first (no local model loading)
+            logger.info("[Pinecone] Attempting OpenAI embeddings...")
+            try:
+                from openai import OpenAI
+                import os
+                
+                openai_api_key = os.getenv("OPENAI_API_KEY", "")
+                if openai_api_key:
+                    logger.info("[Pinecone] Using OpenAI API for embeddings")
+                    openai_client = OpenAI(api_key=openai_api_key)
+                    
+                    response = openai_client.embeddings.create(
+                        input=query,
+                        model="text-embedding-3-small"
+                    )
+                    query_embedding = response.data[0].embedding
+                    logger.info(f"[Pinecone] OpenAI embedding generated (dimension: {len(query_embedding)})")
+                else:
+                    raise ValueError("OPENAI_API_KEY not set")
+            except Exception as e:
+                logger.warning(f"[Pinecone] OpenAI embeddings failed: {e}, falling back to local model")
+                # Fallback to local sentence-transformers
+                logger.info("[Pinecone] Loading sentence-transformers model for query embedding...")
+                from sentence_transformers import SentenceTransformer
+                
+                model = SentenceTransformer(self.embedding_model)
+                logger.info(f"[Pinecone] Local embedding model loaded: {self.embedding_model}")
+                
+                logger.info("[Pinecone] Generating query embedding...")
+                query_embedding = model.encode(query).tolist()
+                logger.info(f"[Pinecone] Local query embedding generated (dimension: {len(query_embedding)})")
             
             # Search Pinecone
+            logger.info(f"[Pinecone] Querying Pinecone index with top_k={top_k}...")
             results = self._index.query(
                 vector=query_embedding,
                 top_k=top_k,
                 include_metadata=True,
                 namespace=""
             )
+            logger.info(f"[Pinecone] Pinecone returned {len(results.matches)} results")
             
             # Convert results to PineconeChunk objects
             chunks = []
@@ -102,10 +131,11 @@ class PineconeRetriever:
                 )
                 chunks.append(chunk)
             
+            logger.info(f"[Pinecone] Search complete, returning {len(chunks)} chunks")
             return chunks
             
         except Exception as exc:
-            logger.exception("Pinecone search failed")
+            logger.exception("[Pinecone] Search failed")
             return []
     
     @property
