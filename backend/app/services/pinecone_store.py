@@ -128,14 +128,22 @@ class PineconeRetriever:
             chunks = []
             for match in results.matches:
                 metadata = match.metadata or {}
+                chunk_text = metadata.get("text", "")
                 chunk = PineconeChunk(
-                    text=metadata.get("text", ""),
+                    text=chunk_text,
                     scheme_id=metadata.get("scheme_id", ""),
                     scheme_name=metadata.get("scheme_name", ""),
                     chunk_id=match.id,
                     score=match.score or 0.0
                 )
                 chunks.append(chunk)
+            
+            # Log chunk content for verification
+            logger.info("[Pinecone] Chunk content preview (first 1000 chars):")
+            for i, chunk in enumerate(chunks):
+                preview = chunk.text[:1000] if chunk.text else "[empty]"
+                logger.info(f"[Pinecone]   Chunk {i+1} (scheme={chunk.scheme_name}):")
+                logger.info(f"[Pinecone]   {preview}")
             
             logger.info("[Pinecone] Retrieval complete")
             return chunks
