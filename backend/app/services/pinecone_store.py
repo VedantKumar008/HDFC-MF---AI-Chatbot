@@ -115,6 +115,15 @@ class PineconeRetriever:
             )
             logger.info(f"[Pinecone] Pinecone returned {len(results.matches)} results")
             
+            # Log raw results before filtering
+            logger.info("[Pinecone] Raw Pinecone results (before filtering):")
+            for i, match in enumerate(results.matches):
+                score = match.score if match.score is not None else 0.0
+                metadata = match.metadata or {}
+                scheme_name = metadata.get("scheme_name", "Unknown")
+                chunk_id = match.id
+                logger.info(f"[Pinecone]   Result {i+1}: score={score:.4f}, scheme={scheme_name}, chunk_id={chunk_id}")
+            
             # Convert results to PineconeChunk objects
             chunks = []
             for match in results.matches:
