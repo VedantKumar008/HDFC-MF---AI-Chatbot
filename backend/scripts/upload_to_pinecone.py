@@ -44,6 +44,94 @@ def chunk_text(text: str, chunk_size: int = 500, overlap: int = 50) -> list[str]
     return chunks
 
 
+def build_comprehensive_text(scheme: dict[str, Any]) -> str:
+    """Build comprehensive text from all scheme fields for embedding."""
+    text_parts = []
+    
+    # Basic info
+    if scheme.get("scheme_name"):
+        text_parts.append(f"Scheme Name: {scheme['scheme_name']}")
+    if scheme.get("fund_name"):
+        text_parts.append(f"Fund Name: {scheme['fund_name']}")
+    if scheme.get("description"):
+        text_parts.append(f"Description: {scheme['description']}")
+    if scheme.get("fund_objective"):
+        text_parts.append(f"Fund Objective: {scheme['fund_objective']}")
+    
+    # Financial metrics
+    if scheme.get("nav"):
+        text_parts.append(f"NAV: {scheme['nav']}")
+    if scheme.get("nav_date"):
+        text_parts.append(f"NAV Date: {scheme['nav_date']}")
+    if scheme.get("aum"):
+        text_parts.append(f"AUM: {scheme['aum']}")
+    if scheme.get("expense_ratio"):
+        text_parts.append(f"Expense Ratio: {scheme['expense_ratio']}")
+    if scheme.get("exit_load"):
+        text_parts.append(f"Exit Load: {scheme['exit_load']}")
+    
+    # Fund details
+    if scheme.get("category"):
+        text_parts.append(f"Category: {scheme['category']}")
+    if scheme.get("sub_category"):
+        text_parts.append(f"Sub Category: {scheme['sub_category']}")
+    if scheme.get("risk_level"):
+        text_parts.append(f"Risk Level: {scheme['risk_level']}")
+    if scheme.get("fund_manager"):
+        text_parts.append(f"Fund Manager: {scheme['fund_manager']}")
+    if scheme.get("benchmark"):
+        text_parts.append(f"Benchmark: {scheme['benchmark']}")
+    
+    # Investment terms
+    investment_terms = scheme.get("investment_terms", {})
+    if investment_terms.get("min_investment_amount"):
+        text_parts.append(f"Minimum Investment: {investment_terms['min_investment_amount']}")
+    if investment_terms.get("min_sip_investment"):
+        text_parts.append(f"Minimum SIP: {investment_terms['min_sip_investment']}")
+    if investment_terms.get("lock_in"):
+        text_parts.append(f"Lock-in Period: {investment_terms['lock_in']}")
+    
+    # Holdings
+    holdings = scheme.get("holdings", [])
+    if holdings:
+        text_parts.append("Top Holdings:")
+        for holding in holdings[:10]:  # Top 10 holdings
+            if holding.get("company_name"):
+                text_parts.append(f"  - {holding['company_name']}: {holding.get('corpus_per', 'N/A')}%")
+    
+    # Asset allocation
+    asset_allocation = scheme.get("asset_allocation", {})
+    if asset_allocation.get("by_sector"):
+        text_parts.append("Sector Allocation:")
+        for sector in asset_allocation["by_sector"][:5]:
+            text_parts.append(f"  - {sector['name']}: {sector['percentage']}%")
+    
+    # Historical returns
+    historical_returns = scheme.get("historical_returns", {})
+    if historical_returns.get("simple_return"):
+        text_parts.append("Historical Returns:")
+        for period, value in historical_returns["simple_return"].items():
+            text_parts.append(f"  - {period}: {value}")
+    
+    # FAQ content
+    faq_content = scheme.get("faq_content", [])
+    if faq_content:
+        text_parts.append("FAQ:")
+        for faq in faq_content[:5]:
+            if faq.get("question") and faq.get("answer"):
+                text_parts.append(f"  Q: {faq['question']}")
+                text_parts.append(f"  A: {faq['answer']}")
+    
+    # Additional text sections
+    additional_text = scheme.get("additional_text", {})
+    if additional_text.get("investment_objective"):
+        text_parts.append(f"Investment Objective: {additional_text['investment_objective']}")
+    if additional_text.get("about"):
+        text_parts.append(f"About: {additional_text['about']}")
+    
+    return "\n\n".join(text_parts)
+
+
 def upload_to_pinecone(
     schemes_dir: Path,
     pinecone_api_key: str,
@@ -86,14 +174,34 @@ def upload_to_pinecone(
     batch_size = 100
     vectors = []
     
+    # Log first scheme structure for verification
+    if schemes:
+        logger.info("=" * 80)
+        logger.info("First scheme JSON structure for verification:")
+        logger.info(f"Scheme ID: {schemes[0].get('id', 'N/A')}")
+        logger.info(f"Scheme Name: {schemes[0].get('scheme_name', 'N/A')}")
+        logger.info("JSON keys:")
+        for key in sorted(schemes[0].keys()):
+            value = schemes[0][key]
+            value_preview = str(value)[:100] if value else "None"
+            logger.info(f"  {key}: {value_preview}")
+        logger.info("=" * 80)
+    
     for scheme in schemes:
         scheme_id = scheme.get("id", "")
-        scheme_name = scheme.get("name", "")
-        description = scheme.get("description", "")
-        key_features = scheme.get("key_features", "")
+        scheme_name = scheme.get("scheme_name", "")
         
-        # Combine text for embedding
-        full_text = f"{scheme_name}\n{description}\n{key_features}"
+        # Build comprehensive text from all fields
+        full_text = build_comprehensive_text(scheme)
+        
+        # Log text being embedded for first scheme
+        if scheme_id == schemes[0].get("id"):
+            logger.info("=" * 80)
+            logger.info(f"Text being embedded for {scheme_name}:")
+            logger.info(full_text[:2000])  # First 2000 chars
+            logger.info(f"Total character count: {len(full_text)}")
+            logger.info(f"Estimated token count: ~{len(full_text) // 4}")
+            logger.info("=" * 80)
         
         # Chunk the text
         chunks = chunk_text(full_text)
@@ -113,6 +221,14 @@ def upload_to_pinecone(
                 "chunk_index": i,
                 "total_chunks": len(chunks)
             }
+            
+            # Log chunk details for first scheme
+            if scheme_id == schemes[0].get("id") and i < 3:
+                logger.info(f"Chunk {i+1} for {scheme_name}:")
+                logger.info(f"  Character count: {len(chunk)}")
+                logger.info(f"  Estimated tokens: ~{len(chunk) // 4}")
+                logger.info(f"  Preview: {chunk[:200]}...")
+                logger.info(f"  Metadata keys: {list(metadata.keys())}")
             
             vectors.append((vector_id, embedding, metadata))
             
