@@ -40,6 +40,12 @@ jobs:
           fi
           echo "✅ Verified 21 schemes scraped"
       
+      - name: Upload to Pinecone
+        env:
+          PINECONE_API_KEY: ${{ secrets.PINECONE_API_KEY }}
+        run: |
+          python backend/scripts/upload_to_pinecone.py
+      
       - name: Build FAISS index
         run: |
           python -m pipeline.pipeline
