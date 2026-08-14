@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Large Cap Fund Direct Growth",
   "fund_name": "HDFC Large Cap Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-  "scraped_at": "2026-08-13T05:17:38.370894+00:00",
+  "scraped_at": "2026-08-14T05:14:52.925711+00:00",
   "category": "Equity",
   "sub_category": "Large Cap",
   "super_category": "HDFC Large Cap Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.",
   "fund_objective": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.",
-  "nav": 1249.478,
-  "nav_date": "12-Aug-2026",
+  "nav": 1247.915,
+  "nav_date": "13-Aug-2026",
   "aum": 40197.8895,
   "expense_ratio": 1.02,
   "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -903,16 +903,16 @@
       "return1d": null,
       "return1w": null,
       "return1m": null,
-      "return3m": 28.540810275416273,
-      "return6m": 19.002972228655736,
-      "return9m": 6.742517121481331,
-      "return1y": 4.342528991206389,
-      "return2y": 3.2327022449543317,
-      "return3y": 5.464245704861612,
-      "return4y": 9.209633306427861,
-      "return5y": 10.73401735518642,
+      "return3m": 26.414384332796914,
+      "return6m": 18.160318230416507,
+      "return9m": 6.327280082687015,
+      "return1y": 4.052896455609687,
+      "return2y": 3.094430408077825,
+      "return3y": 5.367898101458211,
+      "return4y": 9.132269810615226,
+      "return5y": 10.671285074422876,
       "return7y": null,
-      "return10y": 13.254443402440518,
+      "return10y": 13.224403018862125,
       "return_default": null,
       "mean_return": null,
       "sharpe_ratio": null,
@@ -959,19 +959,19 @@
     "return_stats": [
       {
         "scheme_code": "119018",
-        "return1d": -0.02,
-        "return1w": -0.81,
-        "return1m": 1.03,
-        "return3m": 7.49,
-        "return6m": -2.59,
+        "return1d": -0.13,
+        "return1w": -0.97,
+        "return1m": 0.88,
+        "return3m": 7.4,
+        "return6m": -1.51,
         "return9m": null,
-        "return1y": 3.47,
+        "return1y": 2.86,
         "return2y": null,
-        "return3y": 11.41,
+        "return3y": 11.35,
         "return4y": null,
-        "return5y": 12.97,
+        "return5y": 12.75,
         "return7y": null,
-        "return10y": 12.99,
+        "return10y": 12.98,
         "return_default": 13.08,
         "mean_return": 11.05,
         "sharpe_ratio": 0.4056075183,
@@ -979,7 +979,7 @@
         "standard_deviation": 13.856106048363943,
         "risk_rating": 6,
         "risk": "Very High",
-        "return_since_created": 13.2700148879,
+        "return_since_created": 13.2567687028,
         "cat_return3m": 4.300861588216572,
         "cat_return6m": 1.334737936122353,
         "cat_return1y": 7.147399676288311,
@@ -987,9 +987,9 @@
         "cat_return5y": 14.963175625273163,
         "cat_return10y": 13.15689160055596,
         "cat_return_since_launch": null,
-        "rank3m": 37,
+        "rank3m": 32,
         "rank6m": 63,
-        "rank1yr": 50,
+        "rank1yr": 49,
         "rank3yr": 43,
         "rank5yr": 16,
         "rank10yr": 13,
@@ -1019,9 +1019,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 3.47,
-        "stat_3y": 11.41,
-        "stat_5y": 12.97,
+        "stat_1y": 2.86,
+        "stat_3y": 11.35,
+        "stat_5y": 12.75,
         "stat_all": 13.08,
         "title": "Fund Returns"
       },
@@ -1035,7 +1035,7 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 50,
+        "stat_1y": 49,
         "stat_3y": 43,
         "stat_5y": 16,
         "stat_all": null,
@@ -1044,6 +1044,48 @@
     ],
     "portfolio_turnover": 18.0,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 1.02,
+        "as_on_date": "2026-08-07T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.02,
+        "as_on_date": "2026-08-06T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.02,
+        "as_on_date": "2026-08-05T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.02,
+        "as_on_date": "2026-08-04T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.02,
+        "as_on_date": "2026-08-03T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.02,
+        "as_on_date": "2026-08-02T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.02,
+        "as_on_date": "2026-08-01T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 1.02,
         "as_on_date": "2026-07-31T00:00:00",
@@ -1071,48 +1113,6 @@
       {
         "expense_ratio": 1.03,
         "as_on_date": "2026-07-27T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.03,
-        "as_on_date": "2026-07-26T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.03,
-        "as_on_date": "2026-07-25T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.03,
-        "as_on_date": "2026-07-24T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.03,
-        "as_on_date": "2026-07-23T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.03,
-        "as_on_date": "2026-07-22T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.02,
-        "as_on_date": "2026-07-21T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.03,
-        "as_on_date": "2026-07-20T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       }
@@ -1170,7 +1170,7 @@
     "fund_management_section": "RB Rahul Baijal Jul 2022 - Present View details Education Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering Experience Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank. Also manages these schemes HDFC Large Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Defence Fund Direct Growth DM Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Low Duration Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Rate Debt Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Debt Fund Direct Plan Growth HDFC Medium Term Debt Fund Direct Growth HDFC Income Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Hybrid Debt Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Hybrid Equity Fund Direct Plan Growth HDFC Short Term Debt Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Debt Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large and Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Duration Debt Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
-    "meta_description": "HDFC Large Cap Fund Direct Growth is Large Cap Equity mutual fund with risk-reward rating of 4/10. It has track record of 13 years, with three year return of 11.41. Risk is Very High",
+    "meta_description": "HDFC Large Cap Fund Direct Growth is Large Cap Equity mutual fund with risk-reward rating of 4/10. It has track record of 13 years, with three year return of 11.35. Risk is Very High",
     "category_helper_text": "Invests in stocks as per Contrarian investment strategy",
     "blocked_reason": null,
     "brochure_link": null,
@@ -1200,7 +1200,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.180Z",
+    "launch_date": "1999-12-09T18:30:00.456Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1253,6 +1253,48 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 1.02,
+        "as_on_date": "2026-08-07T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.02,
+        "as_on_date": "2026-08-06T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.02,
+        "as_on_date": "2026-08-05T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.02,
+        "as_on_date": "2026-08-04T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.02,
+        "as_on_date": "2026-08-03T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.02,
+        "as_on_date": "2026-08-02T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.02,
+        "as_on_date": "2026-08-01T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 1.02,
         "as_on_date": "2026-07-31T00:00:00",
@@ -1354,48 +1396,6 @@
         "as_on_date": "2026-07-15T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.03,
-        "as_on_date": "2026-07-14T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.03,
-        "as_on_date": "2026-07-13T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.03,
-        "as_on_date": "2026-07-12T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.03,
-        "as_on_date": "2026-07-11T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.03,
-        "as_on_date": "2026-07-10T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.03,
-        "as_on_date": "2026-07-09T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.03,
-        "as_on_date": "2026-07-08T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
       }
     ],
     "fund_news": null,
@@ -1409,8 +1409,8 @@
         "sub_sub_category": "",
         "aum": 1931.4024,
         "mean_return": 11.44,
-        "return3y": 16.04,
-        "return1y": 10.65,
+        "return3y": 16,
+        "return1y": 9.72,
         "min_investment": 1000,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -1448,8 +1448,8 @@
         "sub_sub_category": "",
         "aum": 2144.5586,
         "mean_return": 12.98,
-        "return3y": 14.78,
-        "return1y": 6.35,
+        "return3y": 14.77,
+        "return1y": 5.7,
         "min_investment": 1000,
         "groww_rating": 4,
         "risk_rating": 6,
@@ -1481,14 +1481,53 @@
       {
         "id": null,
         "scheme_search": null,
+        "search_id": "nippon-india-large-cap-fund-direct-growth",
+        "category": "Equity",
+        "sub_category": "Large Cap",
+        "sub_sub_category": "",
+        "aum": 54224.565,
+        "mean_return": 12.09,
+        "return3y": 13.24,
+        "return1y": 1.62,
+        "min_investment": 100,
+        "groww_rating": 5,
+        "risk_rating": 6,
+        "super_category": "Nippon India Large Cap Fund",
+        "scheme_name": "Nippon India Large Cap Fund Direct Growth",
+        "fund_manager": "Ashwani Kumar, Sailesh Raj Bhan",
+        "fund_house": "Nippon India Mutual Fund",
+        "scheme_code": "118632",
+        "direct_scheme_code": "118632",
+        "regular_search_id": "reliance-top-200-fund-growth",
+        "launch_date": "2012-12-31T18:30:00.000Z",
+        "risk": "Very High",
+        "available_for_investment": true,
+        "prime_investment_allowed": null,
+        "min_sip_investment": 100,
+        "sip_allowed": true,
+        "plan_type": "Direct",
+        "scheme_type": "Growth",
+        "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/reliance_groww.png",
+        "groww_scheme_code": "INF204K01XI3",
+        "expense_ratio": "0.88",
+        "swp_frequencies": null,
+        "tag": null,
+        "sub_tag": null,
+        "note_text": null,
+        "deep_link": null,
+        "fund_name": "Nippon India Large Cap Fund"
+      },
+      {
+        "id": null,
+        "scheme_search": null,
         "search_id": "icici-prudential-large-cap-fund-direct-growth",
         "category": "Equity",
         "sub_category": "Large Cap",
         "sub_sub_category": "",
         "aum": 80960.34229763,
         "mean_return": 11.28,
-        "return3y": 13.33,
-        "return1y": 1.72,
+        "return3y": 13.21,
+        "return1y": 1.01,
         "min_investment": 100,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -1520,53 +1559,14 @@
       {
         "id": null,
         "scheme_search": null,
-        "search_id": "nippon-india-large-cap-fund-direct-growth",
-        "category": "Equity",
-        "sub_category": "Large Cap",
-        "sub_sub_category": "",
-        "aum": 54224.565,
-        "mean_return": 12.09,
-        "return3y": 13.29,
-        "return1y": 2.59,
-        "min_investment": 100,
-        "groww_rating": 5,
-        "risk_rating": 6,
-        "super_category": "Nippon India Large Cap Fund",
-        "scheme_name": "Nippon India Large Cap Fund Direct Growth",
-        "fund_manager": "Ashwani Kumar, Sailesh Raj Bhan",
-        "fund_house": "Nippon India Mutual Fund",
-        "scheme_code": "118632",
-        "direct_scheme_code": "118632",
-        "regular_search_id": "reliance-top-200-fund-growth",
-        "launch_date": "2012-12-31T18:30:00.000Z",
-        "risk": "Very High",
-        "available_for_investment": true,
-        "prime_investment_allowed": null,
-        "min_sip_investment": 100,
-        "sip_allowed": true,
-        "plan_type": "Direct",
-        "scheme_type": "Growth",
-        "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/reliance_groww.png",
-        "groww_scheme_code": "INF204K01XI3",
-        "expense_ratio": "0.87",
-        "swp_frequencies": null,
-        "tag": null,
-        "sub_tag": null,
-        "note_text": null,
-        "deep_link": null,
-        "fund_name": "Nippon India Large Cap Fund"
-      },
-      {
-        "id": null,
-        "scheme_search": null,
         "search_id": "edelweiss-large-cap-fund-direct-growth",
         "category": "Equity",
         "sub_category": "Large Cap",
         "sub_sub_category": "",
         "aum": 1443.24370609,
         "mean_return": 12.63,
-        "return3y": 12.13,
-        "return1y": 4.89,
+        "return3y": 12.09,
+        "return1y": 3.94,
         "min_investment": 100,
         "groww_rating": 4,
         "risk_rating": 6,
