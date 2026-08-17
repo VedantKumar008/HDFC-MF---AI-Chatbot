@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Long Duration Debt Fund Direct Growth",
   "fund_name": "HDFC Long Duration Debt Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-long-duration-debt-fund-direct-growth",
-  "scraped_at": "2026-08-16T04:07:49.512558+00:00",
+  "scraped_at": "2026-08-17T04:11:09.379781+00:00",
   "category": "Debt",
   "sub_category": "Long Duration",
   "super_category": "HDFC Long Duration Debt Fund",
@@ -562,15 +562,15 @@
   "historical_returns": {
     "simple_return": {
       "scheme_code": "151313",
-      "return1d": 0.2373492832,
-      "return1w": 0.5843124802,
-      "return1m": -0.6430565576,
-      "return3m": 2.5546381739,
-      "return6m": 3.8423709921,
-      "return9m": 3.2499918506,
-      "return1y": 3.0124155426,
-      "return2y": 9.041147765317,
-      "return3y": 21.779751434585,
+      "return1d": 0.0798665758,
+      "return1w": 0.8832165183,
+      "return1m": 1.0411231798,
+      "return3m": 4.6300313526,
+      "return6m": 4.3992844833,
+      "return9m": 4.637740483,
+      "return1y": 4.7046005636,
+      "return2y": 9.800097932254,
+      "return3y": 22.681985717576,
       "return4y": null,
       "return5y": null,
       "return7y": null,
@@ -582,7 +582,7 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 26.696,
+      "return_since_created": 27.815,
       "cat_return3m": null,
       "cat_return6m": null,
       "cat_return1y": 3.7299866883645727,
@@ -880,6 +880,10 @@
       "answer": "3Y annualised returns lower than category average by 0.31%"
     },
     {
+      "question": "rank_analysis",
+      "answer": "Consistently top ranked fund"
+    },
+    {
       "question": "rating_analysis",
       "answer": "Low rating: 2"
     },
@@ -925,7 +929,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.088Z",
+    "launch_date": "1999-12-09T18:30:00.017Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -981,6 +985,14 @@
         "analysis_subject": "c_return_analysis",
         "analysis_desc": "3Y annualised returns lower than category average by 0.31%",
         "analysis_data": "c_return_analysis",
+        "rating": null
+      },
+      {
+        "scheme_code": "151313",
+        "analysis_type": "PROS",
+        "analysis_subject": "rank_analysis",
+        "analysis_desc": "Consistently top ranked fund",
+        "analysis_data": "rank_analysis",
         "rating": null
       },
       {
