@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Dividend Yield Fund Direct Growth",
   "fund_name": "HDFC Dividend Yield Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-dividend-yield-fund-direct-growth",
-  "scraped_at": "2026-08-17T04:11:01.979103+00:00",
+  "scraped_at": "2026-08-18T04:05:56.927170+00:00",
   "category": "Equity",
   "sub_category": "Thematic",
   "super_category": "HDFC Dividend Yield Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to provide capital appreciation and/or dividend distribution by predominantly investing in a well-diversified portfolio of equity and equity related instruments of dividend yielding companies.",
   "fund_objective": "The scheme seeks to provide capital appreciation and/or dividend distribution by predominantly investing in a well-diversified portfolio of equity and equity related instruments of dividend yielding companies.",
-  "nav": 27.22,
-  "nav_date": "14-Aug-2026",
+  "nav": 27.172,
+  "nav_date": "17-Aug-2026",
   "aum": 5695.9726,
   "expense_ratio": 0.85,
   "exit_load": "Exit load of 1% if redeemed within 1 year.",
@@ -1593,17 +1593,17 @@
     "return_stats": [
       {
         "scheme_code": "148609",
-        "return1d": -0.27,
-        "return1w": -0.52,
-        "return1m": 2.21,
-        "return3m": 4.82,
-        "return6m": 2.34,
+        "return1d": -0.18,
+        "return1w": -0.63,
+        "return1m": 1.25,
+        "return3m": 4.9,
+        "return6m": 0.97,
         "return9m": null,
-        "return1y": 4.41,
+        "return1y": 4.19,
         "return2y": null,
-        "return3y": 13.71,
+        "return3y": 13.67,
         "return4y": null,
-        "return5y": 15.58,
+        "return5y": 15.49,
         "return7y": null,
         "return10y": null,
         "return_default": 64.51,
@@ -1613,7 +1613,7 @@
         "standard_deviation": 15.641438990663636,
         "risk_rating": 6,
         "risk": "Very High",
-        "return_since_created": 19.3627578738,
+        "return_since_created": 19.2949456366,
         "cat_return3m": 4.029477140522222,
         "cat_return6m": 1.4918757404444445,
         "cat_return1y": 4.312866904131056,
@@ -1653,9 +1653,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 4.41,
-        "stat_3y": 13.71,
-        "stat_5y": 15.58,
+        "stat_1y": 4.19,
+        "stat_3y": 13.67,
+        "stat_5y": 15.49,
         "stat_all": 64.51,
         "title": "Fund Returns"
       },
@@ -1772,15 +1772,11 @@
   "faq_content": [
     {
       "question": "c_return_analysis",
-      "answer": "3Y and 5Y annualised returns lower than category average"
+      "answer": "Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y"
     },
     {
       "question": "expense_analysis",
       "answer": "Lower expense ratio: 0.85%"
-    },
-    {
-      "question": "p_return_analysis",
-      "answer": "1Y annualised returns higher than category average by 0.1%"
     },
     {
       "question": "Understand terms",
@@ -1794,7 +1790,7 @@
     "fund_management_section": "PR Priya Ranjan May 2022 - Present View details Education Mr. Ranjan is B.E(Computer Science) and PGDBM (Finance). Experience He has over 14 years of experience in equity research. Also manages these schemes HDFC Gilt Fund Direct Growth HDFC Dividend Yield Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth GA Gopal Agrawal Nov 2020 - Present View details Education Mr.Agrawal is a B.E and MBM. Experience Prior to joining HDFC Mutual Fund he has worked with DSP Mutual Fund, Tata AMC, Mirae Asset Mutual Fund ,SBI Mutual Fund, Kotak Securities, HDFC Securities, IDBI Capital, UTI Securities and IPCL. Also manages these schemes HDFC Balanced Advantage Fund Direct Growth HDFC Large and Mid Cap Fund Direct Growth HDFC Dividend Yield Fund Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
-    "meta_description": "HDFC Dividend Yield Fund Direct Growth is Thematic Equity mutual fund with risk-reward rating of null/10. It has track record of 6 years, with three year return of 13.71. Risk is Very High",
+    "meta_description": "HDFC Dividend Yield Fund Direct Growth is Thematic Equity mutual fund with risk-reward rating of null/10. It has track record of 6 years, with three year return of 13.67. Risk is Very High",
     "category_helper_text": "Invests in stocks as per Contrarian investment strategy",
     "blocked_reason": null,
     "brochure_link": "https://files.hdfcfund.com/s3fs-public/Others/2020-11/Leaflet%20-%20HDFC%20Dividend%20Yield%20Fund.pdf",
@@ -1824,7 +1820,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.574Z",
+    "launch_date": "1999-12-09T18:30:00.115Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1854,7 +1850,7 @@
         "scheme_code": "148609",
         "analysis_type": "CONS",
         "analysis_subject": "c_return_analysis",
-        "analysis_desc": "3Y and 5Y annualised returns lower than category average",
+        "analysis_desc": "Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y",
         "analysis_data": "c_return_analysis",
         "rating": null
       },
@@ -1864,14 +1860,6 @@
         "analysis_subject": "expense_analysis",
         "analysis_desc": "Lower expense ratio: 0.85%",
         "analysis_data": "0.85",
-        "rating": null
-      },
-      {
-        "scheme_code": "148609",
-        "analysis_type": "PROS",
-        "analysis_subject": "p_return_analysis",
-        "analysis_desc": "1Y annualised returns higher than category average by 0.1%",
-        "analysis_data": "p_return_analysis",
         "rating": null
       }
     ],
