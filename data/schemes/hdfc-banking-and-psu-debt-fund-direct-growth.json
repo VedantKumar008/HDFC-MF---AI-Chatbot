@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Banking and PSU Debt Fund Direct Growth",
   "fund_name": "HDFC Banking and PSU Debt Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-banking-and-psu-debt-fund-direct-growth",
-  "scraped_at": "2026-08-19T04:07:22.647067+00:00",
+  "scraped_at": "2026-08-20T04:07:37.209488+00:00",
   "category": "Debt",
   "sub_category": "Banking and PSU",
   "super_category": "HDFC Banking and PSU Debt Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to generate income / capital appreciation through investments in debt and money market instruments consisting predominantly of securities issued by entities such as Scheduled Commercial Banks (SCBs), Public Sector undertakings (PSUs), Public Financial Institutions (PFIs), Municipal Corporations and such other bodies.",
   "fund_objective": "The scheme seeks to generate income / capital appreciation through investments in debt and money market instruments consisting predominantly of securities issued by entities such as Scheduled Commercial Banks (SCBs), Public Sector undertakings (PSUs), Public Financial Institutions (PFIs), Municipal Corporations and such other bodies.",
-  "nav": 25.5347,
-  "nav_date": "18-Aug-2026",
+  "nav": 25.5444,
+  "nav_date": "19-Aug-2026",
   "aum": 5209.0611,
   "expense_ratio": 0.35,
   "exit_load": "Nil",
@@ -1548,16 +1548,16 @@
       "return1d": null,
       "return1w": null,
       "return1m": null,
-      "return3m": 8.573977450645657,
-      "return6m": 8.127686008528833,
-      "return9m": 6.793181921625202,
-      "return1y": 6.2842034265005315,
-      "return2y": 6.445767064550223,
-      "return3y": 6.986828047546578,
-      "return4y": 7.163455072043215,
-      "return5y": 7.006893521077479,
+      "return3m": 8.70115283980894,
+      "return6m": 8.197345811725576,
+      "return9m": 6.848851429675879,
+      "return1y": 6.328559004685264,
+      "return2y": 6.467427202966089,
+      "return3y": 7.000218151362006,
+      "return4y": 7.173170643447271,
+      "return5y": 7.0147444682714974,
       "return7y": null,
-      "return10y": 7.064078261639614,
+      "return10y": 7.067781804207629,
       "return_default": null,
       "mean_return": null,
       "sharpe_ratio": null,
@@ -1604,17 +1604,17 @@
     "return_stats": [
       {
         "scheme_code": "128629",
-        "return1d": -0.08,
-        "return1w": -0.06,
-        "return1m": 0.48,
+        "return1d": 0.04,
+        "return1w": -0.05,
+        "return1m": 0.52,
         "return3m": 3,
-        "return6m": 2.89,
+        "return6m": 2.93,
         "return9m": null,
-        "return1y": 5.69,
+        "return1y": 5.79,
         "return2y": null,
         "return3y": 7.4,
         "return4y": null,
-        "return5y": 6.41,
+        "return5y": 6.42,
         "return7y": null,
         "return10y": 7.34,
         "return_default": 8.96,
@@ -1624,7 +1624,7 @@
         "standard_deviation": 1.662969152875899,
         "risk_rating": 3,
         "risk": "Moderate",
-        "return_since_created": 7.8496210654,
+        "return_since_created": 7.8511227421,
         "cat_return3m": 1.333369641247619,
         "cat_return6m": 2.473155953457143,
         "cat_return1y": 7.372198229975028,
@@ -1633,8 +1633,8 @@
         "cat_return10y": 7.131918189784485,
         "cat_return_since_launch": null,
         "rank3m": 3,
-        "rank6m": 12,
-        "rank1yr": 6,
+        "rank6m": 11,
+        "rank1yr": 8,
         "rank3yr": 7,
         "rank5yr": 5,
         "rank10yr": 5,
@@ -1664,9 +1664,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 5.69,
+        "stat_1y": 5.79,
         "stat_3y": 7.4,
-        "stat_5y": 6.41,
+        "stat_5y": 6.42,
         "stat_all": 8.96,
         "title": "Fund Returns"
       },
@@ -1680,7 +1680,7 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 6,
+        "stat_1y": 8,
         "stat_3y": 7,
         "stat_5y": 5,
         "stat_all": null,
@@ -1689,6 +1689,12 @@
     ],
     "portfolio_turnover": null,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.35,
+        "as_on_date": "2026-08-18T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.35,
         "as_on_date": "2026-08-17T00:00:00",
@@ -1754,12 +1760,6 @@
         "as_on_date": "2026-08-07T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.35,
-        "as_on_date": "2026-08-06T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
       }
     ]
   },
@@ -1790,7 +1790,7 @@
   "faq_content": [
     {
       "question": "c_return_analysis",
-      "answer": "1Y annualised returns lower than category average by 1.68%"
+      "answer": "1Y annualised returns lower than category average by 1.58%"
     },
     {
       "question": "exit_load",
@@ -1850,7 +1850,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.144Z",
+    "launch_date": "1999-12-09T18:30:00.667Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1880,7 +1880,7 @@
         "scheme_code": "128629",
         "analysis_type": "CONS",
         "analysis_subject": "c_return_analysis",
-        "analysis_desc": "1Y annualised returns lower than category average by 1.68%",
+        "analysis_desc": "1Y annualised returns lower than category average by 1.58%",
         "analysis_data": "c_return_analysis",
         "rating": null
       },
@@ -1927,6 +1927,12 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.35,
+        "as_on_date": "2026-08-18T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.35,
         "as_on_date": "2026-08-17T00:00:00",
@@ -2032,7 +2038,7 @@
       {
         "expense_ratio": 0.35,
         "as_on_date": "2026-07-31T00:00:00",
-        "frequency": "Monthly",
+        "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
@@ -2064,12 +2070,6 @@
         "as_on_date": "2026-07-26T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.35,
-        "as_on_date": "2026-07-25T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
       }
     ],
     "fund_news": null,
@@ -2084,7 +2084,7 @@
         "aum": 585.12677346,
         "mean_return": 8,
         "return3y": 7.64,
-        "return1y": 6.64,
+        "return1y": 6.71,
         "min_investment": 5000,
         "groww_rating": 5,
         "risk_rating": 7,
@@ -2123,7 +2123,7 @@
         "aum": 8849.6608869,
         "mean_return": 7.31,
         "return3y": 7.53,
-        "return1y": 6.16,
+        "return1y": 6.23,
         "min_investment": 500,
         "groww_rating": 4,
         "risk_rating": 3,
@@ -2162,7 +2162,7 @@
         "aum": 1482.5585,
         "mean_return": 4.46,
         "return3y": 7.49,
-        "return1y": 6.08,
+        "return1y": 6.15,
         "min_investment": 500,
         "groww_rating": 5,
         "risk_rating": 7,
@@ -2200,8 +2200,8 @@
         "sub_sub_category": "",
         "aum": 12121.9628,
         "mean_return": 7.92,
-        "return3y": 7.34,
-        "return1y": 6.2,
+        "return3y": 7.35,
+        "return1y": 6.25,
         "min_investment": 1000,
         "groww_rating": 4,
         "risk_rating": 3,
@@ -2240,7 +2240,7 @@
         "aum": 8833.1254,
         "mean_return": 7.82,
         "return3y": 7.29,
-        "return1y": 5.42,
+        "return1y": 5.57,
         "min_investment": 1000,
         "groww_rating": 3,
         "risk_rating": 3,

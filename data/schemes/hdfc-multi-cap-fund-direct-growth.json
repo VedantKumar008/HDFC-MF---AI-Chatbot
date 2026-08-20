@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Multi Cap Fund Direct Growth",
   "fund_name": "HDFC Multi Cap Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-multi-cap-fund-direct-growth",
-  "scraped_at": "2026-08-19T04:06:57.154753+00:00",
+  "scraped_at": "2026-08-20T04:07:11.594450+00:00",
   "category": "Equity",
   "sub_category": "Multi Cap",
   "super_category": "HDFC Multi Cap Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to generate long term capital appreciation by investing in equity and equity related securities of large cap, mid cap and small cap companies.",
   "fund_objective": "The scheme seeks to generate long term capital appreciation by investing in equity and equity related securities of large cap, mid cap and small cap companies.",
-  "nav": 20.08,
-  "nav_date": "18-Aug-2026",
+  "nav": 20.023,
+  "nav_date": "19-Aug-2026",
   "aum": 20582.743,
   "expense_ratio": 0.93,
   "exit_load": "Exit load of 1% if redeemed within 1 year.",
@@ -1724,15 +1724,15 @@
     "return_stats": [
       {
         "scheme_code": "149368",
-        "return1d": -0.18,
-        "return1w": -0.82,
-        "return1m": 1.09,
-        "return3m": 6.22,
-        "return6m": 0.81,
+        "return1d": -0.28,
+        "return1w": -0.89,
+        "return1m": 0.8,
+        "return3m": 5.28,
+        "return6m": 1.87,
         "return9m": null,
-        "return1y": 2.17,
+        "return1y": 1.23,
         "return2y": null,
-        "return3y": 14.07,
+        "return3y": 13.94,
         "return4y": null,
         "return5y": null,
         "return7y": null,
@@ -1744,7 +1744,7 @@
         "standard_deviation": 14.11537731489134,
         "risk_rating": 6,
         "risk": "Very High",
-        "return_since_created": 16.0244465879,
+        "return_since_created": 15.9441303717,
         "cat_return3m": 2.298520165253846,
         "cat_return6m": -0.7710611935157895,
         "cat_return1y": 0.9335697299333917,
@@ -1752,7 +1752,7 @@
         "cat_return5y": null,
         "cat_return10y": null,
         "cat_return_since_launch": null,
-        "rank3m": 29,
+        "rank3m": 30,
         "rank6m": 36,
         "rank1yr": 35,
         "rank3yr": 18,
@@ -1784,8 +1784,8 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 2.17,
-        "stat_3y": 14.07,
+        "stat_1y": 1.23,
+        "stat_3y": 13.94,
         "stat_5y": null,
         "stat_all": null,
         "title": "Fund Returns"
@@ -1809,6 +1809,12 @@
     ],
     "portfolio_turnover": 44.0,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.93,
+        "as_on_date": "2026-08-18T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.93,
         "as_on_date": "2026-08-17T00:00:00",
@@ -1874,12 +1880,6 @@
         "as_on_date": "2026-08-07T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.93,
-        "as_on_date": "2026-08-06T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
       }
     ]
   },
@@ -1907,11 +1907,11 @@
     },
     {
       "question": "p_return_analysis",
-      "answer": "1Y annualised returns higher than category average by 1.24%"
+      "answer": "1Y annualised returns higher than category average by 0.3%"
     },
     {
       "question": "c_return_analysis",
-      "answer": "3Y annualised returns lower than category average by 4.47%"
+      "answer": "3Y annualised returns lower than category average by 4.6%"
     },
     {
       "question": "Understand terms",
@@ -1925,7 +1925,7 @@
     "fund_management_section": "AK Amar Kalkundrikar Sep 2025 - Present View details Education Mr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Business School. Experience Prior to joining HDFC Asset Management Company Limited, he has worked with Nippon India Mutual Fund, and HDFC AMC. He worked with multiple roles at HDFC MF. Also manages these schemes HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Multi Cap Fund Direct Growth DM Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Low Duration Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Rate Debt Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Debt Fund Direct Plan Growth HDFC Medium Term Debt Fund Direct Growth HDFC Income Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Hybrid Debt Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Hybrid Equity Fund Direct Plan Growth HDFC Short Term Debt Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Debt Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large and Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Duration Debt Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
-    "meta_description": "HDFC Multi Cap Fund Direct Growth is Multi Cap Equity mutual fund with risk-reward rating of 3/10. It has track record of 5 years, with three year return of 14.07. Risk is Very High",
+    "meta_description": "HDFC Multi Cap Fund Direct Growth is Multi Cap Equity mutual fund with risk-reward rating of 3/10. It has track record of 5 years, with three year return of 13.94. Risk is Very High",
     "category_helper_text": "Invests in stocks as per Contrarian investment strategy",
     "blocked_reason": null,
     "brochure_link": "https://www.hdfcfund.com/our-products/hdfc-multi-cap-fund",
@@ -1955,7 +1955,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.611Z",
+    "launch_date": "1999-12-09T18:30:00.798Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1993,7 +1993,7 @@
         "scheme_code": "149368",
         "analysis_type": "PROS",
         "analysis_subject": "p_return_analysis",
-        "analysis_desc": "1Y annualised returns higher than category average by 1.24%",
+        "analysis_desc": "1Y annualised returns higher than category average by 0.3%",
         "analysis_data": "p_return_analysis",
         "rating": null
       },
@@ -2001,7 +2001,7 @@
         "scheme_code": "149368",
         "analysis_type": "CONS",
         "analysis_subject": "c_return_analysis",
-        "analysis_desc": "3Y annualised returns lower than category average by 4.47%",
+        "analysis_desc": "3Y annualised returns lower than category average by 4.6%",
         "analysis_data": "c_return_analysis",
         "rating": null
       }
@@ -2016,6 +2016,12 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.93,
+        "as_on_date": "2026-08-18T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.93,
         "as_on_date": "2026-08-17T00:00:00",
@@ -2121,8 +2127,8 @@
       {
         "expense_ratio": 0.94,
         "as_on_date": "2026-07-31T00:00:00",
-        "frequency": "Monthly",
-        "turn_over_ratio": 46.33
+        "frequency": "Daily",
+        "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.94,
@@ -2153,12 +2159,6 @@
         "as_on_date": "2026-07-26T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.94,
-        "as_on_date": "2026-07-25T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
       }
     ],
     "fund_news": null,
@@ -2172,8 +2172,8 @@
         "sub_sub_category": "",
         "aum": 10973.1403,
         "mean_return": null,
-        "return3y": 22.01,
-        "return1y": 12.56,
+        "return3y": 21.83,
+        "return1y": 11.47,
         "min_investment": 100,
         "groww_rating": 4,
         "risk_rating": 6,
@@ -2211,8 +2211,8 @@
         "sub_sub_category": "",
         "aum": 6067.7707,
         "mean_return": null,
-        "return3y": 21.11,
-        "return1y": 12.6,
+        "return3y": 20.91,
+        "return1y": 11.33,
         "min_investment": 5000,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -2233,7 +2233,7 @@
         "scheme_type": "Growth",
         "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/hsbc_groww.png",
         "groww_scheme_code": "INF336L01QN5",
-        "expense_ratio": "0.79",
+        "expense_ratio": "0.82",
         "swp_frequencies": null,
         "tag": null,
         "sub_tag": null,
@@ -2250,8 +2250,8 @@
         "sub_sub_category": "",
         "aum": 7184.308,
         "mean_return": 7.59,
-        "return3y": 19.37,
-        "return1y": 14.34,
+        "return3y": 19.16,
+        "return1y": 13.05,
         "min_investment": 1000,
         "groww_rating": 4,
         "risk_rating": 6,
@@ -2289,8 +2289,8 @@
         "sub_sub_category": "",
         "aum": 29274.38921419,
         "mean_return": null,
-        "return3y": 19.25,
-        "return1y": 9.18,
+        "return3y": 19.09,
+        "return1y": 7.67,
         "min_investment": 100,
         "groww_rating": 4,
         "risk_rating": 6,
@@ -2328,8 +2328,8 @@
         "sub_sub_category": "",
         "aum": 18769.02724104,
         "mean_return": 9.1,
-        "return3y": 18.54,
-        "return1y": 11.1,
+        "return3y": 18.29,
+        "return1y": 9.73,
         "min_investment": 5000,
         "groww_rating": 4,
         "risk_rating": 6,
