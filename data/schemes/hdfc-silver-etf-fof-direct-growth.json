@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Silver ETF FoF Direct Growth",
   "fund_name": "HDFC Silver ETF FoF Direct-Growth",
   "groww_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-  "scraped_at": "2026-08-23T04:09:05.789200+00:00",
+  "scraped_at": "2026-08-24T04:13:59.544221+00:00",
   "category": "Commodities",
   "sub_category": "Silver",
   "super_category": "HDFC Silver ETF FoF Direct-Growth",
@@ -429,15 +429,15 @@
   "historical_returns": {
     "simple_return": {
       "scheme_code": "150737",
-      "return1d": 0.1352803922,
-      "return1w": 0.3452153261,
-      "return1m": 6.302219303,
-      "return3m": -18.2819670728,
-      "return6m": -4.8699996762,
-      "return9m": 43.7037928868,
-      "return1y": 97.7017800852,
-      "return2y": 173.326177186202,
-      "return3y": 215.084969476983,
+      "return1d": 3.0902624529,
+      "return1w": 5.1852879726,
+      "return1m": 9.5525196335,
+      "return3m": -7.6742235347,
+      "return6m": -1.8028631696,
+      "return9m": 59.8779876316,
+      "return1y": 111.319990532,
+      "return2y": 176.668962192686,
+      "return3y": 228.899713467048,
       "return4y": null,
       "return5y": null,
       "return7y": null,
@@ -449,7 +449,7 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 284.212856,
+      "return_since_created": 304.135399,
       "cat_return3m": null,
       "cat_return6m": null,
       "cat_return1y": 154.77275140244063,
@@ -576,7 +576,7 @@
         "cat_return_since_launch": null,
         "rank3m": 13,
         "rank6m": 14,
-        "rank1yr": 7,
+        "rank1yr": 8,
         "rank3yr": 5,
         "rank5yr": null,
         "rank10yr": null,
@@ -622,7 +622,7 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 7,
+        "stat_1y": 8,
         "stat_3y": 5,
         "stat_5y": null,
         "stat_all": null,
@@ -764,10 +764,6 @@
       "answer": "1Y annualised returns lower than category average by 43.45%"
     },
     {
-      "question": "rank_analysis",
-      "answer": "Consistently top ranked fund"
-    },
-    {
       "question": "Understand terms",
       "answer": "Annualised returns Average of the yearly returns of a mutual fund over a given period. Absolute returns The total return of a mutual fund over a given period."
     }
@@ -809,7 +805,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.638Z",
+    "launch_date": "1999-12-09T18:30:00.244Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -857,14 +853,6 @@
         "analysis_subject": "c_return_analysis",
         "analysis_desc": "1Y annualised returns lower than category average by 43.45%",
         "analysis_data": "c_return_analysis",
-        "rating": null
-      },
-      {
-        "scheme_code": "150737",
-        "analysis_type": "PROS",
-        "analysis_subject": "rank_analysis",
-        "analysis_desc": "Consistently top ranked fund",
-        "analysis_data": "rank_analysis",
         "rating": null
       }
     ],
