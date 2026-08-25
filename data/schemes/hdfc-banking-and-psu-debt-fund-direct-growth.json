@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Banking and PSU Debt Fund Direct Growth",
   "fund_name": "HDFC Banking and PSU Debt Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-banking-and-psu-debt-fund-direct-growth",
-  "scraped_at": "2026-08-24T04:14:04.456752+00:00",
+  "scraped_at": "2026-08-25T04:08:46.167174+00:00",
   "category": "Debt",
   "sub_category": "Banking and PSU",
   "super_category": "HDFC Banking and PSU Debt Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to generate income / capital appreciation through investments in debt and money market instruments consisting predominantly of securities issued by entities such as Scheduled Commercial Banks (SCBs), Public Sector undertakings (PSUs), Public Financial Institutions (PFIs), Municipal Corporations and such other bodies.",
   "fund_objective": "The scheme seeks to generate income / capital appreciation through investments in debt and money market instruments consisting predominantly of securities issued by entities such as Scheduled Commercial Banks (SCBs), Public Sector undertakings (PSUs), Public Financial Institutions (PFIs), Municipal Corporations and such other bodies.",
-  "nav": 25.46,
-  "nav_date": "21-Aug-2026",
+  "nav": 25.4707,
+  "nav_date": "24-Aug-2026",
   "aum": 5209.0611,
   "expense_ratio": 0.35,
   "exit_load": "Nil",
@@ -1548,16 +1548,16 @@
       "return1d": null,
       "return1w": null,
       "return1m": null,
-      "return3m": 5.760273007962604,
-      "return6m": 6.667081803271552,
-      "return9m": 5.843661148920794,
-      "return1y": 5.578910978144903,
-      "return2y": 6.090684325832709,
-      "return3y": 6.74824565389065,
-      "return4y": 6.985330013794747,
-      "return5y": 6.866306629569404,
+      "return3m": 5.731100957741788,
+      "return6m": 6.623628141336696,
+      "return9m": 5.831220070940847,
+      "return1y": 5.573658929648108,
+      "return2y": 6.083962838794454,
+      "return3y": 6.740312221206751,
+      "return4y": 6.978495716882152,
+      "return5y": 6.8612564614537295,
       "return7y": null,
-      "return10y": 6.9970783098328795,
+      "return10y": 6.994477267015295,
       "return_default": null,
       "mean_return": null,
       "sharpe_ratio": null,
@@ -1604,15 +1604,15 @@
     "return_stats": [
       {
         "scheme_code": "128629",
-        "return1d": -0.14,
-        "return1w": -0.42,
-        "return1m": 0.13,
-        "return3m": 2.8,
-        "return6m": 2.66,
+        "return1d": 0.04,
+        "return1w": -0.33,
+        "return1m": 0.22,
+        "return3m": 2.75,
+        "return6m": 2.6,
         "return9m": null,
-        "return1y": 5.37,
+        "return1y": 5.38,
         "return2y": null,
-        "return3y": 7.27,
+        "return3y": 7.25,
         "return4y": null,
         "return5y": 6.34,
         "return7y": null,
@@ -1624,7 +1624,7 @@
         "standard_deviation": 1.662969152875899,
         "risk_rating": 3,
         "risk": "Moderate",
-        "return_since_created": 7.8187761009,
+        "return_since_created": 7.8170525448,
         "cat_return3m": 1.333369641247619,
         "cat_return6m": 2.473155953457143,
         "cat_return1y": 7.372198229975028,
@@ -1632,8 +1632,8 @@
         "cat_return5y": 5.745475830785206,
         "cat_return10y": 7.131918189784485,
         "cat_return_since_launch": null,
-        "rank3m": 3,
-        "rank6m": 11,
+        "rank3m": 4,
+        "rank6m": 13,
         "rank1yr": 10,
         "rank3yr": 8,
         "rank5yr": 6,
@@ -1664,8 +1664,8 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 5.37,
-        "stat_3y": 7.27,
+        "stat_1y": 5.38,
+        "stat_3y": 7.25,
         "stat_5y": 6.34,
         "stat_all": 8.96,
         "title": "Fund Returns"
@@ -1689,6 +1689,30 @@
     ],
     "portfolio_turnover": null,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.35,
+        "as_on_date": "2026-08-23T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.35,
+        "as_on_date": "2026-08-22T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.35,
+        "as_on_date": "2026-08-21T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.35,
+        "as_on_date": "2026-08-20T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.35,
         "as_on_date": "2026-08-19T00:00:00",
@@ -1736,30 +1760,6 @@
         "as_on_date": "2026-08-12T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.35,
-        "as_on_date": "2026-08-11T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.35,
-        "as_on_date": "2026-08-10T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.35,
-        "as_on_date": "2026-08-09T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.35,
-        "as_on_date": "2026-08-08T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
       }
     ]
   },
@@ -1790,7 +1790,7 @@
   "faq_content": [
     {
       "question": "c_return_analysis",
-      "answer": "1Y annualised returns lower than category average by 2.0%"
+      "answer": "Consistently lower annualised returns than category average for the past 1Y and 3Y"
     },
     {
       "question": "exit_load",
@@ -1806,7 +1806,7 @@
     },
     {
       "question": "p_return_analysis",
-      "answer": "3Y, 5Y and 10Y annualised returns higher than category average"
+      "answer": "5Y and 10Y annualised returns higher than category average"
     },
     {
       "question": "Understand terms",
@@ -1820,7 +1820,7 @@
     "fund_management_section": "AB Anil Bamboli Mar 2014 - Present View details Education Mr. Bamboli is a CFA from Association for Investment Management and Research, U.S.A, Masters in Management Studies (Finance) and a Graduate in Cost and Works Accountant from ICWAI. Experience Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years. Also manages these schemes HDFC Floating Rate Debt Fund Direct Plan Growth HDFC Gilt Fund Direct Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Debt Fund Direct Plan Growth HDFC Medium Term Debt Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Short Term Debt Fund Direct Plan Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Income Plus Arbitrage Active FoF Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Multi Asset Active FoF Direct Growth HDFC Children's Fund Direct Plan DM Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Low Duration Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Rate Debt Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Debt Fund Direct Plan Growth HDFC Medium Term Debt Fund Direct Growth HDFC Income Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Hybrid Debt Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Hybrid Equity Fund Direct Plan Growth HDFC Short Term Debt Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Debt Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large and Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Duration Debt Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
-    "meta_description": "HDFC Banking and PSU Debt Fund Direct Growth is Banking and PSU Debt mutual fund with risk-reward rating of 3/10. It has track record of 12 years, with three year return of 7.27. Risk is Moderate",
+    "meta_description": "HDFC Banking and PSU Debt Fund Direct Growth is Banking and PSU Debt mutual fund with risk-reward rating of 3/10. It has track record of 12 years, with three year return of 7.25. Risk is Moderate",
     "category_helper_text": "Invest in Government securities (80%+)",
     "blocked_reason": null,
     "brochure_link": null,
@@ -1850,7 +1850,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.818Z",
+    "launch_date": "1999-12-09T18:30:00.871Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1880,7 +1880,7 @@
         "scheme_code": "128629",
         "analysis_type": "CONS",
         "analysis_subject": "c_return_analysis",
-        "analysis_desc": "1Y annualised returns lower than category average by 2.0%",
+        "analysis_desc": "Consistently lower annualised returns than category average for the past 1Y and 3Y",
         "analysis_data": "c_return_analysis",
         "rating": null
       },
@@ -1912,7 +1912,7 @@
         "scheme_code": "128629",
         "analysis_type": "PROS",
         "analysis_subject": "p_return_analysis",
-        "analysis_desc": "3Y, 5Y and 10Y annualised returns higher than category average",
+        "analysis_desc": "5Y and 10Y annualised returns higher than category average",
         "analysis_data": "p_return_analysis",
         "rating": null
       }
@@ -1927,6 +1927,30 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.35,
+        "as_on_date": "2026-08-23T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.35,
+        "as_on_date": "2026-08-22T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.35,
+        "as_on_date": "2026-08-21T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.35,
+        "as_on_date": "2026-08-20T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.35,
         "as_on_date": "2026-08-19T00:00:00",
@@ -2046,30 +2070,6 @@
         "as_on_date": "2026-07-31T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.35,
-        "as_on_date": "2026-07-30T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.35,
-        "as_on_date": "2026-07-29T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.35,
-        "as_on_date": "2026-07-28T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.35,
-        "as_on_date": "2026-07-27T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
       }
     ],
     "fund_news": null,
@@ -2083,8 +2083,8 @@
         "sub_sub_category": "",
         "aum": 585.12677346,
         "mean_return": 8,
-        "return3y": 7.56,
-        "return1y": 6.52,
+        "return3y": 7.55,
+        "return1y": 6.53,
         "min_investment": 5000,
         "groww_rating": 5,
         "risk_rating": 7,
@@ -2122,8 +2122,8 @@
         "sub_sub_category": "",
         "aum": 1482.5585,
         "mean_return": 4.46,
-        "return3y": 7.44,
-        "return1y": 5.99,
+        "return3y": 7.43,
+        "return1y": 6.04,
         "min_investment": 500,
         "groww_rating": 5,
         "risk_rating": 7,
@@ -2161,7 +2161,7 @@
         "sub_sub_category": "",
         "aum": 8849.6608869,
         "mean_return": 7.31,
-        "return3y": 7.43,
+        "return3y": 7.39,
         "return1y": 5.92,
         "min_investment": 500,
         "groww_rating": 4,
@@ -2200,8 +2200,8 @@
         "sub_sub_category": "",
         "aum": 12121.9628,
         "mean_return": 7.92,
-        "return3y": 7.25,
-        "return1y": 5.98,
+        "return3y": 7.23,
+        "return1y": 6.02,
         "min_investment": 1000,
         "groww_rating": 4,
         "risk_rating": 3,
@@ -2239,7 +2239,7 @@
         "sub_sub_category": "",
         "aum": 8833.1254,
         "mean_return": 7.82,
-        "return3y": 7.18,
+        "return3y": 7.15,
         "return1y": 5.2,
         "min_investment": 1000,
         "groww_rating": 3,

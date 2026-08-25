@@ -3,7 +3,7 @@
   "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
   "fund_name": "HDFC ELSS Tax Saver Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-  "scraped_at": "2026-08-24T04:13:37.114195+00:00",
+  "scraped_at": "2026-08-25T04:08:19.317815+00:00",
   "category": "Equity",
   "sub_category": "ELSS",
   "super_category": "HDFC ELSS Tax Saver Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.",
   "fund_objective": "The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.",
-  "nav": 1512.292,
-  "nav_date": "21-Aug-2026",
+  "nav": 1509.693,
+  "nav_date": "24-Aug-2026",
   "aum": 16095.4454,
   "expense_ratio": 1.19,
   "exit_load": "Nil",
@@ -1034,16 +1034,16 @@
       "return1d": null,
       "return1w": null,
       "return1m": null,
-      "return3m": 19.578852845411937,
-      "return6m": 13.479288800321477,
-      "return9m": 2.9193602130684773,
-      "return1y": 0.5904785616843624,
-      "return2y": 2.3171890443624688,
-      "return3y": 6.8173090682744135,
-      "return4y": 11.70299815526148,
-      "return5y": 13.558363519287653,
+      "return3m": 16.99540384683799,
+      "return6m": 12.335360313266172,
+      "return9m": 2.411380114058781,
+      "return1y": 0.24850206521757856,
+      "return2y": 2.1270606327342505,
+      "return3y": 6.663365523657153,
+      "return4y": 11.567504296582094,
+      "return5y": 13.445600615753317,
       "return7y": null,
-      "return10y": 14.958620449819303,
+      "return10y": 14.905043264622043,
       "return_default": null,
       "mean_return": null,
       "sharpe_ratio": null,
@@ -1090,19 +1090,19 @@
     "return_stats": [
       {
         "scheme_code": "119060",
-        "return1d": -0.08,
-        "return1w": -0.19,
-        "return1m": 1.46,
-        "return3m": 5.57,
-        "return6m": -3.26,
+        "return1d": -0.17,
+        "return1w": -0.16,
+        "return1m": 2.51,
+        "return3m": 4.97,
+        "return6m": -2.98,
         "return9m": null,
-        "return1y": -2.04,
+        "return1y": -1.53,
         "return2y": null,
-        "return3y": 15.25,
+        "return3y": 14.85,
         "return4y": null,
-        "return5y": 16.24,
+        "return5y": 16.07,
         "return7y": null,
-        "return10y": 13.58,
+        "return10y": 13.61,
         "return_default": 12.03,
         "mean_return": 6.89,
         "sharpe_ratio": 0.6829941692,
@@ -1110,7 +1110,7 @@
         "standard_deviation": 13.505017920561162,
         "risk_rating": 6,
         "risk": "Very High",
-        "return_since_created": 14.2228443605,
+        "return_since_created": 14.1993107363,
         "cat_return3m": 2.7610679216358975,
         "cat_return6m": -0.5495507445794872,
         "cat_return1y": 2.4219756725166213,
@@ -1118,7 +1118,7 @@
         "cat_return5y": 16.480243926416804,
         "cat_return10y": 14.011062151166307,
         "cat_return_since_launch": null,
-        "rank3m": 20,
+        "rank3m": 22,
         "rank6m": 37,
         "rank1yr": 34,
         "rank3yr": 11,
@@ -1150,9 +1150,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": -2.04,
-        "stat_3y": 15.25,
-        "stat_5y": 16.24,
+        "stat_1y": -1.53,
+        "stat_3y": 14.85,
+        "stat_5y": 16.07,
         "stat_all": 12.03,
         "title": "Fund Returns"
       },
@@ -1175,6 +1175,30 @@
     ],
     "portfolio_turnover": 32.0,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 1.19,
+        "as_on_date": "2026-08-23T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.19,
+        "as_on_date": "2026-08-22T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.19,
+        "as_on_date": "2026-08-21T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.19,
+        "as_on_date": "2026-08-20T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 1.19,
         "as_on_date": "2026-08-19T00:00:00",
@@ -1220,30 +1244,6 @@
       {
         "expense_ratio": 1.19,
         "as_on_date": "2026-08-12T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.19,
-        "as_on_date": "2026-08-11T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.19,
-        "as_on_date": "2026-08-10T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.19,
-        "as_on_date": "2026-08-09T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.19,
-        "as_on_date": "2026-08-08T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       }
@@ -1299,7 +1299,7 @@
     "fund_management_section": "AK Amar Kalkundrikar Dec 2025 - Present View details Education Mr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Business School. Experience Prior to joining HDFC Asset Management Company Limited, he has worked with Nippon India Mutual Fund, and HDFC AMC. He worked with multiple roles at HDFC MF. Also manages these schemes HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Multi Cap Fund Direct Growth DM Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Low Duration Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Rate Debt Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Debt Fund Direct Plan Growth HDFC Medium Term Debt Fund Direct Growth HDFC Income Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Hybrid Debt Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Hybrid Equity Fund Direct Plan Growth HDFC Short Term Debt Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Debt Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large and Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Duration Debt Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹500 Min. for 2nd investment ₹500 Min. for SIP ₹500",
     "returns_and_rankings_section": "",
-    "meta_description": "HDFC ELSS Tax Saver Fund Direct Plan Growth is ELSS Equity mutual fund with risk-reward rating of 5/10. It has track record of 13 years, with three year return of 15.25. Risk is Very High",
+    "meta_description": "HDFC ELSS Tax Saver Fund Direct Plan Growth is ELSS Equity mutual fund with risk-reward rating of 5/10. It has track record of 13 years, with three year return of 14.85. Risk is Very High",
     "category_helper_text": "Invests in stocks as per Contrarian investment strategy",
     "blocked_reason": null,
     "brochure_link": null,
@@ -1343,7 +1343,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.799Z",
+    "launch_date": "1999-12-09T18:30:00.804Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1420,6 +1420,30 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 1.19,
+        "as_on_date": "2026-08-23T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.19,
+        "as_on_date": "2026-08-22T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.19,
+        "as_on_date": "2026-08-21T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.19,
+        "as_on_date": "2026-08-20T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 1.19,
         "as_on_date": "2026-08-19T00:00:00",
@@ -1539,30 +1563,6 @@
         "as_on_date": "2026-07-31T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.18,
-        "as_on_date": "2026-07-30T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.18,
-        "as_on_date": "2026-07-29T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.18,
-        "as_on_date": "2026-07-28T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.18,
-        "as_on_date": "2026-07-27T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
       }
     ],
     "fund_news": null,
@@ -1576,8 +1576,8 @@
         "sub_sub_category": "",
         "aum": 4783.809,
         "mean_return": 10.49,
-        "return3y": 23.81,
-        "return1y": 14.89,
+        "return3y": 23.25,
+        "return1y": 14.78,
         "min_investment": 500,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -1615,8 +1615,8 @@
         "sub_sub_category": "",
         "aum": 493.5129,
         "mean_return": null,
-        "return3y": 18.61,
-        "return1y": 6.51,
+        "return3y": 18.2,
+        "return1y": 6.55,
         "min_investment": 500,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -1654,8 +1654,8 @@
         "sub_sub_category": "",
         "aum": 32300.0857,
         "mean_return": 6.89,
-        "return3y": 16.35,
-        "return1y": -0.1,
+        "return3y": 15.8,
+        "return1y": 0.38,
         "min_investment": 500,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -1693,8 +1693,8 @@
         "sub_sub_category": "",
         "aum": 16095.4454,
         "mean_return": 6.89,
-        "return3y": 15.25,
-        "return1y": -2.04,
+        "return3y": 14.85,
+        "return1y": -1.53,
         "min_investment": 500,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -1732,8 +1732,8 @@
         "sub_sub_category": "",
         "aum": 6239.46233894,
         "mean_return": 13.54,
-        "return3y": 13.14,
-        "return1y": -1.75,
+        "return3y": 12.85,
+        "return1y": -1.29,
         "min_investment": 500,
         "groww_rating": 4,
         "risk_rating": 6,

@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Nifty LargeMidcap 250 Index Fund Direct Growth",
   "fund_name": "HDFC Nifty LargeMidcap 250 Index Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-nifty-largemidcap-250-index-fund-direct-growth",
-  "scraped_at": "2026-08-24T04:13:46.466796+00:00",
+  "scraped_at": "2026-08-25T04:08:28.323919+00:00",
   "category": "Equity",
   "sub_category": "Large & MidCap",
   "super_category": "HDFC Nifty LargeMidcap 250 Index Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to generate returns that are commensurate (before fees and expenses) with the performance of the Nifty LargeMidcap 250 Index (TRI), subject to tracking error.",
   "fund_objective": "The scheme seeks to generate returns that are commensurate (before fees and expenses) with the performance of the Nifty LargeMidcap 250 Index (TRI), subject to tracking error.",
-  "nav": 10.3269,
-  "nav_date": "21-Aug-2026",
+  "nav": 10.3252,
+  "nav_date": "24-Aug-2026",
   "aum": 458.6782,
   "expense_ratio": 0.25,
   "exit_load": "Nil",
@@ -342,6 +342,11 @@
           "scheme_name": "HDFC Nifty India Consumption Index Fund Direct Growth",
           "scheme_code": "154179",
           "search_id": "hdfc-nifty-india-consumption-index-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Gold Silver Passive FoF Direct Growth",
+          "scheme_code": "154355",
+          "search_id": "hdfc-gold-silver-passive-fof-direct-growth"
         },
         {
           "scheme_name": "HDFC Nifty Auto Index Fund Direct Growth",
@@ -3020,10 +3025,10 @@
       "return1d": null,
       "return1w": null,
       "return1m": null,
-      "return3m": 16.061982833299815,
-      "return6m": 19.332103158337844,
-      "return9m": 10.050218057822317,
-      "return1y": 7.75331861899613,
+      "return3m": 14.962521819062562,
+      "return6m": 18.628348088689606,
+      "return9m": 9.787753195303969,
+      "return1y": 7.593693261588924,
       "return2y": null,
       "return3y": null,
       "return4y": null,
@@ -3076,13 +3081,13 @@
     "return_stats": [
       {
         "scheme_code": "152889",
-        "return1d": 0.06,
-        "return1w": -0.27,
-        "return1m": 0.92,
-        "return3m": 4.09,
-        "return6m": 2.16,
+        "return1d": -0.02,
+        "return1w": -0.23,
+        "return1m": 2.79,
+        "return3m": 3.84,
+        "return6m": 2.58,
         "return9m": null,
-        "return1y": 4.39,
+        "return1y": 4.86,
         "return2y": null,
         "return3y": null,
         "return4y": null,
@@ -3096,7 +3101,7 @@
         "standard_deviation": 0,
         "risk_rating": 6,
         "risk": "Very High",
-        "return_since_created": 1.7390262225,
+        "return_since_created": 1.7223963615,
         "cat_return3m": 3.626998152994805,
         "cat_return6m": -0.2987822205028169,
         "cat_return1y": 0.9158200897705193,
@@ -3104,8 +3109,8 @@
         "cat_return5y": 18.00527887292082,
         "cat_return10y": 14.73190895043126,
         "cat_return_since_launch": null,
-        "rank3m": 34,
-        "rank6m": 31,
+        "rank3m": 33,
+        "rank6m": 30,
         "rank1yr": 29,
         "rank3yr": null,
         "rank5yr": null,
@@ -3136,7 +3141,7 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 4.39,
+        "stat_1y": 4.86,
         "stat_3y": null,
         "stat_5y": null,
         "stat_all": null,
@@ -3161,6 +3166,30 @@
     ],
     "portfolio_turnover": 27.0,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.25,
+        "as_on_date": "2026-08-23T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.25,
+        "as_on_date": "2026-08-22T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.25,
+        "as_on_date": "2026-08-21T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.25,
+        "as_on_date": "2026-08-20T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.25,
         "as_on_date": "2026-08-19T00:00:00",
@@ -3208,30 +3237,6 @@
         "as_on_date": "2026-08-12T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.25,
-        "as_on_date": "2026-08-11T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.25,
-        "as_on_date": "2026-08-10T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.25,
-        "as_on_date": "2026-08-09T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.25,
-        "as_on_date": "2026-08-08T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
       }
     ]
   },
@@ -3263,7 +3268,7 @@
     },
     {
       "question": "p_return_analysis",
-      "answer": "1Y annualised returns higher than category average by 3.47%"
+      "answer": "1Y annualised returns higher than category average by 3.94%"
     },
     {
       "question": "Understand terms",
@@ -3274,7 +3279,7 @@
     "about": "",
     "investment_objective": "The scheme seeks to generate returns that are commensurate (before fees and expenses) with the performance of the Nifty LargeMidcap 250 Index (TRI), subject to tracking error.",
     "fund_house_section": "",
-    "fund_management_section": "AA Arun Agarwal Sep 2024 - Present View details Education Mr. Agarwal is a B.Com. and Chartered Accountant Experience Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC NIFTY 50 ETF IDCW HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC BSE Sensex ETF HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth NM Nandita Menezes Mar 2025 - Present View details Education CA (ICAI, INDIA), B.Com (University of Mumbai) Experience Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth",
+    "fund_management_section": "AA Arun Agarwal Sep 2024 - Present View details Education Mr. Agarwal is a B.Com. and Chartered Accountant Experience Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC NIFTY 50 ETF IDCW HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC BSE Sensex ETF HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth NM Nandita Menezes Mar 2025 - Present View details Education CA (ICAI, INDIA), B.Com (University of Mumbai) Experience Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Gold Silver Passive FoF Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
     "meta_description": "HDFC Nifty LargeMidcap 250 Index Fund Direct Growth is Large & MidCap Equity mutual fund with risk-reward rating of null/10. It has track record of 2 years, with three year return of null. Risk is Very High",
@@ -3307,7 +3312,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.348Z",
+    "launch_date": "1999-12-09T18:30:00.801Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -3353,7 +3358,7 @@
         "scheme_code": "152889",
         "analysis_type": "PROS",
         "analysis_subject": "p_return_analysis",
-        "analysis_desc": "1Y annualised returns higher than category average by 3.47%",
+        "analysis_desc": "1Y annualised returns higher than category average by 3.94%",
         "analysis_data": "p_return_analysis",
         "rating": null
       }
@@ -3368,6 +3373,30 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.25,
+        "as_on_date": "2026-08-23T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.25,
+        "as_on_date": "2026-08-22T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.25,
+        "as_on_date": "2026-08-21T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.25,
+        "as_on_date": "2026-08-20T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.25,
         "as_on_date": "2026-08-19T00:00:00",
@@ -3487,30 +3516,6 @@
         "as_on_date": "2026-07-31T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.25,
-        "as_on_date": "2026-07-30T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.25,
-        "as_on_date": "2026-07-29T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.25,
-        "as_on_date": "2026-07-28T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.25,
-        "as_on_date": "2026-07-27T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
       }
     ],
     "fund_news": null,
@@ -3524,8 +3529,8 @@
         "sub_sub_category": "",
         "aum": 18444.8097,
         "mean_return": 21.62,
-        "return3y": 24.29,
-        "return1y": 13.63,
+        "return3y": 23.71,
+        "return1y": 13.67,
         "min_investment": 500,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -3563,8 +3568,8 @@
         "sub_sub_category": "",
         "aum": 19777.4214,
         "mean_return": 9.05,
-        "return3y": 19.93,
-        "return1y": 6.45,
+        "return3y": 19.62,
+        "return1y": 6.84,
         "min_investment": 1000,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -3602,8 +3607,8 @@
         "sub_sub_category": "",
         "aum": 32706.25162534,
         "mean_return": 6.79,
-        "return3y": 18.07,
-        "return1y": 6.64,
+        "return3y": 18.02,
+        "return1y": 7.56,
         "min_investment": 500,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -3641,8 +3646,8 @@
         "sub_sub_category": "",
         "aum": 7704.5742,
         "mean_return": 5.94,
-        "return3y": 17.25,
-        "return1y": 4.44,
+        "return3y": 16.84,
+        "return1y": 4.56,
         "min_investment": 5000,
         "groww_rating": 4,
         "risk_rating": 6,
