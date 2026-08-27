@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Banking and PSU Debt Fund Direct Growth",
   "fund_name": "HDFC Banking and PSU Debt Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-banking-and-psu-debt-fund-direct-growth",
-  "scraped_at": "2026-08-26T04:10:23.497235+00:00",
+  "scraped_at": "2026-08-27T14:25:44.422020+00:00",
   "category": "Debt",
   "sub_category": "Banking and PSU",
   "super_category": "HDFC Banking and PSU Debt Fund",
@@ -26,9 +26,9 @@
       "date_from": "2014-03-19T18:30:00.000Z",
       "funds_managed": [
         {
-          "scheme_name": "HDFC Floating Rate Debt Fund Direct Plan Growth",
+          "scheme_name": "HDFC Floating Interest Rates Fund Direct Plan Growth",
           "scheme_code": "118961",
-          "search_id": "hdfc-floating-rate-i-come-fund-short-term-fund-wp-direct-growth"
+          "search_id": "hdfc-floating-interest-rates-fund-direct-plan-growth"
         },
         {
           "scheme_name": "HDFC Gilt Fund Direct Growth",
@@ -41,14 +41,14 @@
           "search_id": "hdfc-balanced-advantage-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Dynamic Debt Fund Direct Plan Growth",
+          "scheme_name": "HDFC Dynamic Term Fund Direct Plan Growth",
           "scheme_code": "119075",
-          "search_id": "hdfc-high-interest-fund-dynamic-plan-direct-growth"
+          "search_id": "hdfc-dynamic-term-fund-direct-plan-growth"
         },
         {
-          "scheme_name": "HDFC Medium Term Debt Fund Direct Growth",
+          "scheme_name": "HDFC Medium Term Fund Direct Growth",
           "scheme_code": "119081",
-          "search_id": "hdfc-medium-term-debt-fund-direct-growth"
+          "search_id": "hdfc-medium-term-fund-direct-growth"
         },
         {
           "scheme_name": "HDFC Equity Savings Direct Plan Growth",
@@ -61,9 +61,9 @@
           "search_id": "hdfc-multi-asset-allocation-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Short Term Debt Fund Direct Plan Growth",
+          "scheme_name": "HDFC Short Term Fund Direct Plan Growth",
           "scheme_code": "119016",
-          "search_id": "hdfc-short-term-opportunities-fund-direct-growth"
+          "search_id": "hdfc-short-term-fund-direct-plan-growth"
         },
         {
           "scheme_name": "HDFC Banking and PSU Debt Fund Direct Growth",
@@ -114,9 +114,9 @@
           "search_id": "hdfc-value-fund-direct-plan-growth"
         },
         {
-          "scheme_name": "HDFC Low Duration Fund Direct Growth",
+          "scheme_name": "HDFC Ultra Short to Short Term Fund Direct Growth",
           "scheme_code": "118942",
-          "search_id": "hdfc-low-duration-fund-direct-growth"
+          "search_id": "hdfc-ultra-short-to-short-term-fund-direct-growth"
         },
         {
           "scheme_name": "HDFC Focused Fund Direct Growth",
@@ -124,9 +124,9 @@
           "search_id": "hdfc-focused-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Floating Rate Debt Fund Direct Plan Growth",
+          "scheme_name": "HDFC Floating Interest Rates Fund Direct Plan Growth",
           "scheme_code": "118961",
-          "search_id": "hdfc-floating-rate-i-come-fund-short-term-fund-wp-direct-growth"
+          "search_id": "hdfc-floating-interest-rates-fund-direct-plan-growth"
         },
         {
           "scheme_name": "HDFC Balanced Advantage Fund Direct Growth",
@@ -134,19 +134,19 @@
           "search_id": "hdfc-balanced-advantage-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Dynamic Debt Fund Direct Plan Growth",
+          "scheme_name": "HDFC Dynamic Term Fund Direct Plan Growth",
           "scheme_code": "119075",
-          "search_id": "hdfc-high-interest-fund-dynamic-plan-direct-growth"
+          "search_id": "hdfc-dynamic-term-fund-direct-plan-growth"
         },
         {
-          "scheme_name": "HDFC Medium Term Debt Fund Direct Growth",
+          "scheme_name": "HDFC Medium Term Fund Direct Growth",
           "scheme_code": "119081",
-          "search_id": "hdfc-medium-term-debt-fund-direct-growth"
+          "search_id": "hdfc-medium-term-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Income Fund Direct Growth",
+          "scheme_name": "HDFC Medium to Long Term Fund Direct Growth",
           "scheme_code": "119069",
-          "search_id": "hdfc-i-come-fund-direct-growth"
+          "search_id": "hdfc-medium-to-long-term-fund-direct-growth"
         },
         {
           "scheme_name": "HDFC Infrastructure Fund Direct Growth",
@@ -159,9 +159,9 @@
           "search_id": "hdfc-medium-term-opportunities-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Hybrid Debt Fund Direct Growth",
+          "scheme_name": "HDFC Conservative Hybrid Fund Direct Growth",
           "scheme_code": "119118",
-          "search_id": "hdfc-monthly-i-come-plan-long-term-plan-direct-growth"
+          "search_id": "hdfc-conservative-hybrid-fund-direct-growth"
         },
         {
           "scheme_name": "HDFC Mid Cap Fund Direct Growth",
@@ -179,14 +179,14 @@
           "search_id": "hdfc-multi-asset-allocation-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Hybrid Equity Fund Direct Plan Growth",
+          "scheme_name": "HDFC Aggressive Hybrid Fund Direct Plan Growth",
           "scheme_code": "119062",
-          "search_id": "hdfc-premier-multi-cap-fund-direct-growth"
+          "search_id": "hdfc-aggressive-hybrid-fund-direct-plan-growth"
         },
         {
-          "scheme_name": "HDFC Short Term Debt Fund Direct Plan Growth",
+          "scheme_name": "HDFC Short Term Fund Direct Plan Growth",
           "scheme_code": "119016",
-          "search_id": "hdfc-short-term-opportunities-fund-direct-growth"
+          "search_id": "hdfc-short-term-fund-direct-plan-growth"
         },
         {
           "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
@@ -199,9 +199,9 @@
           "search_id": "hdfc-large-cap-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Credit Risk Debt Fund Direct Growth",
+          "scheme_name": "HDFC Credit Risk Fund Direct Growth",
           "scheme_code": "128051",
-          "search_id": "hdfc-corporate-debt-opportunities-fund-direct-growth"
+          "search_id": "hdfc-credit-risk-fund-direct-growth"
         },
         {
           "scheme_name": "HDFC Banking and PSU Debt Fund Direct Growth",
@@ -214,9 +214,9 @@
           "search_id": "hdfc-arbitrage-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Large and Mid Cap Fund Direct Growth",
+          "scheme_name": "HDFC Large & Mid Cap Fund Direct Growth",
           "scheme_code": "130498",
-          "search_id": "hdfc-large-and-mid-cap-fund-direct-growth"
+          "search_id": "hdfc-large-mid-cap-fund-direct-growth"
         },
         {
           "scheme_name": "HDFC Small Cap Fund Direct Growth",
@@ -244,19 +244,19 @@
           "search_id": "hdfc-money-market-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Equity Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Equity Plan Direct Growth",
           "scheme_code": "136094",
-          "search_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-equity-plan-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Hybrid Equity Plan Direct Growth",
           "scheme_code": "136464",
-          "search_id": "hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-hybrid-equity-plan-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Hybrid Debt Plan Direct Growth",
           "scheme_code": "136465",
-          "search_id": "hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-hybrid-debt-plan-direct-growth"
         },
         {
           "scheme_name": "HDFC Housing Opportunities Fund Direct Growth",
@@ -279,9 +279,9 @@
           "search_id": "hdfc-business-cycle-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Long Duration Debt Fund Direct Growth",
+          "scheme_name": "HDFC Long Term Fund Direct Growth",
           "scheme_code": "151313",
-          "search_id": "hdfc-long-duration-debt-fund-direct-growth"
+          "search_id": "hdfc-long-term-fund-direct-growth"
         },
         {
           "scheme_name": "HDFC MNC Fund Direct Growth",
@@ -343,19 +343,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Non Convertible Debenture",
       "rating": null,
-      "corpus_per": 4.34,
+      "corpus_per": 5.32,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Repo",
-      "sector_name": "Unspecified",
-      "nature_name": "CASH",
-      "instrument_name": "Repo",
-      "rating": null,
-      "corpus_per": 3.1,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 175 7.57 BD 18AP29 FVRS1LAC",
@@ -363,9 +353,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Non Convertible Debenture",
       "rating": null,
-      "corpus_per": 2.9,
+      "corpus_per": 2.91,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "REC LIMITED SR 216A 7.55 BD 31MR28 FVRS10LAC",
@@ -373,9 +363,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Debenture",
       "rating": null,
-      "corpus_per": 2.87,
+      "corpus_per": 2.89,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "BAJAJ HOUSING FINANCE LIMITED 8.10 NCD 08JL27 FVRS1LAC",
@@ -383,19 +373,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Debenture",
       "rating": null,
-      "corpus_per": 2.87,
+      "corpus_per": 2.89,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Net Current Assets",
-      "sector_name": "Unspecified",
-      "nature_name": "CASH",
-      "instrument_name": "Net Current Assets",
-      "rating": null,
-      "corpus_per": 2.79,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SERIES V 8.41 LOA 15MR29 FVRS10LAC",
@@ -403,9 +383,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Debenture",
       "rating": null,
-      "corpus_per": 2.45,
+      "corpus_per": 2.47,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "HDFC BANK LIMITED SR AB002 7.97 NCD 17FB33 FVRS1LAC",
@@ -413,9 +393,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Debenture",
       "rating": null,
-      "corpus_per": 2.43,
+      "corpus_per": 2.44,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "POWER FINANCE CORPORATION LTD. SR 223 7.64 BD 22FB33 FVRS1LAC",
@@ -423,9 +403,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Debenture",
       "rating": null,
-      "corpus_per": 2.42,
+      "corpus_per": 2.43,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 23I 7.62 LOA 31JN28 FVRS1LAC",
@@ -433,9 +413,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Debenture",
       "rating": null,
-      "corpus_per": 2.39,
+      "corpus_per": 2.4,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "PUNJAB NATIONAL BANK SR III 7.34 BD 14FB35 FVRS1LAC",
@@ -443,9 +423,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Bonds",
       "rating": null,
-      "corpus_per": 2.37,
+      "corpus_per": 2.38,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.83 BD 24NV28 FVRS1LAC",
@@ -453,9 +433,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Debenture",
       "rating": null,
-      "corpus_per": 1.93,
+      "corpus_per": 1.94,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "BAJAJ HOUSING FINANCE LIMITED 8.05 NCD 08MY29 FVRS1LAC",
@@ -463,9 +443,19 @@
       "nature_name": "DEBT",
       "instrument_name": "Non Convertible Debenture",
       "rating": null,
+      "corpus_per": 1.94,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Net Current Assets",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "instrument_name": "Net Current Assets",
+      "rating": null,
       "corpus_per": 1.93,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "LIC HOUSING FINANCE LIMITED TR 434 OP I 7.70 LOA 16MY28 FVRS10LAC",
@@ -473,9 +463,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Debenture",
       "rating": null,
-      "corpus_per": 1.91,
+      "corpus_per": 1.92,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "UNION BANK OF INDIA CD 19JAN27",
@@ -483,9 +473,19 @@
       "nature_name": "DEBT",
       "instrument_name": "Certificate of Deposit",
       "rating": null,
-      "corpus_per": 1.83,
+      "corpus_per": 1.86,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "UCO BANK CD 15JUN27",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Certificate of Deposit",
+      "rating": null,
+      "corpus_per": 1.62,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "POWER GRID CORPORATION OF INDIA LIMITED SR LXXIV 7.70 BD 12OT33 FVRS1LAC",
@@ -493,9 +493,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Bonds",
       "rating": null,
-      "corpus_per": 1.54,
+      "corpus_per": 1.55,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "CENTRAL GOVERNMENT LOAN 30734 GOI 15DC35 6.67 FV RS 100",
@@ -503,9 +503,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 1.51,
+      "corpus_per": 1.52,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "RURAL ELECTRIFICATION CORPORATION LIMITED SR GOI-IV 8.70 BD 28SP28 FVRS10LAC",
@@ -515,7 +515,7 @@
       "rating": null,
       "corpus_per": 1.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "HDFC BANK LIMITED SR US002 7.80 NCD 03MY33 FVRS1LAC",
@@ -525,7 +525,17 @@
       "rating": null,
       "corpus_per": 1.45,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 24B 7.49 LOA 15OT26 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 1.44,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "NATIONAL HOUSING BANK 7.59 BD 08SP27 FVRS1LAC",
@@ -535,17 +545,7 @@
       "rating": null,
       "corpus_per": 1.44,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 24B 7.49 LOA 15OT26 FVRS1LAC",
-      "sector_name": "Financial",
-      "nature_name": "DEBT",
-      "instrument_name": "Debenture",
-      "rating": null,
-      "corpus_per": 1.43,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "SMFG INDIA CREDIT COMPANY LIMITED SR 109 OP I 8.30 NCD 30JU27 FVRS1LAC",
@@ -553,9 +553,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Non Convertible Debenture",
       "rating": null,
-      "corpus_per": 1.43,
+      "corpus_per": 1.44,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25E 7.53 BD 24MR28 FVRS1LAC",
@@ -563,9 +563,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Bonds",
       "rating": null,
-      "corpus_per": 1.43,
+      "corpus_per": 1.44,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VII 7.42 BD 12MR29 FVRS1LAC",
@@ -573,9 +573,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Bonds/NCDs",
       "rating": null,
-      "corpus_per": 1.43,
+      "corpus_per": 1.44,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR E 7.29 NCD 12FB35 FVRS1LAC",
@@ -583,9 +583,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Non Convertible Debenture",
       "rating": null,
-      "corpus_per": 1.42,
+      "corpus_per": 1.43,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "SHIVSHAKTI SECURITISATION TRUST SS TRUST PTC 15SEPT25",
@@ -593,9 +593,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Securitised Debt",
       "rating": null,
-      "corpus_per": 1.4,
+      "corpus_per": 1.42,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "GOVERNMENT OF INDIA 32584 GOI 06FB33 7.26 FV RS 100",
@@ -603,9 +603,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 1.38,
+      "corpus_per": 1.39,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "HDFC BANK LIMITED SR AA010 7.80 NCD 06SP32 FVRS10LAC",
@@ -615,7 +615,7 @@
       "rating": null,
       "corpus_per": 1.16,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "HDFC Bank Ltd SR AA013 Bonds 7.79 24/11/2032",
@@ -625,7 +625,7 @@
       "rating": null,
       "corpus_per": 1.16,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR F24 7.68 BD 30AP29 FVRS1LAC",
@@ -635,7 +635,7 @@
       "rating": null,
       "corpus_per": 1.16,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "REC LIMITED SR GOI-VII 8.60 BD 08MR29 FVRS10LAC",
@@ -645,7 +645,7 @@
       "rating": null,
       "corpus_per": 1.09,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "GOI Sec 7.18 14/08/2033",
@@ -655,7 +655,17 @@
       "rating": null,
       "corpus_per": 1.08,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "RURAL ELECTRIFICATION CORPORATION LIMITED SERIES 168 8.56 NCD 29NV28 FVRS10LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 0.99,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "REC LIMITED SR GOI-VI 8.80 BD 22JN29 FVRS10LAC",
@@ -665,7 +675,7 @@
       "rating": null,
       "corpus_per": 0.99,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "National Bank for Agriculture & Rural Development (GoI Serviced) **",
@@ -675,7 +685,7 @@
       "rating": null,
       "corpus_per": 0.98,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 33844 GUJ 17JN33 7.64 FV RS 100",
@@ -683,9 +693,19 @@
       "nature_name": "DEBT",
       "instrument_name": "State Development Loan",
       "rating": null,
-      "corpus_per": 0.97,
+      "corpus_per": 0.98,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "STATE DEVELOPMENT LOAN 37421 TN 06MY36 7.73 FV RS 100",
+      "sector_name": "Unspecified",
+      "nature_name": "DEBT",
+      "instrument_name": "State Development Loan",
+      "rating": null,
+      "corpus_per": 0.98,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "PIPELINE INFRASTRUCTURE LIMITED SR 3 7.96 NCD 11MR29 FVRS1LAC",
@@ -695,7 +715,7 @@
       "rating": null,
       "corpus_per": 0.97,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "NATIONAL HOUSING BANK 7.51 BD 04AP31 FVRS1LAC",
@@ -705,7 +725,27 @@
       "rating": null,
       "corpus_per": 0.97,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "BAJAJ HOUSING FINANCE LIMITED 7.83 NCD 18MY29 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.97,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IV 7.79 BD 19AP27 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Bonds",
+      "rating": null,
+      "corpus_per": 0.96,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "EXPORT IMPORT BANK OF INDIA SR Z01 7.45 BD 12AP28 FVRS1LAC",
@@ -715,7 +755,7 @@
       "rating": null,
       "corpus_per": 0.96,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "NATIONAL HOUSING BANK 7.59 BD 14JL27 FVRS1LAC",
@@ -725,7 +765,7 @@
       "rating": null,
       "corpus_per": 0.96,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 179 7.44 BD 13JU34 FVRS1LAC",
@@ -735,7 +775,27 @@
       "rating": null,
       "corpus_per": 0.96,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR III 7.34 BD 26FB29 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Bonds",
+      "rating": null,
+      "corpus_per": 0.96,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25C 7.44 BD 24FB28 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Bonds",
+      "rating": null,
+      "corpus_per": 0.96,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "POWER FINANCE CORPORATION LIMITED SR 246B 7.38 BD 15JN32 FVRS1LAC",
@@ -745,57 +805,7 @@
       "rating": null,
       "corpus_per": 0.96,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "BAJAJ HOUSING FINANCE LIMITED 7.83 NCD 18MY29 FVRS1LAC",
-      "sector_name": "Financial",
-      "nature_name": "DEBT",
-      "instrument_name": "Non Convertible Debenture",
-      "rating": null,
-      "corpus_per": 0.96,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "POWER FINANCE CORPORATION LTD. BS228A 7.55 BD 15JL26 FVRS1LAC",
-      "sector_name": "Financial",
-      "nature_name": "DEBT",
-      "instrument_name": "Debenture",
-      "rating": null,
-      "corpus_per": 0.95,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IV 7.79 BD 19AP27 FVRS1LAC",
-      "sector_name": "Financial",
-      "nature_name": "DEBT",
-      "instrument_name": "Bonds",
-      "rating": null,
-      "corpus_per": 0.95,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR III 7.34 BD 26FB29 FVRS1LAC",
-      "sector_name": "Financial",
-      "nature_name": "DEBT",
-      "instrument_name": "Bonds",
-      "rating": null,
-      "corpus_per": 0.95,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25C 7.44 BD 24FB28 FVRS1LAC",
-      "sector_name": "Financial",
-      "nature_name": "DEBT",
-      "instrument_name": "Bonds",
-      "rating": null,
-      "corpus_per": 0.95,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 6.66 BD 25OT28 FVRS1LAC",
@@ -803,9 +813,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Non Convertible Debenture",
       "rating": null,
-      "corpus_per": 0.94,
+      "corpus_per": 0.95,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "SIDDHIVINAYAK SECURITISATION TRUST SD TRUST PTC 15SEPT25",
@@ -813,9 +823,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Securitised Debt",
       "rating": null,
-      "corpus_per": 0.94,
+      "corpus_per": 0.95,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR II 6.74 BD 10JN29 FVRS1LAC",
@@ -823,9 +833,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Debenture",
       "rating": null,
-      "corpus_per": 0.94,
+      "corpus_per": 0.95,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "MAHANAGAR TELEPHONE NIGAM LIMITED. SR V/2020 7.05 LOA 110T30 FVRS10LAC",
@@ -835,7 +845,7 @@
       "rating": null,
       "corpus_per": 0.93,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "POWER GRID CORPORATION OF INDIA LIMITED SR LXXVII 7.55 BD 23AP34 FVRS1LAC",
@@ -845,7 +855,7 @@
       "rating": null,
       "corpus_per": 0.77,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "MAHANAGAR TELEPHONE NIGAM LIMITED. SR VI-2020 6.85 LOA 20DC30 FVRS10LAC",
@@ -855,7 +865,7 @@
       "rating": null,
       "corpus_per": 0.73,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "RURAL ELECTRIFICATION CORPORATION LIMITED 7.77 SR 220-A BD 31MR28 FVRS1LAC",
@@ -863,9 +873,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Non Convertible Debenture",
       "rating": null,
-      "corpus_per": 0.67,
+      "corpus_per": 0.68,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE BANK OF INDIA SR 2 7.33 BD 20SP39 FVRS1CR",
@@ -873,19 +883,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Bonds",
       "rating": null,
-      "corpus_per": 0.67,
+      "corpus_per": 0.68,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100",
-      "sector_name": "Entities",
-      "nature_name": "DEBT",
-      "instrument_name": "GOI Securities",
-      "rating": null,
-      "corpus_per": 0.6,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 33845 GUJ 17JN34 7.64 FV RS 100",
@@ -893,9 +893,19 @@
       "nature_name": "DEBT",
       "instrument_name": "State Development Loan",
       "rating": null,
-      "corpus_per": 0.58,
+      "corpus_per": 0.59,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 0.59,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "BANK OF BARODA SR XXV 7.75 BD 21DC33 FVRS1CR",
@@ -903,9 +913,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Bonds",
       "rating": null,
-      "corpus_per": 0.57,
+      "corpus_per": 0.58,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "TOYOTA FINANCIAL SERVICES INDIA LIMITED SR S52 7.6950 NCD 13JU28 FVRS1LAC",
@@ -915,7 +925,7 @@
       "rating": null,
       "corpus_per": 0.52,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 192 BD 01DC35 FVRS1LAC",
@@ -925,7 +935,7 @@
       "rating": null,
       "corpus_per": 0.52,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SERIES 129 8.45 LOA 04DC28 FVRS10LAC",
@@ -935,7 +945,7 @@
       "rating": null,
       "corpus_per": 0.49,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "LIC HOUSING FINANCE LIMITED TRANCHE 382 8.7 LOA 23MR29 FVRS10LAC",
@@ -945,7 +955,7 @@
       "rating": null,
       "corpus_per": 0.49,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "POWER FINANCE CORPORATION LTD. SR BS225B STRPP 2 7.82 BD 13MR31 FVRS1LAC",
@@ -955,7 +965,17 @@
       "rating": null,
       "corpus_per": 0.49,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "STATE DEVELOPMENT LOAN 33876 GUJ 24JN33 7.63 FV RS 100",
+      "sector_name": "Industrials",
+      "nature_name": "DEBT",
+      "instrument_name": "State Development Loan",
+      "rating": null,
+      "corpus_per": 0.49,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "HDFC Bank Ltd Bonds/Deb 7.95 21/09/2026",
@@ -965,7 +985,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Power Finance Corporation Ltd SR-164 Bonds 7.75 22/03/2027",
@@ -975,7 +995,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR PC1POB1 7.43 LOA 31JN30 FVRS10LAC",
@@ -985,7 +1005,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE BANK OF INDIA SR I 6.80 BD 21AG35 FVRS10LAC",
@@ -995,7 +1015,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "MAHANAGAR TELEPHONE NIGAM LIMITED. SR VIIA 8 LOA 15NV32 FVRS10LAC",
@@ -1005,7 +1025,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "HDFC BANK LIMITED SR 2 7.86 BD 02DC32 FVRS1CR",
@@ -1015,7 +1035,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 24C 7.83 BD 30DC26 FVRS1LAC",
@@ -1025,7 +1045,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "REC LIMITED SR 227-A 7.77 BD 30SP26 FVRS1LAC",
@@ -1035,17 +1055,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "STATE DEVELOPMENT LOAN 33876 GUJ 24JN33 7.63 FV RS 100",
-      "sector_name": "Industrials",
-      "nature_name": "DEBT",
-      "instrument_name": "State Development Loan",
-      "rating": null,
-      "corpus_per": 0.48,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "REC LIMITED SR 231A 7.64 BD 30AP27 FVRS1LAC",
@@ -1055,7 +1065,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "PIPELINE INFRASTRUCTURE LIMITED SR 1 7.96 NCD 11MR27 FVRS1LAC",
@@ -1065,7 +1075,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "REC LIMITED SR 233 7.53 BD 31MY34 FVRS1LAC",
@@ -1075,7 +1085,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25B 7.64 BD 06DC29 FVRS1LAC",
@@ -1085,7 +1095,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.51 BD 12JU28 FVRS1LAC",
@@ -1095,7 +1105,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "INDIAN OIL CORPORATION LIMITED SR XXVII 7.25 NCD 06JN30 FVRS1LAC",
@@ -1105,7 +1115,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "NATIONAL HOUSING BANK 7.35 BD 02JN32 FVRS1LAC",
@@ -1115,7 +1125,7 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25G 7.48 BD 15SP28 FVRS1LAC",
@@ -1125,7 +1135,37 @@
       "rating": null,
       "corpus_per": 0.48,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "ALTIUS TELECOM INFRASTRUCTURE TRUST 7.45 NCD 20AP35 FVRS1LAC",
+      "sector_name": "Real Estate",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.48,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "POONAWALLA FINCORP LIMITED SR A2 7.70 NCD 21AP28 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 0.48,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26D 7.01 BD 16MR29 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Bonds",
+      "rating": null,
+      "corpus_per": 0.48,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "REC LIMITED SR 201B 6.90 BD 31MR31 FVRS10LAC",
@@ -1135,37 +1175,7 @@
       "rating": null,
       "corpus_per": 0.47,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "ALTIUS TELECOM INFRASTRUCTURE TRUST 7.45 NCD 20AP35 FVRS1LAC",
-      "sector_name": "Real Estate",
-      "nature_name": "DEBT",
-      "instrument_name": "Non Convertible Debenture",
-      "rating": null,
-      "corpus_per": 0.47,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "POONAWALLA FINCORP LIMITED SR A2 7.70 NCD 21AP28 FVRS1LAC",
-      "sector_name": "Financial",
-      "nature_name": "DEBT",
-      "instrument_name": "Non Convertible Debenture",
-      "rating": null,
-      "corpus_per": 0.47,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26D 7.01 BD 16MR29 FVRS1LAC",
-      "sector_name": "Financial",
-      "nature_name": "DEBT",
-      "instrument_name": "Bonds",
-      "rating": null,
-      "corpus_per": 0.47,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "BANK OF BARODA CD 06JAN27",
@@ -1173,9 +1183,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Certificate of Deposit",
       "rating": null,
-      "corpus_per": 0.46,
+      "corpus_per": 0.47,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 33877 GUJ 24JN34 7.63 FV RS 100",
@@ -1185,7 +1195,7 @@
       "rating": null,
       "corpus_per": 0.39,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.22 BD 10AP29 FVRS1LAC",
@@ -1195,7 +1205,7 @@
       "rating": null,
       "corpus_per": 0.38,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Others Class A2 AIF",
@@ -1205,7 +1215,7 @@
       "rating": null,
       "corpus_per": 0.35,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "BAJAJ FINANCE LIMITED 7.57 NCD 03AP30 FVRS1LAC",
@@ -1213,19 +1223,19 @@
       "nature_name": "DEBT",
       "instrument_name": "Non Convertible Debenture",
       "rating": null,
-      "corpus_per": 0.28,
+      "corpus_per": 0.29,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
-      "company_name": "GOVERNMENT OF INDIA 36320 GOI 18AG55 7.24 FV RS 100",
-      "sector_name": "Entities",
+      "company_name": "STATE DEVELOPMENT LOAN 37672 TN 15JL34 7.39 FV RS 100",
+      "sector_name": "Unspecified",
       "nature_name": "DEBT",
-      "instrument_name": "GOI Securities",
+      "instrument_name": "State Development Loan",
       "rating": null,
-      "corpus_per": 0.28,
+      "corpus_per": 0.29,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 36384 AP 03SP37 7.63 FV RS 100",
@@ -1235,7 +1245,7 @@
       "rating": null,
       "corpus_per": 0.19,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 36558 MP 01OT45 7.48 FV RS 100",
@@ -1245,7 +1255,7 @@
       "rating": null,
       "corpus_per": 0.19,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 36634 MH 23OT36 7.2 FV RS 100",
@@ -1255,7 +1265,7 @@
       "rating": null,
       "corpus_per": 0.19,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 37119 BH 25FB41 7.72 FV RS 100",
@@ -1265,17 +1275,7 @@
       "rating": null,
       "corpus_per": 0.19,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "GOVERNMENT OF INDIA 35840 GOI 15AP65 6.9 FV RS 100",
-      "sector_name": "Entities",
-      "nature_name": "DEBT",
-      "instrument_name": "GOI Securities",
-      "rating": null,
-      "corpus_per": 0.18,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 37493 GUJ 10JU37 7.63 FV RS 100",
@@ -1285,7 +1285,7 @@
       "rating": null,
       "corpus_per": 0.17,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 36381 AP 03SP33 7.48 FV RS 100",
@@ -1295,7 +1295,7 @@
       "rating": null,
       "corpus_per": 0.15,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 36383 AP 03SP36 7.62 FV RS 100",
@@ -1305,7 +1305,7 @@
       "rating": null,
       "corpus_per": 0.13,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 36382 AP 03SP34 7.48 FV RS 100",
@@ -1313,9 +1313,9 @@
       "nature_name": "DEBT",
       "instrument_name": "State Development Loan",
       "rating": null,
-      "corpus_per": 0.11,
+      "corpus_per": 0.12,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SERIES 136 7.95 LOA 12JU29 FVRS10LAC",
@@ -1325,7 +1325,7 @@
       "rating": null,
       "corpus_per": 0.1,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 33896 MH 31JN35 7.63 FV RS 100",
@@ -1335,7 +1335,7 @@
       "rating": null,
       "corpus_per": 0.1,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 37125 HAR 25FB41 7.67 FV RS 100",
@@ -1345,7 +1345,7 @@
       "rating": null,
       "corpus_per": 0.1,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "BAJAJ FINANCE LIMITED 7.55 NCD 03AP35 FVRS1LAC",
@@ -1355,7 +1355,7 @@
       "rating": null,
       "corpus_per": 0.09,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 36527 GUJ 24SP32 7.07 FV RS 100",
@@ -1365,7 +1365,17 @@
       "rating": null,
       "corpus_per": 0.07,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Repo",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "instrument_name": "Repo",
+      "rating": null,
+      "corpus_per": 0.06,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "STATE DEVELOPMENT LOAN 36071 HAR 11JU39 7.03 FV RS 100",
@@ -1375,30 +1385,30 @@
       "rating": null,
       "corpus_per": 0.01,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     }
   ],
   "asset_allocation": {
     "by_sector": [
       {
         "name": "Financial",
-        "percentage": 76.1
+        "percentage": 79.1
       },
       {
         "name": "Unspecified",
-        "percentage": 9.36
+        "percentage": 6.76
       },
       {
         "name": "Entities",
-        "percentage": 5.03
+        "percentage": 4.58
       },
       {
         "name": "Industrials",
-        "percentage": 4.11
+        "percentage": 4.14
       },
       {
         "name": "Energy & Utilities",
-        "percentage": 2.79
+        "percentage": 2.8
       },
       {
         "name": "Technology",
@@ -1406,59 +1416,55 @@
       },
       {
         "name": "Real Estate",
-        "percentage": 0.47
+        "percentage": 0.48
       }
     ],
     "by_nature": [
       {
         "name": "DEBT",
-        "percentage": 94.11
+        "percentage": 98.01
       },
       {
         "name": "CASH",
-        "percentage": 5.89
+        "percentage": 1.99
       }
     ],
     "by_instrument": [
       {
         "name": "Debenture",
-        "percentage": 38.21
+        "percentage": 38.38
       },
       {
         "name": "Non Convertible Debenture",
-        "percentage": 19.21
+        "percentage": 20.29
       },
       {
         "name": "Bonds",
-        "percentage": 17.15
-      },
-      {
-        "name": "GOI Securities",
-        "percentage": 5.03
+        "percentage": 17.24
       },
       {
         "name": "State Development Loan",
-        "percentage": 4.02
+        "percentage": 5.33
       },
       {
-        "name": "Repo",
-        "percentage": 3.1
-      },
-      {
-        "name": "Bonds/NCDs",
-        "percentage": 3.07
-      },
-      {
-        "name": "Net Current Assets",
-        "percentage": 2.79
-      },
-      {
-        "name": "Securitised Debt",
-        "percentage": 2.34
+        "name": "GOI Securities",
+        "percentage": 4.58
       },
       {
         "name": "Certificate of Deposit",
-        "percentage": 2.29
+        "percentage": 3.95
+      },
+      {
+        "name": "Bonds/NCDs",
+        "percentage": 3.08
+      },
+      {
+        "name": "Securitised Debt",
+        "percentage": 2.37
+      },
+      {
+        "name": "Net Current Assets",
+        "percentage": 1.93
       },
       {
         "name": "Zero Coupon Bonds",
@@ -1475,6 +1481,10 @@
       {
         "name": "Alternative Investment Fund",
         "percentage": 0.35
+      },
+      {
+        "name": "Repo",
+        "percentage": 0.06
       }
     ],
     "by_market_cap": [
@@ -1817,7 +1827,7 @@
     "about": "",
     "investment_objective": "The scheme seeks to generate income / capital appreciation through investments in debt and money market instruments consisting predominantly of securities issued by entities such as Scheduled Commercial Banks (SCBs), Public Sector undertakings (PSUs), Public Financial Institutions (PFIs), Municipal Corporations and such other bodies. ;",
     "fund_house_section": "",
-    "fund_management_section": "AB Anil Bamboli Mar 2014 - Present View details Education Mr. Bamboli is a CFA from Association for Investment Management and Research, U.S.A, Masters in Management Studies (Finance) and a Graduate in Cost and Works Accountant from ICWAI. Experience Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years. Also manages these schemes HDFC Floating Rate Debt Fund Direct Plan Growth HDFC Gilt Fund Direct Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Debt Fund Direct Plan Growth HDFC Medium Term Debt Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Short Term Debt Fund Direct Plan Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Income Plus Arbitrage Active FoF Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Multi Asset Active FoF Direct Growth HDFC Children's Fund Direct Plan DM Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Low Duration Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Rate Debt Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Debt Fund Direct Plan Growth HDFC Medium Term Debt Fund Direct Growth HDFC Income Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Hybrid Debt Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Hybrid Equity Fund Direct Plan Growth HDFC Short Term Debt Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Debt Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large and Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Duration Debt Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth",
+    "fund_management_section": "AB Anil Bamboli Mar 2014 - Present View details Education Mr. Bamboli is a CFA from Association for Investment Management and Research, U.S.A, Masters in Management Studies (Finance) and a Graduate in Cost and Works Accountant from ICWAI. Experience Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years. Also manages these schemes HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Gilt Fund Direct Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Short Term Fund Direct Plan Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Income Plus Arbitrage Active FoF Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Multi Asset Active FoF Direct Growth HDFC Children's Fund Direct Plan DM Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
     "meta_description": "HDFC Banking and PSU Debt Fund Direct Growth is Banking and PSU Debt mutual fund with risk-reward rating of 3/10. It has track record of 12 years, with three year return of 7.25. Risk is Moderate",
@@ -1850,7 +1860,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.889Z",
+    "launch_date": "1999-12-09T18:30:00.928Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -2127,8 +2137,8 @@
         "min_investment": 500,
         "groww_rating": 5,
         "risk_rating": 7,
-        "super_category": "UTI Banking & PSU Fund",
-        "scheme_name": "UTI Banking & PSU Fund Direct Growth",
+        "super_category": "UTI Banking & PSU Debt Fund",
+        "scheme_name": "UTI Banking & PSU Debt Fund Direct Growth",
         "fund_manager": "Sudhir Agrawal",
         "fund_house": "UTI Mutual Fund",
         "scheme_code": "126940",
@@ -2150,7 +2160,7 @@
         "sub_tag": null,
         "note_text": null,
         "deep_link": null,
-        "fund_name": "UTI Banking & PSU Fund"
+        "fund_name": "UTI Banking & PSU Debt Fund"
       },
       {
         "id": null,

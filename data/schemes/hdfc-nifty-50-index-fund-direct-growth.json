@@ -3,7 +3,7 @@
   "scheme_name": "HDFC NIFTY 50 Index Fund Direct Growth",
   "fund_name": "HDFC NIFTY 50 Index Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-nifty-50-index-fund-direct-growth",
-  "scraped_at": "2026-08-26T04:10:11.606799+00:00",
+  "scraped_at": "2026-08-27T14:25:32.300343+00:00",
   "category": "Equity",
   "sub_category": "Large Cap",
   "super_category": "HDFC NIFTY 50 Index Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The Scheme seeks to generate returns that are commensurate with the performance of the NIFTY 50 Index, subject to tracking errors.",
   "fund_objective": "The Scheme seeks to generate returns that are commensurate with the performance of the NIFTY 50 Index, subject to tracking errors.",
-  "nav": 238.1714,
-  "nav_date": "25-Aug-2026",
+  "nav": 236.927,
+  "nav_date": "26-Aug-2026",
   "aum": 24189.6009,
   "expense_ratio": 0.29,
   "exit_load": "Exit load of 0.25% if redeemed within 3 days",
@@ -61,19 +61,19 @@
           "search_id": "hdfc-arbitrage-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Equity Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Equity Plan Direct Growth",
           "scheme_code": "136094",
-          "search_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-equity-plan-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Hybrid Equity Plan Direct Growth",
           "scheme_code": "136464",
-          "search_id": "hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-hybrid-equity-plan-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Hybrid Debt Plan Direct Growth",
           "scheme_code": "136465",
-          "search_id": "hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-hybrid-debt-plan-direct-growth"
         },
         {
           "scheme_name": "HDFC NIFTY 50 ETF IDCW",
@@ -234,19 +234,19 @@
           "search_id": "hdfc-arbitrage-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Equity Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Equity Plan Direct Growth",
           "scheme_code": "136094",
-          "search_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-equity-plan-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Hybrid Equity Plan Direct Growth",
           "scheme_code": "136464",
-          "search_id": "hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-hybrid-equity-plan-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Hybrid Debt Plan Direct Growth",
           "scheme_code": "136465",
-          "search_id": "hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-hybrid-debt-plan-direct-growth"
         },
         {
           "scheme_name": "HDFC NIFTY50 Equal Weight Index Fund Direct Growth",
@@ -368,9 +368,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 11.15,
+      "corpus_per": 10.23,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "ICICI Bank Ltd",
@@ -378,9 +378,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 8.99,
+      "corpus_per": 9.18,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Reliance Industries Ltd",
@@ -388,9 +388,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 7.97,
+      "corpus_per": 7.89,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Bharti Airtel Ltd",
@@ -398,9 +398,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 5.14,
+      "corpus_per": 5.36,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Larsen & Toubro Ltd",
@@ -408,9 +408,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 4.42,
+      "corpus_per": 4.12,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "State Bank of India",
@@ -418,19 +418,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 3.87,
+      "corpus_per": 3.79,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Axis Bank Ltd",
-      "sector_name": "Financial",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 3.53,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Infosys Ltd",
@@ -438,39 +428,19 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 3.2,
+      "corpus_per": 3.54,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
-      "company_name": "Kotak Mahindra Bank Ltd",
+      "company_name": "Axis Bank Ltd",
       "sector_name": "Financial",
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 2.63,
+      "corpus_per": 3.15,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "ITC Ltd",
-      "sector_name": "Consumer Staples",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 2.52,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Mahindra & Mahindra Ltd",
-      "sector_name": "Consumer Discretionary",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 2.5,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Bajaj Finance Ltd",
@@ -478,9 +448,39 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 2.46,
+      "corpus_per": 2.73,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Mahindra & Mahindra Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.71,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Kotak Mahindra Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.57,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "ITC Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.42,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Tata Consultancy Services Ltd",
@@ -488,19 +488,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.89,
+      "corpus_per": 2.16,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Sun Pharmaceutical Industries Ltd",
-      "sector_name": "Healthcare",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.8,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Zomato Ltd",
@@ -508,29 +498,19 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.74,
+      "corpus_per": 1.95,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
-      "company_name": "Hindustan Unilever Ltd",
-      "sector_name": "Consumer Staples",
+      "company_name": "Sun Pharmaceutical Industries Ltd",
+      "sector_name": "Healthcare",
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.71,
+      "corpus_per": 1.88,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Maruti Suzuki India Ltd",
-      "sector_name": "Consumer Discretionary",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.68,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Titan Company Ltd",
@@ -538,9 +518,29 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
+      "corpus_per": 1.8,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Hindustan Unilever Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.67,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Maruti Suzuki India Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
       "corpus_per": 1.66,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "NTPC Ltd",
@@ -548,9 +548,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.54,
+      "corpus_per": 1.47,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Tata Steel Ltd",
@@ -558,19 +558,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.42,
+      "corpus_per": 1.4,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Bharat Electronics Ltd",
-      "sector_name": "Industrials",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.35,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Shriram Transport Finance Company Ltd",
@@ -578,9 +568,19 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.33,
+      "corpus_per": 1.31,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "HCL Technologies Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.27,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Hindalco Industries Ltd",
@@ -590,17 +590,7 @@
       "rating": null,
       "corpus_per": 1.26,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Adani Ports and Special Economic Zone Ltd",
-      "sector_name": "Industrials",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.22,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Ultratech Cement Ltd",
@@ -608,9 +598,19 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.21,
+      "corpus_per": 1.26,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bharat Electronics Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.24,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Power Grid Corporation of India Ltd",
@@ -618,69 +618,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.18,
+      "corpus_per": 1.15,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Interglobe Aviation Ltd",
-      "sector_name": "Industrials",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.11,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Asian Paints Ltd",
-      "sector_name": "Materials",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.09,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Grasim Industries Ltd",
-      "sector_name": "Materials",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.07,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "JSW Steel Ltd",
-      "sector_name": "Materials",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.05,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "HCL Technologies Ltd",
-      "sector_name": "Technology",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.03,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Trent Ltd",
-      "sector_name": "Consumer Discretionary",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.0,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Bajaj Auto Ltd",
@@ -688,19 +628,59 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.98,
+      "corpus_per": 1.14,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
-      "company_name": "Coal India Ltd",
+      "company_name": "Adani Ports and Special Economic Zone Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.12,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Asian Paints Ltd",
       "sector_name": "Materials",
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.96,
+      "corpus_per": 1.11,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "JSW Steel Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.06,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Grasim Industries Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.05,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Interglobe Aviation Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.05,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Bajaj Finserv Ltd",
@@ -708,9 +688,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.94,
+      "corpus_per": 1.05,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Nestle India Ltd",
@@ -718,9 +698,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.92,
+      "corpus_per": 0.97,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Eicher Motors Ltd",
@@ -728,29 +708,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.89,
+      "corpus_per": 0.96,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Oil & Natural Gas Corporation Ltd",
-      "sector_name": "Energy & Utilities",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 0.83,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Apollo Hospitals Enterprise Ltd",
-      "sector_name": "Healthcare",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 0.81,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Tech Mahindra Ltd",
@@ -758,9 +718,49 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.81,
+      "corpus_per": 0.94,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Coal India Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.89,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Trent Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.89,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Oil & Natural Gas Corporation Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.84,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Apollo Hospitals Enterprise Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.82,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Adani Enterprises Ltd",
@@ -768,39 +768,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.8,
+      "corpus_per": 0.78,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Max Healthcare Institute Ltd",
-      "sector_name": "Healthcare",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 0.77,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Dr. Reddy's Laboratories Ltd",
-      "sector_name": "Healthcare",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 0.75,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
-    },
-    {
-      "company_name": "Cipla Ltd",
-      "sector_name": "Healthcare",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 0.75,
-      "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "SBI Life Insurance Company Ltd",
@@ -808,9 +778,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.72,
+      "corpus_per": 0.76,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Jio Financial Services Limited",
@@ -818,9 +788,29 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.71,
+      "corpus_per": 0.75,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Cipla Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.74,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Max Healthcare Institute Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.73,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Tata Motors Ltd",
@@ -828,9 +818,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.67,
+      "corpus_per": 0.63,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Tata Consumer Products Ltd",
@@ -838,9 +828,19 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.64,
+      "corpus_per": 0.63,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Dr. Reddy's Laboratories Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.63,
+      "market_cap": null,
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "HDFC Life Insurance Co Ltd",
@@ -848,9 +848,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.57,
+      "corpus_per": 0.53,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Wipro Ltd",
@@ -858,9 +858,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.45,
+      "corpus_per": 0.44,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Net Current Assets",
@@ -868,9 +868,9 @@
       "nature_name": "CASH",
       "instrument_name": "Net Current Assets",
       "rating": null,
-      "corpus_per": 0.24,
+      "corpus_per": 0.27,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     },
     {
       "company_name": "Repo",
@@ -878,72 +878,72 @@
       "nature_name": "CASH",
       "instrument_name": "Repo",
       "rating": null,
-      "corpus_per": 0.07,
+      "corpus_per": 0.05,
       "market_cap": null,
-      "portfolio_date": "2026-06-29T18:30:00.000Z"
+      "portfolio_date": "2026-07-30T18:30:00.000Z"
     }
   ],
   "asset_allocation": {
     "by_sector": [
       {
         "name": "Financial",
-        "percentage": 36.9
+        "percentage": 36.05
       },
       {
         "name": "Technology",
-        "percentage": 14.26
+        "percentage": 15.66
       },
       {
         "name": "Energy & Utilities",
-        "percentage": 11.52
+        "percentage": 11.35
       },
       {
         "name": "Consumer Discretionary",
-        "percentage": 9.38
+        "percentage": 9.79
       },
       {
         "name": "Materials",
-        "percentage": 8.86
+        "percentage": 8.81
       },
       {
         "name": "Industrials",
-        "percentage": 8.1
+        "percentage": 7.53
       },
       {
         "name": "Consumer Staples",
-        "percentage": 5.79
+        "percentage": 5.69
       },
       {
         "name": "Healthcare",
-        "percentage": 4.88
+        "percentage": 4.8
       },
       {
         "name": "Unspecified",
-        "percentage": 0.31
+        "percentage": 0.32
       }
     ],
     "by_nature": [
       {
         "name": "EQUITY",
-        "percentage": 99.69
+        "percentage": 99.68
       },
       {
         "name": "CASH",
-        "percentage": 0.31
+        "percentage": 0.32
       }
     ],
     "by_instrument": [
       {
         "name": "Equity",
-        "percentage": 99.69
+        "percentage": 99.68
       },
       {
         "name": "Net Current Assets",
-        "percentage": 0.24
+        "percentage": 0.27
       },
       {
         "name": "Repo",
-        "percentage": 0.07
+        "percentage": 0.05
       }
     ],
     "by_market_cap": [
@@ -1073,19 +1073,19 @@
     "return_stats": [
       {
         "scheme_code": "119063",
-        "return1d": 0.48,
-        "return1w": 0.74,
-        "return1m": 2.49,
-        "return3m": 1.82,
-        "return6m": -3.88,
+        "return1d": -0.52,
+        "return1w": 0.53,
+        "return1m": 1.95,
+        "return3m": 1.78,
+        "return6m": -4.43,
         "return9m": null,
-        "return1y": -1.74,
+        "return1y": -1.24,
         "return2y": null,
-        "return3y": 9.05,
+        "return3y": 8.86,
         "return4y": null,
-        "return5y": 8.89,
+        "return5y": 8.78,
         "return7y": null,
-        "return10y": 11.96,
+        "return10y": 11.93,
         "return_default": 12.92,
         "mean_return": 12.19,
         "sharpe_ratio": 0.2304495758,
@@ -1093,7 +1093,7 @@
         "standard_deviation": 13.66701237751248,
         "risk_rating": 6,
         "risk": "Very High",
-        "return_since_created": 11.8874832049,
+        "return_since_created": 11.8420556035,
         "cat_return3m": 4.300861588216572,
         "cat_return6m": 1.334737936122353,
         "cat_return1y": 7.147399676288311,
@@ -1101,9 +1101,9 @@
         "cat_return5y": 14.963175625273163,
         "cat_return10y": 13.15689160055596,
         "cat_return_since_launch": null,
-        "rank3m": 102,
+        "rank3m": 96,
         "rank6m": 90,
-        "rank1yr": 82,
+        "rank1yr": 83,
         "rank3yr": 69,
         "rank5yr": 49,
         "rank10yr": 24,
@@ -1133,9 +1133,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": -1.74,
-        "stat_3y": 9.05,
-        "stat_5y": 8.89,
+        "stat_1y": -1.24,
+        "stat_3y": 8.86,
+        "stat_5y": 8.78,
         "stat_all": 12.92,
         "title": "Fund Returns"
       },
@@ -1149,7 +1149,7 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 82,
+        "stat_1y": 83,
         "stat_3y": 69,
         "stat_5y": 49,
         "stat_all": null,
@@ -1289,10 +1289,10 @@
     "about": "",
     "investment_objective": "The Scheme seeks to generate returns that are commensurate with the performance of the NIFTY 50 Index, subject to tracking errors.",
     "fund_house_section": "",
-    "fund_management_section": "AA Arun Agarwal Aug 2020 - Present View details Education Mr. Agarwal is a B.Com. and Chartered Accountant Experience Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC NIFTY 50 ETF IDCW HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC BSE Sensex ETF HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth NM Nandita Menezes Mar 2025 - Present View details Education CA (ICAI, INDIA), B.Com (University of Mumbai) Experience Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Savings Fund Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Gold Silver Passive FoF Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth",
+    "fund_management_section": "AA Arun Agarwal Aug 2020 - Present View details Education Mr. Agarwal is a B.Com. and Chartered Accountant Experience Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC NIFTY 50 ETF IDCW HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC BSE Sensex ETF HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth NM Nandita Menezes Mar 2025 - Present View details Education CA (ICAI, INDIA), B.Com (University of Mumbai) Experience Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Gold Silver Passive FoF Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
-    "meta_description": "HDFC NIFTY 50 Index Fund Direct Growth is Large Cap Equity mutual fund with risk-reward rating of 2/10. It has track record of 13 years, with three year return of 9.05. Risk is Very High",
+    "meta_description": "HDFC NIFTY 50 Index Fund Direct Growth is Large Cap Equity mutual fund with risk-reward rating of 2/10. It has track record of 13 years, with three year return of 8.86. Risk is Very High",
     "category_helper_text": "Invests in stocks as per Contrarian investment strategy",
     "blocked_reason": null,
     "brochure_link": null,
@@ -1322,7 +1322,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.035Z",
+    "launch_date": "1999-12-09T18:30:00.418Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1547,8 +1547,8 @@
         "sub_sub_category": "",
         "aum": 1931.4024,
         "mean_return": 11.44,
-        "return3y": 16.2,
-        "return1y": 7.55,
+        "return3y": 16.04,
+        "return1y": 8.14,
         "min_investment": 1000,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -1586,8 +1586,8 @@
         "sub_sub_category": "",
         "aum": 2144.5586,
         "mean_return": 12.98,
-        "return3y": 14.94,
-        "return1y": 4.06,
+        "return3y": 14.78,
+        "return1y": 5,
         "min_investment": 1000,
         "groww_rating": 4,
         "risk_rating": 6,
@@ -1608,7 +1608,7 @@
         "scheme_type": "Growth",
         "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/idfc_groww.png",
         "groww_scheme_code": "INF194K01Z44",
-        "expense_ratio": "1.08",
+        "expense_ratio": "1.06",
         "swp_frequencies": null,
         "tag": null,
         "sub_tag": null,
@@ -1625,8 +1625,8 @@
         "sub_sub_category": "",
         "aum": 80960.34229763,
         "mean_return": 11.28,
-        "return3y": 13.3,
-        "return1y": -0.81,
+        "return3y": 13.15,
+        "return1y": -0.13,
         "min_investment": 100,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -1664,8 +1664,8 @@
         "sub_sub_category": "",
         "aum": 54224.565,
         "mean_return": 12.09,
-        "return3y": 13.22,
-        "return1y": -0.36,
+        "return3y": 13.1,
+        "return1y": 0.33,
         "min_investment": 100,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -1703,8 +1703,8 @@
         "sub_sub_category": "",
         "aum": 1443.24370609,
         "mean_return": 12.63,
-        "return3y": 12.26,
-        "return1y": 2.57,
+        "return3y": 12.13,
+        "return1y": 3.38,
         "min_investment": 100,
         "groww_rating": 4,
         "risk_rating": 6,
