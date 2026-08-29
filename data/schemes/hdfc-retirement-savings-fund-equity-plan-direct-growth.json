@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Retirement Fund Equity Plan Direct Growth",
   "fund_name": "HDFC Retirement Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth",
-  "scraped_at": "2026-08-28T15:33:45.046586+00:00",
+  "scraped_at": "2026-08-29T10:18:16.718497+00:00",
   "category": "Equity",
   "sub_category": "Flexi Cap",
   "super_category": "HDFC Retirement Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The Scheme seeks to provide long-term capital appreciation / income by investing in a mix of equity and debt instruments to help investors meet their retirement goals.",
   "fund_objective": "The Scheme seeks to provide long-term capital appreciation / income by investing in a mix of equity and debt instruments to help investors meet their retirement goals.",
-  "nav": 56.207,
-  "nav_date": "27-Aug-2026",
+  "nav": 56.281,
+  "nav_date": "28-Aug-2026",
   "aum": 7013.6885,
   "expense_ratio": 0.92,
   "exit_load": "Nil",
@@ -1717,19 +1717,19 @@
     "return_stats": [
       {
         "scheme_code": "136094",
-        "return1d": -0.3,
-        "return1w": -0.06,
-        "return1m": 1.06,
-        "return3m": 3.04,
-        "return6m": -2.25,
+        "return1d": 0.13,
+        "return1w": -0.02,
+        "return1m": 1.22,
+        "return3m": 3.18,
+        "return6m": -2.12,
         "return9m": null,
-        "return1y": -1.1,
+        "return1y": -0.14,
         "return2y": null,
-        "return3y": 10.81,
+        "return3y": 10.78,
         "return4y": null,
-        "return5y": 13.75,
+        "return5y": 13.77,
         "return7y": null,
-        "return10y": 15.69,
+        "return10y": 15.71,
         "return_default": 16.59,
         "mean_return": 13.07,
         "sharpe_ratio": 0.4135320072,
@@ -1737,7 +1737,7 @@
         "standard_deviation": 13.2119353786261,
         "risk_rating": 6,
         "risk": "Very High",
-        "return_since_created": 17.8537636493,
+        "return_since_created": 17.8634686226,
         "cat_return3m": 2.990447071672807,
         "cat_return6m": -0.37038952203653847,
         "cat_return1y": 2.186654493631266,
@@ -1745,11 +1745,11 @@
         "cat_return5y": 15.612299390110422,
         "cat_return10y": 13.476536766511122,
         "cat_return_since_launch": null,
-        "rank3m": 50,
-        "rank6m": 70,
+        "rank3m": 52,
+        "rank6m": 68,
         "rank1yr": 61,
-        "rank3yr": 42,
-        "rank5yr": 9,
+        "rank3yr": 43,
+        "rank5yr": 11,
         "rank10yr": 4,
         "rank_count3m": null,
         "rank_count6m": null,
@@ -1777,9 +1777,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": -1.1,
-        "stat_3y": 10.81,
-        "stat_5y": 13.75,
+        "stat_1y": -0.14,
+        "stat_3y": 10.78,
+        "stat_5y": 13.77,
         "stat_all": 16.59,
         "title": "Fund Returns"
       },
@@ -1794,8 +1794,8 @@
       {
         "type": "RANK_WITHIN_CATEGORY",
         "stat_1y": 61,
-        "stat_3y": 42,
-        "stat_5y": 9,
+        "stat_3y": 43,
+        "stat_5y": 11,
         "stat_all": null,
         "title": "Rank Within Category"
       }
@@ -1804,84 +1804,72 @@
     "historic_fund_expense": [
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-23T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-22T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-21T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-20T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-19T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-18T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-17T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-16T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-15T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-14T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-13T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-12T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
@@ -1915,7 +1903,7 @@
   "faq_content": [
     {
       "question": "p_return_analysis",
-      "answer": "10Y annualised returns higher than category average by 2.21%"
+      "answer": "10Y annualised returns higher than category average by 2.23%"
     },
     {
       "question": "c_return_analysis",
@@ -1945,7 +1933,7 @@
     "fund_management_section": "SR Srinivasan Ramamurthy Dec 2021 - Present View details Education Mr. Ramamurthy is an engineer by qualification from Jadavpur University and has done his MBA from IIM - Calcutta. Experience Prior to joining HDFC Asset Management Company Limited, he has worked with Mahindra Mutual Fund, IDBI Federal Life Insurance, IIFL Capital Limited, Maybank Kim Eng, Credit Suisse and KPMG Advisory. Also manages these schemes HDFC Balanced Advantage Fund Direct Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Multi Asset Active FoF Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth AJ Anupam Joshi Mar 2026 - Present View details Education Mr. Joshi is a PGDM in Business Management. Experience Prior to joining HDFC Mutual Fund he has worked with IDFC AMC, Principal Asset Management Company and ICAP India Pvt. Ltd. Also manages these schemes HDFC Ultra Short to Short Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC FMP 1861D March 2022 Direct Growth HDFC FMP 1876D March 2022 Direct Growth HDFC Nifty G sec Dec 2026 Index Direct Growth HDFC Nifty G Sec July 2031 Index Direct Growth HDFC Nifty G Sec Jun 2027 Index Direct Growth HDFC Nifty G Sec Sep 2032 Index Direct Growth HDFC Long Term Fund Direct Growth HDFC Nifty SDL Oct 2026 Index Fund Direct Growth HDFC Nifty G Sec Apr 2029 Index Fund Direct Growth HDFC NIFTY G Sec Jun 2036 Index Fund Direct Growth HDFC NIFTY SDL Plus G Sec Jun 2027 40:60 Index Fund Direct Growth HDFC CRISIL IBX Financial Services 3 6 Months Debt Index Fund Direct Growth HDFC CRISIL IBX Financial Services 9 12 Months Debt Index Fund Direct Growth AA Arun Agarwal Apr 2025 - Present View details Education Mr. Agarwal is a B.Com. and Chartered Accountant Experience Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC NIFTY 50 ETF IDCW HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC BSE Sensex ETF HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth DM Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth NM Nandita Menezes Apr 2025 - Present View details Education CA (ICAI, INDIA), B.Com (University of Mumbai) Experience Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Gold Silver Passive FoF Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
-    "meta_description": "HDFC Retirement Fund Equity Plan Direct Growth is Flexi Cap Equity mutual fund with risk-reward rating of 4/10. It has track record of 10 years, with three year return of 10.81. Risk is Very High",
+    "meta_description": "HDFC Retirement Fund Equity Plan Direct Growth is Flexi Cap Equity mutual fund with risk-reward rating of 4/10. It has track record of 10 years, with three year return of 10.78. Risk is Very High",
     "category_helper_text": "Invests in stocks as per Contrarian investment strategy",
     "blocked_reason": null,
     "brochure_link": null,
@@ -1989,7 +1977,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.034Z",
+    "launch_date": "1999-12-09T18:30:00.918Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -2019,7 +2007,7 @@
         "scheme_code": "136094",
         "analysis_type": "PROS",
         "analysis_subject": "p_return_analysis",
-        "analysis_desc": "10Y annualised returns higher than category average by 2.21%",
+        "analysis_desc": "10Y annualised returns higher than category average by 2.23%",
         "analysis_data": "p_return_analysis",
         "rating": null
       },
@@ -2068,168 +2056,144 @@
     "historic_fund_expense": [
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-23T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-22T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-21T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-20T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-19T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-18T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-17T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-16T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-15T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-14T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-13T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-12T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-11T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-10T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-09T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-08T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-07T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.91,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-06T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.91,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-05T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.91,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-04T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.91,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-03T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-02T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.92,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-01T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.94,
-        "base_expense_ratio": null,
         "as_on_date": "2026-07-31T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
@@ -2246,8 +2210,8 @@
         "sub_sub_category": "",
         "aum": 2786.3965,
         "mean_return": null,
-        "return3y": 22.27,
-        "return1y": 16.96,
+        "return3y": 22.17,
+        "return1y": 18.05,
         "min_investment": 5000,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -2285,8 +2249,8 @@
         "sub_sub_category": "",
         "aum": 1467.29900562,
         "mean_return": null,
-        "return3y": 20.11,
-        "return1y": 16.3,
+        "return3y": 20,
+        "return1y": 17.78,
         "min_investment": 5000,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -2324,8 +2288,8 @@
         "sub_sub_category": "",
         "aum": 110736.41185,
         "mean_return": 11.26,
-        "return3y": 17.72,
-        "return1y": 5.65,
+        "return3y": 17.65,
+        "return1y": 6.56,
         "min_investment": 100,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -2363,8 +2327,8 @@
         "sub_sub_category": "",
         "aum": 148429.00447496,
         "mean_return": 14.11,
-        "return3y": 14.4,
-        "return1y": -0.99,
+        "return3y": 14.43,
+        "return1y": 0,
         "min_investment": 1000,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -2402,8 +2366,8 @@
         "sub_sub_category": "",
         "aum": 19509.44212145,
         "mean_return": 7.11,
-        "return3y": 13.33,
-        "return1y": 0.65,
+        "return3y": 13.23,
+        "return1y": 1.8,
         "min_investment": 5000,
         "groww_rating": 4,
         "risk_rating": 6,
