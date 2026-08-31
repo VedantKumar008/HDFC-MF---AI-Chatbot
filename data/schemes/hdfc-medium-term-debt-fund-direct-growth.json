@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Medium Term Fund Direct Growth",
   "fund_name": "HDFC Medium Term Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-medium-term-debt-fund-direct-growth",
-  "scraped_at": "2026-08-30T09:24:04.815995+00:00",
+  "scraped_at": "2026-08-31T09:59:20.882132+00:00",
   "category": "Debt",
   "sub_category": "Medium Duration",
   "super_category": "HDFC Medium Term Fund",
@@ -1181,19 +1181,19 @@
   "historical_returns": {
     "simple_return": {
       "scheme_code": "119081",
-      "return1d": 0.0386813747,
-      "return1w": -0.112990414,
-      "return1m": 0.6535359162,
-      "return3m": 2.9094535002,
-      "return6m": 3.4952096231,
-      "return9m": 4.8264011966,
-      "return1y": 7.2021079975,
-      "return2y": 16.237633534909,
-      "return3y": 26.010203301742,
-      "return4y": 34.981180039174,
-      "return5y": 39.484226021776,
+      "return1d": -0.0318451054,
+      "return1w": 0.0464392056,
+      "return1m": 0.3589729537,
+      "return3m": 2.7702342461,
+      "return6m": 3.35041647,
+      "return9m": 4.7837033646,
+      "return1y": 7.054503882,
+      "return2y": 16.059724195482,
+      "return3y": 25.811235054438,
+      "return4y": 34.799313767388,
+      "return5y": 39.381650805866,
       "return7y": null,
-      "return10y": 108.163516533464,
+      "return10y": 107.977991746905,
       "return_default": null,
       "mean_return": null,
       "sharpe_ratio": null,
@@ -1201,7 +1201,7 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 190.795769,
+      "return_since_created": 190.683328,
       "cat_return3m": null,
       "cat_return6m": null,
       "cat_return1y": 7.952688014255482,
@@ -1385,84 +1385,72 @@
     "historic_fund_expense": [
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-23T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-22T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-21T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-20T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-19T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-18T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-17T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-16T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-15T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-14T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-13T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-12T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
@@ -1556,7 +1544,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.098Z",
+    "launch_date": "1999-12-09T18:30:00.427Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1635,168 +1623,144 @@
     "historic_fund_expense": [
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-23T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-22T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-21T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-20T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-19T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-18T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-17T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-16T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-15T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-14T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-13T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-12T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-11T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-10T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-09T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-08T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-07T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-06T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-05T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-04T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-03T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-02T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-08-01T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       },
       {
         "expense_ratio": 0.7,
-        "base_expense_ratio": null,
         "as_on_date": "2026-07-31T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
