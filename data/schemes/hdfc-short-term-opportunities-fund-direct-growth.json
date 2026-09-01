@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Short Term Fund Direct Plan Growth",
   "fund_name": "HDFC Short Term Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth",
-  "scraped_at": "2026-08-31T09:59:35.721723+00:00",
+  "scraped_at": "2026-09-01T08:50:23.785400+00:00",
   "category": "Debt",
   "sub_category": "Short Duration",
   "super_category": "HDFC Short Term Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to generate regular income through investment in debt securities and money market instruments.",
   "fund_objective": "The scheme seeks to generate regular income through investment in debt securities and money market instruments.",
-  "nav": 35.3348,
-  "nav_date": "28-Aug-2026",
+  "nav": 35.3343,
+  "nav_date": "31-Aug-2026",
   "aum": 15080.9813,
   "expense_ratio": 0.4,
   "exit_load": "Nil",
@@ -2102,17 +2102,17 @@
     "return_stats": [
       {
         "scheme_code": "119016",
-        "return1d": -0.04,
-        "return1w": 0.03,
-        "return1m": 0.09,
-        "return3m": 2.28,
-        "return6m": 2.7,
+        "return1d": 0,
+        "return1w": -0.02,
+        "return1m": 0.07,
+        "return3m": 2.19,
+        "return6m": 2.69,
         "return9m": null,
         "return1y": 5.79,
         "return2y": null,
-        "return3y": 7.53,
+        "return3y": 7.51,
         "return4y": null,
-        "return5y": 6.61,
+        "return5y": 6.59,
         "return7y": null,
         "return10y": 7.4,
         "return_default": 8.79,
@@ -2122,7 +2122,7 @@
         "standard_deviation": 1.2978005756894504,
         "risk_rating": 3,
         "risk": "Moderate",
-        "return_since_created": 7.9353023529,
+        "return_since_created": 7.9302355617,
         "cat_return3m": 1.2843329781846153,
         "cat_return6m": 2.4714211606076923,
         "cat_return1y": 7.379558730795884,
@@ -2130,8 +2130,8 @@
         "cat_return5y": 5.86016028765529,
         "cat_return10y": 6.637433783250606,
         "cat_return_since_launch": null,
-        "rank3m": 15,
-        "rank6m": 11,
+        "rank3m": 16,
+        "rank6m": 12,
         "rank1yr": 10,
         "rank3yr": 9,
         "rank5yr": 9,
@@ -2163,8 +2163,8 @@
       {
         "type": "FUND_RETURN",
         "stat_1y": 5.79,
-        "stat_3y": 7.53,
-        "stat_5y": 6.61,
+        "stat_3y": 7.51,
+        "stat_5y": 6.59,
         "stat_all": 8.79,
         "title": "Fund Returns"
       },
@@ -2187,6 +2187,41 @@
     ],
     "portfolio_turnover": null,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.4,
+        "base_expense_ratio": null,
+        "as_on_date": "2026-08-28T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.4,
+        "base_expense_ratio": null,
+        "as_on_date": "2026-08-27T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.4,
+        "base_expense_ratio": null,
+        "as_on_date": "2026-08-26T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.4,
+        "base_expense_ratio": null,
+        "as_on_date": "2026-08-25T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.4,
+        "base_expense_ratio": null,
+        "as_on_date": "2026-08-24T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.4,
         "base_expense_ratio": null,
@@ -2233,41 +2268,6 @@
         "expense_ratio": 0.4,
         "base_expense_ratio": null,
         "as_on_date": "2026-08-17T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.4,
-        "base_expense_ratio": null,
-        "as_on_date": "2026-08-16T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.4,
-        "base_expense_ratio": null,
-        "as_on_date": "2026-08-15T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.4,
-        "base_expense_ratio": null,
-        "as_on_date": "2026-08-14T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.4,
-        "base_expense_ratio": null,
-        "as_on_date": "2026-08-13T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.4,
-        "base_expense_ratio": null,
-        "as_on_date": "2026-08-12T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       }
@@ -2337,7 +2337,7 @@
     "fund_management_section": "AB Anil Bamboli Jan 2013 - Present View details Education Mr. Bamboli is a CFA from Association for Investment Management and Research, U.S.A, Masters in Management Studies (Finance) and a Graduate in Cost and Works Accountant from ICWAI. Experience Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years. Also manages these schemes HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Gilt Fund Direct Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Short Term Fund Direct Plan Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Income Plus Arbitrage Active FoF Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Multi Asset Active FoF Direct Growth HDFC Children's Fund Direct Plan DM Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
-    "meta_description": "HDFC Short Term Fund Direct Plan Growth is Short Duration Debt mutual fund with risk-reward rating of 4/10. It has track record of 13 years, with three year return of 7.53. Risk is Moderate",
+    "meta_description": "HDFC Short Term Fund Direct Plan Growth is Short Duration Debt mutual fund with risk-reward rating of 4/10. It has track record of 13 years, with three year return of 7.51. Risk is Moderate",
     "category_helper_text": "Invest in Government securities (80%+)",
     "blocked_reason": null,
     "brochure_link": null,
@@ -2367,7 +2367,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.689Z",
+    "launch_date": "1999-12-09T18:30:00.176Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -2444,6 +2444,41 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.4,
+        "base_expense_ratio": null,
+        "as_on_date": "2026-08-28T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.4,
+        "base_expense_ratio": null,
+        "as_on_date": "2026-08-27T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.4,
+        "base_expense_ratio": null,
+        "as_on_date": "2026-08-26T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.4,
+        "base_expense_ratio": null,
+        "as_on_date": "2026-08-25T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.4,
+        "base_expense_ratio": null,
+        "as_on_date": "2026-08-24T00:00:00",
+        "frequency": "Daily",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.4,
         "base_expense_ratio": null,
@@ -2576,41 +2611,6 @@
         "as_on_date": "2026-08-05T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.4,
-        "base_expense_ratio": null,
-        "as_on_date": "2026-08-04T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.4,
-        "base_expense_ratio": null,
-        "as_on_date": "2026-08-03T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.4,
-        "base_expense_ratio": null,
-        "as_on_date": "2026-08-02T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.4,
-        "base_expense_ratio": null,
-        "as_on_date": "2026-08-01T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.39,
-        "base_expense_ratio": null,
-        "as_on_date": "2026-07-31T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
       }
     ],
     "fund_news": null,
@@ -2624,7 +2624,7 @@
         "sub_sub_category": "",
         "aum": 19259.89268313,
         "mean_return": 7.64,
-        "return3y": 7.88,
+        "return3y": 7.83,
         "return1y": 6.47,
         "min_investment": 500,
         "groww_rating": 5,
@@ -2663,8 +2663,8 @@
         "sub_sub_category": "",
         "aum": 8010.238205,
         "mean_return": 7.57,
-        "return3y": 7.79,
-        "return1y": 6.08,
+        "return3y": 7.76,
+        "return1y": 6.11,
         "min_investment": 100,
         "groww_rating": 5,
         "risk_rating": 3,
@@ -2702,8 +2702,8 @@
         "sub_sub_category": "",
         "aum": 9287.2622,
         "mean_return": 7.89,
-        "return3y": 7.74,
-        "return1y": 6.5,
+        "return3y": 7.72,
+        "return1y": 6.57,
         "min_investment": 1000,
         "groww_rating": 4,
         "risk_rating": 7,
@@ -2741,8 +2741,8 @@
         "sub_sub_category": "",
         "aum": 7189.4369,
         "mean_return": 7.18,
-        "return3y": 7.71,
-        "return1y": 5.95,
+        "return3y": 7.68,
+        "return1y": 5.94,
         "min_investment": 100,
         "groww_rating": 4,
         "risk_rating": 3,
@@ -2780,7 +2780,7 @@
         "sub_sub_category": "",
         "aum": 15080.9813,
         "mean_return": 7.38,
-        "return3y": 7.53,
+        "return3y": 7.51,
         "return1y": 5.79,
         "min_investment": 100,
         "groww_rating": 4,
