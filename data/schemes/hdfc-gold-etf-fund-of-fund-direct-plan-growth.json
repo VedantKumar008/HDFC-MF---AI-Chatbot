@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
   "fund_name": "HDFC Gold ETF Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-  "scraped_at": "2026-09-01T08:50:26.255765+00:00",
+  "scraped_at": "2026-09-02T08:03:25.349752+00:00",
   "category": "Commodities",
   "sub_category": "Gold",
   "super_category": "HDFC Gold ETF Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.",
   "fund_objective": "The Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.",
-  "nav": 48.1076,
-  "nav_date": "31-Aug-2026",
+  "nav": 47.3372,
+  "nav_date": "01-Sep-2026",
   "aum": 11197.0455,
   "expense_ratio": 0.2,
   "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -551,19 +551,19 @@
     "return_stats": [
       {
         "scheme_code": "119132",
-        "return1d": -2.57,
-        "return1w": -4.16,
-        "return1m": 8.91,
-        "return3m": -0.8,
-        "return6m": -3.2,
+        "return1d": -1.6,
+        "return1w": -5.39,
+        "return1m": 7.16,
+        "return3m": -1.61,
+        "return6m": -4.75,
         "return9m": null,
-        "return1y": 49.11,
+        "return1y": 44.74,
         "return2y": null,
-        "return3y": 36.07,
+        "return3y": 35.34,
         "return4y": null,
-        "return5y": 25.52,
+        "return5y": 25.15,
         "return7y": null,
-        "return10y": 16.38,
+        "return10y": 16.25,
         "return_default": 10.83,
         "mean_return": 11.06,
         "sharpe_ratio": 1.3116957447,
@@ -571,7 +571,7 @@
         "standard_deviation": 18.34487881208876,
         "risk_rating": 5,
         "risk": "High",
-        "return_since_created": 11.3537631355,
+        "return_since_created": 11.2199781547,
         "cat_return3m": 18.68149538354634,
         "cat_return6m": 41.98583723138889,
         "cat_return1y": 76.00068826008322,
@@ -579,10 +579,10 @@
         "cat_return5y": 20.95384843351483,
         "cat_return10y": 17.040816927548995,
         "cat_return_since_launch": null,
-        "rank3m": 4,
+        "rank3m": 9,
         "rank6m": 13,
-        "rank1yr": 9,
-        "rank3yr": 7,
+        "rank1yr": 7,
+        "rank3yr": 6,
         "rank5yr": 5,
         "rank10yr": 3,
         "rank_count3m": null,
@@ -611,9 +611,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 49.11,
-        "stat_3y": 36.07,
-        "stat_5y": 25.52,
+        "stat_1y": 44.74,
+        "stat_3y": 35.34,
+        "stat_5y": 25.15,
         "stat_all": 10.83,
         "title": "Fund Returns"
       },
@@ -627,8 +627,8 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 9,
-        "stat_3y": 7,
+        "stat_1y": 7,
+        "stat_3y": 6,
         "stat_5y": 5,
         "stat_all": null,
         "title": "Rank Within Category"
@@ -636,6 +636,13 @@
     ],
     "portfolio_turnover": 1.0,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": null,
+        "as_on_date": "2026-08-31T00:00:00",
+        "frequency": "Monthly",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.2,
         "base_expense_ratio": null,
@@ -712,13 +719,6 @@
         "as_on_date": "2026-08-18T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": null,
-        "as_on_date": "2026-08-17T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
       }
     ]
   },
@@ -785,7 +785,7 @@
     "fund_management_section": "AA Arun Agarwal Feb 2023 - Present View details Education Mr. Agarwal is a B.Com. and Chartered Accountant Experience Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC NIFTY 50 ETF IDCW HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC BSE Sensex ETF HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth NM Nandita Menezes Mar 2025 - Present View details Education CA (ICAI, INDIA), B.Com (University of Mumbai) Experience Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Gold Silver Passive FoF Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
-    "meta_description": "HDFC Gold ETF Fund of Fund Direct Plan Growth is Gold Commodities mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 36.07. Risk is High",
+    "meta_description": "HDFC Gold ETF Fund of Fund Direct Plan Growth is Gold Commodities mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 35.34. Risk is High",
     "category_helper_text": null,
     "blocked_reason": null,
     "brochure_link": null,
@@ -829,7 +829,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.998Z",
+    "launch_date": "1999-12-09T18:30:00.244Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -890,6 +890,13 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": null,
+        "as_on_date": "2026-08-31T00:00:00",
+        "frequency": "Monthly",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.2,
         "base_expense_ratio": null,
@@ -1048,13 +1055,6 @@
         "expense_ratio": 0.2,
         "base_expense_ratio": null,
         "as_on_date": "2026-08-06T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": null,
-        "as_on_date": "2026-08-05T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
       }

@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Short Term Fund Direct Plan Growth",
   "fund_name": "HDFC Short Term Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth",
-  "scraped_at": "2026-09-01T08:50:23.785400+00:00",
+  "scraped_at": "2026-09-02T08:03:22.820546+00:00",
   "category": "Debt",
   "sub_category": "Short Duration",
   "super_category": "HDFC Short Term Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to generate regular income through investment in debt securities and money market instruments.",
   "fund_objective": "The scheme seeks to generate regular income through investment in debt securities and money market instruments.",
-  "nav": 35.3343,
-  "nav_date": "31-Aug-2026",
+  "nav": 35.3398,
+  "nav_date": "01-Sep-2026",
   "aum": 15080.9813,
   "expense_ratio": 0.4,
   "exit_load": "Nil",
@@ -242,21 +242,6 @@
           "scheme_name": "HDFC Money Market Fund Direct Growth",
           "scheme_code": "119092",
           "search_id": "hdfc-money-market-fund-direct-growth"
-        },
-        {
-          "scheme_name": "HDFC Retirement Fund Equity Plan Direct Growth",
-          "scheme_code": "136094",
-          "search_id": "hdfc-retirement-fund-equity-plan-direct-growth"
-        },
-        {
-          "scheme_name": "HDFC Retirement Fund Hybrid Equity Plan Direct Growth",
-          "scheme_code": "136464",
-          "search_id": "hdfc-retirement-fund-hybrid-equity-plan-direct-growth"
-        },
-        {
-          "scheme_name": "HDFC Retirement Fund Hybrid Debt Plan Direct Growth",
-          "scheme_code": "136465",
-          "search_id": "hdfc-retirement-fund-hybrid-debt-plan-direct-growth"
         },
         {
           "scheme_name": "HDFC Housing Opportunities Fund Direct Growth",
@@ -2102,17 +2087,17 @@
     "return_stats": [
       {
         "scheme_code": "119016",
-        "return1d": 0,
-        "return1w": -0.02,
-        "return1m": 0.07,
-        "return3m": 2.19,
-        "return6m": 2.69,
+        "return1d": 0.02,
+        "return1w": -0.04,
+        "return1m": 0.08,
+        "return3m": 2.16,
+        "return6m": 2.71,
         "return9m": null,
-        "return1y": 5.79,
+        "return1y": 5.82,
         "return2y": null,
         "return3y": 7.51,
         "return4y": null,
-        "return5y": 6.59,
+        "return5y": 6.58,
         "return7y": null,
         "return10y": 7.4,
         "return_default": 8.79,
@@ -2122,7 +2107,7 @@
         "standard_deviation": 1.2978005756894504,
         "risk_rating": 3,
         "risk": "Moderate",
-        "return_since_created": 7.9302355617,
+        "return_since_created": 7.9298137717,
         "cat_return3m": 1.2843329781846153,
         "cat_return6m": 2.4714211606076923,
         "cat_return1y": 7.379558730795884,
@@ -2130,8 +2115,8 @@
         "cat_return5y": 5.86016028765529,
         "cat_return10y": 6.637433783250606,
         "cat_return_since_launch": null,
-        "rank3m": 16,
-        "rank6m": 12,
+        "rank3m": 18,
+        "rank6m": 13,
         "rank1yr": 10,
         "rank3yr": 9,
         "rank5yr": 9,
@@ -2162,9 +2147,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 5.79,
+        "stat_1y": 5.82,
         "stat_3y": 7.51,
-        "stat_5y": 6.59,
+        "stat_5y": 6.58,
         "stat_all": 8.79,
         "title": "Fund Returns"
       },
@@ -2187,6 +2172,13 @@
     ],
     "portfolio_turnover": null,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.4,
+        "base_expense_ratio": null,
+        "as_on_date": "2026-08-31T00:00:00",
+        "frequency": "Monthly",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.4,
         "base_expense_ratio": null,
@@ -2263,13 +2255,6 @@
         "as_on_date": "2026-08-18T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.4,
-        "base_expense_ratio": null,
-        "as_on_date": "2026-08-17T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
       }
     ]
   },
@@ -2311,7 +2296,7 @@
     },
     {
       "question": "c_return_analysis",
-      "answer": "1Y annualised returns lower than category average by 1.59%"
+      "answer": "1Y annualised returns lower than category average by 1.56%"
     },
     {
       "question": "exit_load",
@@ -2334,7 +2319,7 @@
     "about": "",
     "investment_objective": "The scheme seeks to generate regular income through investment in debt securities and money market instruments.",
     "fund_house_section": "",
-    "fund_management_section": "AB Anil Bamboli Jan 2013 - Present View details Education Mr. Bamboli is a CFA from Association for Investment Management and Research, U.S.A, Masters in Management Studies (Finance) and a Graduate in Cost and Works Accountant from ICWAI. Experience Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years. Also manages these schemes HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Gilt Fund Direct Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Short Term Fund Direct Plan Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Income Plus Arbitrage Active FoF Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Multi Asset Active FoF Direct Growth HDFC Children's Fund Direct Plan DM Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth",
+    "fund_management_section": "AB Anil Bamboli Jan 2013 - Present View details Education Mr. Bamboli is a CFA from Association for Investment Management and Research, U.S.A, Masters in Management Studies (Finance) and a Graduate in Cost and Works Accountant from ICWAI. Experience Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years. Also manages these schemes HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Gilt Fund Direct Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Short Term Fund Direct Plan Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Income Plus Arbitrage Active FoF Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Multi Asset Active FoF Direct Growth HDFC Children's Fund Direct Plan DM Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
     "meta_description": "HDFC Short Term Fund Direct Plan Growth is Short Duration Debt mutual fund with risk-reward rating of 4/10. It has track record of 13 years, with three year return of 7.51. Risk is Moderate",
@@ -2367,7 +2352,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.176Z",
+    "launch_date": "1999-12-09T18:30:00.361Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -2405,7 +2390,7 @@
         "scheme_code": "119016",
         "analysis_type": "CONS",
         "analysis_subject": "c_return_analysis",
-        "analysis_desc": "1Y annualised returns lower than category average by 1.59%",
+        "analysis_desc": "1Y annualised returns lower than category average by 1.56%",
         "analysis_data": "c_return_analysis",
         "rating": null
       },
@@ -2444,6 +2429,13 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.4,
+        "base_expense_ratio": null,
+        "as_on_date": "2026-08-31T00:00:00",
+        "frequency": "Monthly",
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.4,
         "base_expense_ratio": null,
@@ -2604,13 +2596,6 @@
         "as_on_date": "2026-08-06T00:00:00",
         "frequency": "Daily",
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.4,
-        "base_expense_ratio": null,
-        "as_on_date": "2026-08-05T00:00:00",
-        "frequency": "Daily",
-        "turn_over_ratio": null
       }
     ],
     "fund_news": null,
@@ -2624,8 +2609,8 @@
         "sub_sub_category": "",
         "aum": 19259.89268313,
         "mean_return": 7.64,
-        "return3y": 7.83,
-        "return1y": 6.47,
+        "return3y": 7.84,
+        "return1y": 6.5,
         "min_investment": 500,
         "groww_rating": 5,
         "risk_rating": 3,
@@ -2664,7 +2649,7 @@
         "aum": 8010.238205,
         "mean_return": 7.57,
         "return3y": 7.76,
-        "return1y": 6.11,
+        "return1y": 6.15,
         "min_investment": 100,
         "groww_rating": 5,
         "risk_rating": 3,
@@ -2702,8 +2687,8 @@
         "sub_sub_category": "",
         "aum": 9287.2622,
         "mean_return": 7.89,
-        "return3y": 7.72,
-        "return1y": 6.57,
+        "return3y": 7.73,
+        "return1y": 6.63,
         "min_investment": 1000,
         "groww_rating": 4,
         "risk_rating": 7,
@@ -2742,7 +2727,7 @@
         "aum": 7189.4369,
         "mean_return": 7.18,
         "return3y": 7.68,
-        "return1y": 5.94,
+        "return1y": 5.99,
         "min_investment": 100,
         "groww_rating": 4,
         "risk_rating": 3,
@@ -2781,7 +2766,7 @@
         "aum": 15080.9813,
         "mean_return": 7.38,
         "return3y": 7.51,
-        "return1y": 5.79,
+        "return1y": 5.82,
         "min_investment": 100,
         "groww_rating": 4,
         "risk_rating": 3,
