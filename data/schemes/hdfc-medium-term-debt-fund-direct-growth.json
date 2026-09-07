@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Medium Term Fund Direct Growth",
   "fund_name": "HDFC Medium Term Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-medium-term-debt-fund-direct-growth",
-  "scraped_at": "2026-09-06T08:02:32.297996+00:00",
+  "scraped_at": "2026-09-07T08:33:03.028796+00:00",
   "category": "Debt",
   "sub_category": "Medium Duration",
   "super_category": "HDFC Medium Term Fund",
@@ -389,24 +389,14 @@
   ],
   "holdings": [
     {
-      "company_name": "GOI Sec 7.18 24/07/2037",
-      "sector_name": "Entities",
-      "nature_name": "DEBT",
-      "instrument_name": "GOI Securities",
-      "rating": null,
-      "corpus_per": 5.12,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
       "company_name": "SIDDHIVINAYAK SECURITISATION TRUST SD TRUST PTC 15SEPT25",
       "sector_name": "Unspecified",
       "nature_name": "DEBT",
       "instrument_name": "Securitised Debt",
       "rating": null,
-      "corpus_per": 4.79,
+      "corpus_per": 4.82,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC",
@@ -414,9 +404,19 @@
       "nature_name": "DEBT",
       "instrument_name": "Bonds",
       "rating": null,
-      "corpus_per": 4.37,
+      "corpus_per": 4.41,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOI Sec 7.18 24/07/2037",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 3.68,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "JUBILANT BEVERAGES LIMITED NCD 31MY28 FVRS1LAC",
@@ -424,19 +424,19 @@
       "nature_name": "DEBT",
       "instrument_name": "Debenture",
       "rating": null,
-      "corpus_per": 3.29,
+      "corpus_per": 3.32,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
-      "company_name": "GOI Sec 7.23 15/04/2039",
-      "sector_name": "Entities",
-      "nature_name": "DEBT",
-      "instrument_name": "GOI Securities",
+      "company_name": "Net Current Assets",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "instrument_name": "Net Current Assets",
       "rating": null,
-      "corpus_per": 2.98,
+      "corpus_per": 3.03,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100",
@@ -446,17 +446,17 @@
       "rating": null,
       "corpus_per": 2.96,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
-      "company_name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.83 BD 24NV28 FVRS1LAC",
-      "sector_name": "Financial",
+      "company_name": "GOI Sec 7.23 15/04/2039",
+      "sector_name": "Entities",
       "nature_name": "DEBT",
-      "instrument_name": "Debenture",
+      "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 2.79,
+      "corpus_per": 2.96,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "SK FINANCE LIMITED 9.25 NCD 15JL27 FVRS1LAC",
@@ -464,9 +464,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Non Convertible Debenture",
       "rating": null,
-      "corpus_per": 2.77,
+      "corpus_per": 2.78,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "KALPATARU PROJECTS INTERNATIONAL LIMITED 8.35 NCD 11JU27 FVRS1LAC",
@@ -474,9 +474,19 @@
       "nature_name": "DEBT",
       "instrument_name": "Non Convertible Debenture",
       "rating": null,
-      "corpus_per": 2.77,
+      "corpus_per": 2.78,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.83 BD 24NV28 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 2.78,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "SBFC FINANCE LIMITED SR A3 RR NCD 13MY27 FVRS1LAC",
@@ -486,7 +496,17 @@
       "rating": null,
       "corpus_per": 2.76,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "SHIVSHAKTI SECURITISATION TRUST SS TRUST PTC 15SEPT25",
+      "sector_name": "Unspecified",
+      "nature_name": "DEBT",
+      "instrument_name": "Securitised Debt",
+      "rating": null,
+      "corpus_per": 2.74,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "KOSAMATTAM FINANCE LIMITED RR NCD 16MR29 FVRS1LAC",
@@ -496,17 +516,7 @@
       "rating": null,
       "corpus_per": 2.73,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "SHIVSHAKTI SECURITISATION TRUST SS TRUST PTC 15SEPT25",
-      "sector_name": "Unspecified",
-      "nature_name": "DEBT",
-      "instrument_name": "Securitised Debt",
-      "rating": null,
-      "corpus_per": 2.72,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "MAS FINANCIAL SERVICES LIMITED 9.75 NCD 15JU27 FVRS100000",
@@ -516,7 +526,7 @@
       "rating": null,
       "corpus_per": 2.65,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
@@ -524,9 +534,49 @@
       "nature_name": "DEBT",
       "instrument_name": "Debenture",
       "rating": null,
+      "corpus_per": 2.25,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "TRIUMPH COMPOSITES PRIVATE LIMITED 10.50 NCD 27AP31 FVRS1LAC",
+      "sector_name": "Materials",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
       "corpus_per": 2.23,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "TRUHOME FINANCE LIMITED SR 38 8.60 NCD 27AG27 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 2.09,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "MOTILAL OSWAL HOME FINANCE LIMITED SR 2 8.55 NCD 24MR28 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 2.09,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25G 7.48 BD 15SP28 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Bonds",
+      "rating": null,
+      "corpus_per": 2.08,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "EVONITH VALUE STEEL LIMITED 9.50 LOA 12OT29 FVRS1LAC",
@@ -536,17 +586,7 @@
       "rating": null,
       "corpus_per": 2.08,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "MOTILAL OSWAL HOME FINANCE LIMITED SR 2 8.55 NCD 24MR28 FVRS1LAC",
-      "sector_name": "Financial",
-      "nature_name": "DEBT",
-      "instrument_name": "Debenture",
-      "rating": null,
-      "corpus_per": 2.08,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "POWER FINANCE CORPORATION LIMITED SR 247A 7.44 BD 15JN30 FVRS1LAC",
@@ -554,29 +594,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Bonds",
       "rating": null,
-      "corpus_per": 2.08,
+      "corpus_per": 2.07,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "TRUHOME FINANCE LIMITED SR 38 8.60 NCD 27AG27 FVRS1LAC",
-      "sector_name": "Financial",
-      "nature_name": "DEBT",
-      "instrument_name": "Non Convertible Debenture",
-      "rating": null,
-      "corpus_per": 2.08,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "Net Current Assets",
-      "sector_name": "Unspecified",
-      "nature_name": "CASH",
-      "instrument_name": "Net Current Assets",
-      "rating": null,
-      "corpus_per": 1.96,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "BAJAJ HOUSING FINANCE LIMITED 7.89 NCD 14JL34 FVRS1LAC",
@@ -584,29 +604,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Debenture",
       "rating": null,
-      "corpus_per": 1.95,
+      "corpus_per": 1.92,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "PIPELINE INFRASTRUCTURE LIMITED SR 1 7.96 NCD 11MR27 FVRS1LAC",
-      "sector_name": "Industrials",
-      "nature_name": "DEBT",
-      "instrument_name": "Debenture",
-      "rating": null,
-      "corpus_per": 1.94,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "Repo",
-      "sector_name": "Unspecified",
-      "nature_name": "CASH",
-      "instrument_name": "Repo",
-      "rating": null,
-      "corpus_per": 1.79,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "PIPELINE INFRASTRUCTURE LIMITED SR 2 7.96 NCD 11MR28 FVRS1AC",
@@ -614,9 +614,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Debenture",
       "rating": null,
-      "corpus_per": 1.67,
+      "corpus_per": 1.68,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "AADHAR HOUSING FINANCE LIMITED 8.10 NCD 24AG28 FVRS1LAC",
@@ -626,7 +626,7 @@
       "rating": null,
       "corpus_per": 1.66,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "AADHARSHILA INFRATECH PRIVATE LIMITED RR NCD 31MR31 FVRS1LAC",
@@ -636,7 +636,7 @@
       "rating": null,
       "corpus_per": 1.64,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Tata Power Company Ltd SR CGPLAU02 Debenture 9.90 27/08/2028",
@@ -644,19 +644,19 @@
       "nature_name": "DEBT",
       "instrument_name": "Debenture",
       "rating": null,
-      "corpus_per": 1.44,
+      "corpus_per": 1.43,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
-      "company_name": "4.45% Government of India (30/10/2034)",
-      "sector_name": "Entities",
+      "company_name": "TATA POWER RENEWABLE ENERGY LIMITED SR I 7.93 NCD 26JU29 FVRS1LAC",
+      "sector_name": "Industrials",
       "nature_name": "DEBT",
-      "instrument_name": "GOI Securities",
+      "instrument_name": "Bonds",
       "rating": null,
-      "corpus_per": 1.42,
+      "corpus_per": 1.4,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "GODREJ INDUSTRIES LIMITED SR II 8.40 NCD 27AG27 FVRS1LAC",
@@ -666,17 +666,7 @@
       "rating": null,
       "corpus_per": 1.39,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "TATA POWER RENEWABLE ENERGY LIMITED SR I 7.93 NCD 26JU29 FVRS1LAC",
-      "sector_name": "Industrials",
-      "nature_name": "DEBT",
-      "instrument_name": "Bonds",
-      "rating": null,
-      "corpus_per": 1.39,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "JM FINANCIAL HOME LOANS LIMITED SR II TR S 9 NCD 13AG27 FVRS1LAC",
@@ -686,7 +676,27 @@
       "rating": null,
       "corpus_per": 1.39,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "JSW ENERGY LIMITED TR I 8.75 NCD 03MR28 FVRS1LAC",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "DEBT",
+      "instrument_name": "Non Convertible Debenture",
+      "rating": null,
+      "corpus_per": 1.39,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "TMF Holdings Ltd Perpetual Bond 7.9944",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Perpetual Bond",
+      "rating": null,
+      "corpus_per": 1.39,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25C 7.44 BD 24FB28 FVRS1LAC",
@@ -696,27 +706,17 @@
       "rating": null,
       "corpus_per": 1.38,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
-      "company_name": "TMF Holdings Ltd Perpetual Bond 7.9944",
-      "sector_name": "Financial",
-      "nature_name": "DEBT",
-      "instrument_name": "Perpetual Bond",
-      "rating": null,
-      "corpus_per": 1.38,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "JSW ENERGY LIMITED TR I 8.75 NCD 03MR28 FVRS1LAC",
-      "sector_name": "Energy & Utilities",
+      "company_name": "ADITYA BIRLA DIGITAL FASHION VENTURES LIMITED SR II 8.85 NCD 20SP29 FVRS1LAC",
+      "sector_name": "Consumer Discretionary",
       "nature_name": "DEBT",
       "instrument_name": "Non Convertible Debenture",
       "rating": null,
       "corpus_per": 1.38,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "TMF HOLDINGS LIMITED SR A 7.2962 NCD PERPETUAL FVRS10LAC",
@@ -726,7 +726,7 @@
       "rating": null,
       "corpus_per": 1.37,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "REC LIMITED SR 245B 7.32 BD 28FB35 FVRS1LAC",
@@ -734,19 +734,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Bonds",
       "rating": null,
-      "corpus_per": 1.37,
+      "corpus_per": 1.36,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "GOVERNMENT OF INDIA 33071 GOI 19JU53 7.3 FV RS 100",
-      "sector_name": "Entities",
-      "nature_name": "DEBT",
-      "instrument_name": "GOI Securities",
-      "rating": null,
-      "corpus_per": 1.35,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Raajmarg Infra Investment Trust",
@@ -754,9 +744,19 @@
       "nature_name": "REALEST",
       "instrument_name": "Infrastructure Investment Trust",
       "rating": null,
-      "corpus_per": 1.22,
+      "corpus_per": 1.28,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Repo",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "instrument_name": "Repo",
+      "rating": null,
+      "corpus_per": 1.13,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Embassy Office Parks REIT",
@@ -764,19 +764,9 @@
       "nature_name": "REALEST",
       "instrument_name": "Real Estate Investment Trusts",
       "rating": null,
-      "corpus_per": 0.97,
+      "corpus_per": 0.98,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "UNIVERSE TRUST DEC 2024 SERIES A1(B) PTC 28JAN25",
-      "sector_name": "Industrials",
-      "nature_name": "DEBT",
-      "instrument_name": "Securitised Debt",
-      "rating": null,
-      "corpus_per": 0.97,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Bharat Highways InvIT",
@@ -784,19 +774,19 @@
       "nature_name": "REALEST",
       "instrument_name": "Infrastructure Investment Trust",
       "rating": null,
-      "corpus_per": 0.9,
+      "corpus_per": 0.91,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
-      "company_name": "VAJRA 003 TRUST SENIOR TRANCHE PTC 08DEC23",
-      "sector_name": "Unspecified",
+      "company_name": "UNIVERSE TRUST DEC 2024 SERIES A1(B) PTC 28JAN25",
+      "sector_name": "Industrials",
       "nature_name": "DEBT",
       "instrument_name": "Securitised Debt",
       "rating": null,
-      "corpus_per": 0.84,
+      "corpus_per": 0.88,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "BAJAJ HOUSING FINANCE LIMITED 7.80 NCD 09FB34 FVRS1LAC",
@@ -804,9 +794,19 @@
       "nature_name": "DEBT",
       "instrument_name": "Bonds",
       "rating": null,
-      "corpus_per": 0.83,
+      "corpus_per": 0.82,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "VAJRA 003 TRUST SENIOR TRANCHE PTC 08DEC23",
+      "sector_name": "Unspecified",
+      "nature_name": "DEBT",
+      "instrument_name": "Securitised Debt",
+      "rating": null,
+      "corpus_per": 0.77,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "INDIGO 043 SERIES A1 (B) PTC 01AUG25",
@@ -816,7 +816,7 @@
       "rating": null,
       "corpus_per": 0.77,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "INVIT POWERGRID INFRASTRUCTURE INVESTMENT TRUST",
@@ -824,19 +824,9 @@
       "nature_name": "REALEST",
       "instrument_name": "Infrastructure Investment Trust",
       "rating": null,
-      "corpus_per": 0.73,
+      "corpus_per": 0.74,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 165 7.64 BD 28NV37 FVRS10LAC",
-      "sector_name": "Financial",
-      "nature_name": "DEBT",
-      "instrument_name": "Bonds",
-      "rating": null,
-      "corpus_per": 0.71,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "ONGC PETRO ADDITIONS LIMITED SR XIII 8.39 NCD 28JU27 FVRS1LAC",
@@ -846,7 +836,7 @@
       "rating": null,
       "corpus_per": 0.7,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 168 B 7.65 BD 18AP33 FVRS1LAC",
@@ -856,37 +846,17 @@
       "rating": null,
       "corpus_per": 0.7,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
-      "company_name": "STATE DEVELOPMENT LOAN 37673 TN 15JL41 7.59 FV RS 100",
-      "sector_name": "Unspecified",
-      "nature_name": "DEBT",
-      "instrument_name": "State Development Loan",
-      "rating": null,
-      "corpus_per": 0.69,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "MAHINDRA RURAL HOUSING FINANCE LIMITED 8.45 NCD 25MR27 FVRS1LAC",
-      "sector_name": "Financial",
-      "nature_name": "DEBT",
-      "instrument_name": "Non Convertible Debenture",
-      "rating": null,
-      "corpus_per": 0.69,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25F 7.37 BD 28MY35 FVRS1LAC",
+      "company_name": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 165 7.64 BD 28NV37 FVRS10LAC",
       "sector_name": "Financial",
       "nature_name": "DEBT",
       "instrument_name": "Bonds",
       "rating": null,
-      "corpus_per": 0.69,
+      "corpus_per": 0.7,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "POWER FINANCE CORPORATION LIMITED SR 244B 7.40 BD 15JN30 FVRS1LAC",
@@ -896,17 +866,7 @@
       "rating": null,
       "corpus_per": 0.69,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "STATE DEVELOPMENT LOAN 37128 KAR 25FB36 7.44 FV RS 100",
-      "sector_name": "Unspecified",
-      "nature_name": "DEBT",
-      "instrument_name": "State Development Loan",
-      "rating": null,
-      "corpus_per": 0.69,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "JM FINANCIAL HOME LOANS LIMITED SR III TR S 9 NCD 16FB28 FVRS1LAC",
@@ -916,7 +876,27 @@
       "rating": null,
       "corpus_per": 0.69,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "REC LIMITED SR 223B 7.46 BD 30JU28 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Debenture",
+      "rating": null,
+      "corpus_per": 0.69,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "STATE DEVELOPMENT LOAN 37128 KAR 25FB36 7.44 FV RS 100",
+      "sector_name": "Unspecified",
+      "nature_name": "DEBT",
+      "instrument_name": "State Development Loan",
+      "rating": null,
+      "corpus_per": 0.69,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "ADITYA BIRLA DIGITAL FASHION VENTURES LIMITED SR I 9 NCD 20JL29 FVRS1LAC",
@@ -926,7 +906,27 @@
       "rating": null,
       "corpus_per": 0.69,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "STATE DEVELOPMENT LOAN 37673 TN 15JL41 7.59 FV RS 100",
+      "sector_name": "Unspecified",
+      "nature_name": "DEBT",
+      "instrument_name": "State Development Loan",
+      "rating": null,
+      "corpus_per": 0.69,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25F 7.37 BD 28MY35 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Bonds",
+      "rating": null,
+      "corpus_per": 0.68,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC",
@@ -936,7 +936,17 @@
       "rating": null,
       "corpus_per": 0.62,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Capital Infra Trust",
+      "sector_name": "Industrials",
+      "nature_name": "REALEST",
+      "instrument_name": "Infrastructure Investment Trust",
+      "rating": null,
+      "corpus_per": 0.54,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "VASTU FINSERVE INDIA PRIVATE LIMITED SR II 8.75 NCD 23SP28 FVRS1LAC",
@@ -946,7 +956,7 @@
       "rating": null,
       "corpus_per": 0.54,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "VASTU FINSERVE INDIA PRIVATE LIMITED SR III 8.75 NCD 23MR29 FVRS1LAC",
@@ -956,27 +966,7 @@
       "rating": null,
       "corpus_per": 0.54,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "Capital Infra Trust",
-      "sector_name": "Industrials",
-      "nature_name": "REALEST",
-      "instrument_name": "Infrastructure Investment Trust",
-      "rating": null,
-      "corpus_per": 0.52,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "GOVERNMENT OF INDIA 33002 GOI 12JU63 7.25 FV RS 100",
-      "sector_name": "Entities",
-      "nature_name": "DEBT",
-      "instrument_name": "GOI Securities",
-      "rating": null,
-      "corpus_per": 0.4,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100",
@@ -986,7 +976,17 @@
       "rating": null,
       "corpus_per": 0.4,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 33002 GOI 12JU63 7.25 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 0.4,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Others Class A2 AIF",
@@ -994,9 +994,19 @@
       "nature_name": "DEBT",
       "instrument_name": "Alternative Investment Fund",
       "rating": null,
-      "corpus_per": 0.34,
+      "corpus_per": 0.35,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "REC LIMITED SR 251 6.95 BD 18FB28 FVRS1LAC",
+      "sector_name": "Financial",
+      "nature_name": "DEBT",
+      "instrument_name": "Bonds",
+      "rating": null,
+      "corpus_per": 0.28,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "POWER FINANCE CORPORATION LIMITED SR 247B 7.40 BD 15JN35 FVRS1LAC",
@@ -1004,9 +1014,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Bonds",
       "rating": null,
-      "corpus_per": 0.28,
+      "corpus_per": 0.27,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "NTPC LIMITED SR 83 6.84 NCD 09MY35 FVRS1LAC",
@@ -1016,7 +1026,7 @@
       "rating": null,
       "corpus_per": 0.27,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "VASTU FINSERVE INDIA PRIVATE LIMITED SR I 8.75 NCD 23MR28 FVRS1LAC",
@@ -1026,17 +1036,7 @@
       "rating": null,
       "corpus_per": 0.27,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "GOVERNMENT OF INDIA 34733 GOI 05AG54 7.09 FV RS 100",
-      "sector_name": "Entities",
-      "nature_name": "DEBT",
-      "instrument_name": "GOI Securities",
-      "rating": null,
-      "corpus_per": 0.27,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "CENTRAL GOVERNMENT LOAN 30962 GOI 16DC61 6.95 FV RS 100",
@@ -1044,40 +1044,44 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 0.26,
+      "corpus_per": 0.25,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     }
   ],
   "asset_allocation": {
     "by_sector": [
       {
         "name": "Financial",
-        "percentage": 37.07
+        "percentage": 39.37
       },
       {
         "name": "Industrials",
-        "percentage": 18.12
-      },
-      {
-        "name": "Entities",
-        "percentage": 15.16
+        "percentage": 16.26
       },
       {
         "name": "Unspecified",
-        "percentage": 14.59
+        "percentage": 14.99
+      },
+      {
+        "name": "Entities",
+        "percentage": 10.65
       },
       {
         "name": "Materials",
-        "percentage": 4.31
+        "percentage": 6.56
       },
       {
         "name": "Consumer Staples",
-        "percentage": 3.91
+        "percentage": 3.94
       },
       {
         "name": "Energy & Utilities",
         "percentage": 3.79
+      },
+      {
+        "name": "Consumer Discretionary",
+        "percentage": 2.07
       },
       {
         "name": "Diversified",
@@ -1085,75 +1089,71 @@
       },
       {
         "name": "Real Estate",
-        "percentage": 0.97
-      },
-      {
-        "name": "Consumer Discretionary",
-        "percentage": 0.69
+        "percentage": 0.98
       }
     ],
     "by_nature": [
       {
         "name": "DEBT",
-        "percentage": 91.91
+        "percentage": 91.39
       },
       {
         "name": "REALEST",
-        "percentage": 4.34
+        "percentage": 4.45
       },
       {
         "name": "CASH",
-        "percentage": 3.75
+        "percentage": 4.16
       }
     ],
     "by_instrument": [
       {
         "name": "Non Convertible Debenture",
-        "percentage": 27.03
+        "percentage": 29.99
       },
       {
         "name": "Debenture",
-        "percentage": 22.74
-      },
-      {
-        "name": "GOI Securities",
-        "percentage": 15.16
+        "percentage": 21.51
       },
       {
         "name": "Bonds",
-        "percentage": 13.79
+        "percentage": 16.14
+      },
+      {
+        "name": "GOI Securities",
+        "percentage": 10.65
       },
       {
         "name": "Securitised Debt",
-        "percentage": 10.09
+        "percentage": 9.98
       },
       {
         "name": "Infrastructure Investment Trust",
-        "percentage": 3.37
+        "percentage": 3.47
       },
       {
         "name": "Net Current Assets",
-        "percentage": 1.96
-      },
-      {
-        "name": "Repo",
-        "percentage": 1.79
+        "percentage": 3.03
       },
       {
         "name": "Perpetual Bond",
-        "percentage": 1.38
+        "percentage": 1.39
       },
       {
         "name": "State Development Loan",
         "percentage": 1.38
       },
       {
+        "name": "Repo",
+        "percentage": 1.13
+      },
+      {
         "name": "Real Estate Investment Trusts",
-        "percentage": 0.97
+        "percentage": 0.98
       },
       {
         "name": "Alternative Investment Fund",
-        "percentage": 0.34
+        "percentage": 0.35
       }
     ],
     "by_market_cap": [
@@ -1166,19 +1166,19 @@
   "historical_returns": {
     "simple_return": {
       "scheme_code": "119081",
-      "return1d": -0.0318451054,
-      "return1w": 0.0464392056,
-      "return1m": 0.3589729537,
-      "return3m": 2.7702342461,
-      "return6m": 3.35041647,
-      "return9m": 4.7837033646,
-      "return1y": 7.054503882,
-      "return2y": 16.059724195482,
-      "return3y": 25.811235054438,
-      "return4y": 34.799313767388,
-      "return5y": 39.381650805866,
+      "return1d": 0.0504373509,
+      "return1w": 0.2011431484,
+      "return1m": 0.4287421435,
+      "return3m": 2.7640399446,
+      "return6m": 3.6626340395,
+      "return9m": 4.8749470114,
+      "return1y": 7.0870660558,
+      "return2y": 16.094301421481,
+      "return3y": 25.907867550072,
+      "return4y": 34.938562892599,
+      "return5y": 39.067477067986,
       "return7y": null,
-      "return10y": 107.977991746905,
+      "return10y": 107.954137624903,
       "return_default": null,
       "mean_return": null,
       "sharpe_ratio": null,
@@ -1186,7 +1186,7 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 190.683328,
+      "return_since_created": 191.268018,
       "cat_return3m": null,
       "cat_return6m": null,
       "cat_return1y": 7.952688014255482,
@@ -1541,7 +1541,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.809Z",
+    "launch_date": "1999-12-09T18:30:00.532Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",

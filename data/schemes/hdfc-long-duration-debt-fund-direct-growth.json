@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Long Term Fund Direct Growth",
   "fund_name": "HDFC Long Term Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-long-duration-debt-fund-direct-growth",
-  "scraped_at": "2026-09-06T08:02:33.728179+00:00",
+  "scraped_at": "2026-09-07T08:33:04.428275+00:00",
   "category": "Debt",
   "sub_category": "Long Duration",
   "super_category": "HDFC Long Term Fund",
@@ -365,7 +365,7 @@
       "rating": null,
       "corpus_per": 30.01,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "GOVERNMENT OF INDIA 34733 GOI 05AG54 7.09 FV RS 100",
@@ -373,9 +373,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 20.12,
+      "corpus_per": 19.8,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "GOI Sec 7.36 12/09/2052",
@@ -385,27 +385,7 @@
       "rating": null,
       "corpus_per": 18.03,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100",
-      "sector_name": "Entities",
-      "nature_name": "DEBT",
-      "instrument_name": "GOI Securities",
-      "rating": null,
-      "corpus_per": 11.02,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "CENTRAL GOVERNMENT LOAN 30951 GOI 15DC51 6.99 FV RS 100",
-      "sector_name": "Entities",
-      "nature_name": "DEBT",
-      "instrument_name": "GOI Securities",
-      "rating": null,
-      "corpus_per": 6.12,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "GOVERNMENT OF INDIA 35840 GOI 15AP65 6.9 FV RS 100",
@@ -413,9 +393,29 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 4.67,
+      "corpus_per": 8.17,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 7.73,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "CENTRAL GOVERNMENT LOAN 30951 GOI 15DC51 6.99 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 6.28,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "6.62% Govt. of India (MD 28/11/2051)",
@@ -423,29 +423,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 2.59,
+      "corpus_per": 2.66,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "GOVERNMENT OF INDIA 36320 GOI 18AG55 7.24 FV RS 100",
-      "sector_name": "Entities",
-      "nature_name": "DEBT",
-      "instrument_name": "GOI Securities",
-      "rating": null,
-      "corpus_per": 1.75,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "CENTRAL GOVERNMENT LOAN 23011 GOI 20SP50 7.16 FV RS 100",
-      "sector_name": "Entities",
-      "nature_name": "DEBT",
-      "instrument_name": "GOI Securities",
-      "rating": null,
-      "corpus_per": 1.74,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Net Current Assets",
@@ -453,9 +433,29 @@
       "nature_name": "CASH",
       "instrument_name": "Net Current Assets",
       "rating": null,
-      "corpus_per": 1.68,
+      "corpus_per": 1.96,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 36320 GOI 18AG55 7.24 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 1.79,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "CENTRAL GOVERNMENT LOAN 23011 GOI 20SP50 7.16 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 1.78,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "CENTRAL GOVERNMENT LOAN 29633 GOI 17DC50 6.67 FV RS 100",
@@ -463,9 +463,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 1.16,
+      "corpus_per": 1.18,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Others Class A2 AIF",
@@ -473,9 +473,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Alternative Investment Fund",
       "rating": null,
-      "corpus_per": 0.58,
+      "corpus_per": 0.6,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Repo",
@@ -483,48 +483,48 @@
       "nature_name": "CASH",
       "instrument_name": "Repo",
       "rating": null,
-      "corpus_per": 0.53,
+      "corpus_per": 0.01,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     }
   ],
   "asset_allocation": {
     "by_sector": [
       {
         "name": "Entities",
-        "percentage": 97.21
+        "percentage": 97.43
       },
       {
         "name": "Unspecified",
-        "percentage": 2.79
+        "percentage": 2.57
       }
     ],
     "by_nature": [
       {
         "name": "DEBT",
-        "percentage": 97.79
+        "percentage": 98.03
       },
       {
         "name": "CASH",
-        "percentage": 2.21
+        "percentage": 1.97
       }
     ],
     "by_instrument": [
       {
         "name": "GOI Securities",
-        "percentage": 97.21
+        "percentage": 97.43
       },
       {
         "name": "Net Current Assets",
-        "percentage": 1.68
+        "percentage": 1.96
       },
       {
         "name": "Alternative Investment Fund",
-        "percentage": 0.58
+        "percentage": 0.6
       },
       {
         "name": "Repo",
-        "percentage": 0.53
+        "percentage": 0.01
       }
     ],
     "by_market_cap": [
@@ -537,15 +537,15 @@
   "historical_returns": {
     "simple_return": {
       "scheme_code": "151313",
-      "return1d": -0.3281209133,
-      "return1w": -0.5370220978,
-      "return1m": -0.4504147932,
-      "return3m": 2.827450307,
-      "return6m": 1.5028612476,
-      "return9m": 2.7098765936,
-      "return1y": 4.1499652168,
-      "return2y": 7.500106851305,
-      "return3y": 19.690682402208,
+      "return1d": 0.0607742317,
+      "return1w": -0.5009581819,
+      "return1m": -0.7188479391,
+      "return3m": 2.3885115784,
+      "return6m": 1.3247714445,
+      "return9m": 2.4832714973,
+      "return1y": 2.8928304183,
+      "return2y": 6.643428162339,
+      "return3y": 18.971058036053,
       "return4y": null,
       "return5y": null,
       "return7y": null,
@@ -557,7 +557,7 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 25.759,
+      "return_since_created": 25.129,
       "cat_return3m": null,
       "cat_return6m": null,
       "cat_return1y": 3.7299866883645727,
@@ -908,7 +908,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.265Z",
+    "launch_date": "1999-12-09T18:30:00.014Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
