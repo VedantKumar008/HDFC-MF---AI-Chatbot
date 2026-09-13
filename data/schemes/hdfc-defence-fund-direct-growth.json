@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Defence Fund Direct Growth",
   "fund_name": "HDFC Defence Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth",
-  "scraped_at": "2026-09-12T08:04:06.611181+00:00",
+  "scraped_at": "2026-09-13T08:28:47.888764+00:00",
   "category": "Equity",
   "sub_category": "Thematic",
   "super_category": "HDFC Defence Fund",
@@ -296,24 +296,24 @@
   ],
   "holdings": [
     {
-      "company_name": "Bharat Forge Ltd",
-      "sector_name": "Consumer Discretionary",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 14.82,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
       "company_name": "Bharat Electronics Ltd",
       "sector_name": "Industrials",
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 14.67,
+      "corpus_per": 15.17,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bharat Forge Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 13.4,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Hindustan Aeronautics Ltd",
@@ -321,9 +321,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 12.37,
+      "corpus_per": 12.57,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Solar Industries India Ltd",
@@ -331,9 +331,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 10.95,
+      "corpus_per": 10.77,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Astra Microwave Products Ltd",
@@ -341,9 +341,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 7.16,
+      "corpus_per": 6.55,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "BEML Ltd",
@@ -351,19 +351,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 4.74,
+      "corpus_per": 4.89,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "Eicher Motors Ltd",
-      "sector_name": "Consumer Discretionary",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 4.03,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "MTAR Technologies Ltd",
@@ -371,39 +361,19 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 4.01,
+      "corpus_per": 4.6,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
-      "company_name": "Bharat Dynamics Ltd",
-      "sector_name": "Industrials",
+      "company_name": "Eicher Motors Ltd",
+      "sector_name": "Consumer Discretionary",
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 3.8,
+      "corpus_per": 4.16,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "Mazagon Dock Shipbuilders Ltd",
-      "sector_name": "Industrials",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 3.34,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "Cyient DLM Ltd.",
-      "sector_name": "Industrials",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 3.23,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Bosch Ltd",
@@ -411,9 +381,39 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 3.06,
+      "corpus_per": 4.01,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Mazagon Dock Shipbuilders Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 3.62,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bharat Dynamics Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 3.61,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Cyient DLM Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.94,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Premier Explosives Ltd",
@@ -421,9 +421,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 2.89,
+      "corpus_per": 2.69,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Centum Electronics Ltd",
@@ -431,9 +431,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 2.34,
+      "corpus_per": 2.12,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Data Patterns (India) Ltd",
@@ -441,9 +441,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 2.12,
+      "corpus_per": 2.09,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Repo",
@@ -451,29 +451,9 @@
       "nature_name": "CASH",
       "instrument_name": "Repo",
       "rating": null,
-      "corpus_per": 1.87,
+      "corpus_per": 1.93,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "SEDEMAC Mechatronics Ltd.",
-      "sector_name": "Industrials",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.0,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "ideaForge Technology Ltd.",
-      "sector_name": "Industrials",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 0.99,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Tata Motors Ltd",
@@ -481,9 +461,29 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.86,
+      "corpus_per": 1.15,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "SEDEMAC Mechatronics Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.07,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "ideaForge Technology Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.84,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Power Mech Projects Ltd",
@@ -491,9 +491,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.72,
+      "corpus_per": 0.66,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Cochin Shipyard Ltd",
@@ -501,9 +501,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.4,
+      "corpus_per": 0.39,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "INDO-MIM Ltd.",
@@ -511,19 +511,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.24,
+      "corpus_per": 0.25,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "JNK India Ltd.",
-      "sector_name": "Industrials",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 0.23,
-      "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Diffusion Engineers Ltd.",
@@ -531,9 +521,19 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 0.2,
+      "corpus_per": 0.24,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "JNK India Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 0.21,
+      "market_cap": null,
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Aequs Ltd.",
@@ -543,7 +543,7 @@
       "rating": null,
       "corpus_per": 0.11,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     },
     {
       "company_name": "Net Payables",
@@ -551,56 +551,56 @@
       "nature_name": "CASH",
       "instrument_name": "Net Payables",
       "rating": null,
-      "corpus_per": -0.15,
+      "corpus_per": -0.04,
       "market_cap": null,
-      "portfolio_date": "2026-07-30T18:30:00.000Z"
+      "portfolio_date": "2026-08-30T18:30:00.000Z"
     }
   ],
   "asset_allocation": {
     "by_sector": [
       {
         "name": "Industrials",
-        "percentage": 55.26
+        "percentage": 56.42
       },
       {
         "name": "Consumer Discretionary",
-        "percentage": 21.91
+        "percentage": 21.57
       },
       {
         "name": "Materials",
-        "percentage": 13.84
+        "percentage": 13.46
       },
       {
         "name": "Technology",
-        "percentage": 7.27
+        "percentage": 6.66
       },
       {
         "name": "Unspecified",
-        "percentage": 1.72
+        "percentage": 1.89
       }
     ],
     "by_nature": [
       {
         "name": "EQUITY",
-        "percentage": 98.28
+        "percentage": 98.11
       },
       {
         "name": "CASH",
-        "percentage": 1.72
+        "percentage": 1.89
       }
     ],
     "by_instrument": [
       {
         "name": "Equity",
-        "percentage": 98.28
+        "percentage": 98.11
       },
       {
         "name": "Repo",
-        "percentage": 1.87
+        "percentage": 1.93
       },
       {
         "name": "Net Payables",
-        "percentage": -0.15
+        "percentage": -0.04
       }
     ],
     "by_market_cap": [
@@ -987,7 +987,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 986236.84494707,
-    "launch_date": "1999-12-09T18:30:00.498Z",
+    "launch_date": "1999-12-09T18:30:00.705Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
