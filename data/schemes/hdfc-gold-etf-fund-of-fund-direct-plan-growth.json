@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
   "fund_name": "HDFC Gold ETF Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-  "scraped_at": "2026-09-16T08:46:12.024347+00:00",
+  "scraped_at": "2026-09-17T08:49:56.019874+00:00",
   "category": "Commodities",
   "sub_category": "Gold",
   "super_category": "HDFC Gold ETF Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.",
   "fund_objective": "The Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.",
-  "nav": 46.6656,
-  "nav_date": "15-Sep-2026",
+  "nav": 47.1141,
+  "nav_date": "16-Sep-2026",
   "aum": 12359.1573,
   "expense_ratio": 0.2,
   "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -561,19 +561,19 @@
     "return_stats": [
       {
         "scheme_code": "119132",
-        "return1d": -1.15,
-        "return1w": -1.77,
-        "return1m": -1.14,
-        "return3m": -0.28,
-        "return6m": -5.24,
+        "return1d": 0.96,
+        "return1w": -0.73,
+        "return1m": -0.19,
+        "return3m": 0.6,
+        "return6m": -1.86,
         "return9m": null,
-        "return1y": 35.95,
+        "return1y": 35.34,
         "return2y": null,
-        "return3y": 35,
+        "return3y": 35.4,
         "return4y": null,
-        "return5y": 24.75,
+        "return5y": 25.2,
         "return7y": null,
-        "return10y": 15.94,
+        "return10y": 16.1,
         "return_default": 10.83,
         "mean_return": 11.06,
         "sharpe_ratio": 1.4573520359,
@@ -581,7 +581,7 @@
         "standard_deviation": 18.63802611007819,
         "risk_rating": 5,
         "risk": "High",
-        "return_since_created": 11.0710962725,
+        "return_since_created": 11.1462542145,
         "cat_return3m": 18.68149538354634,
         "cat_return6m": 41.98583723138889,
         "cat_return1y": 76.00068826008322,
@@ -589,12 +589,12 @@
         "cat_return5y": 20.95384843351483,
         "cat_return10y": 17.040816927548995,
         "cat_return_since_launch": null,
-        "rank3m": 7,
-        "rank6m": 14,
-        "rank1yr": 12,
-        "rank3yr": 6,
-        "rank5yr": 6,
-        "rank10yr": 3,
+        "rank3m": 13,
+        "rank6m": 17,
+        "rank1yr": 9,
+        "rank3yr": 7,
+        "rank5yr": 5,
+        "rank10yr": 2,
         "rank_count3m": null,
         "rank_count6m": null,
         "rank_count1yr": null,
@@ -621,9 +621,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 35.95,
-        "stat_3y": 35,
-        "stat_5y": 24.75,
+        "stat_1y": 35.34,
+        "stat_3y": 35.4,
+        "stat_5y": 25.2,
         "stat_all": 10.83,
         "title": "Fund Returns"
       },
@@ -637,15 +637,71 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 12,
-        "stat_3y": 6,
-        "stat_5y": 6,
+        "stat_1y": 9,
+        "stat_3y": 7,
+        "stat_5y": 5,
         "stat_all": null,
         "title": "Rank Within Category"
       }
     ],
     "portfolio_turnover": 1.0,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-15T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-14T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-13T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-12T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-11T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-10T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-09T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-08T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.2,
         "base_expense_ratio": 0.17,
@@ -671,62 +727,6 @@
         "expense_ratio": 0.2,
         "base_expense_ratio": 0.17,
         "as_on_date": "2026-09-04T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-09-03T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-09-02T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-09-01T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-08-31T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-08-30T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-08-29T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-08-28T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-08-27T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
       }
@@ -795,7 +795,7 @@
     "fund_management_section": "AA Arun Agarwal Feb 2023 - Present View details Education Mr. Agarwal is a B.Com. and Chartered Accountant Experience Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC NIFTY 50 ETF IDCW HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC BSE Sensex ETF HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth NM Nandita Menezes Mar 2025 - Present View details Education CA (ICAI, INDIA), B.Com (University of Mumbai) Experience Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Gold Silver Passive FoF Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
-    "meta_description": "HDFC Gold ETF Fund of Fund Direct Plan Growth is Gold Commodities mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 35.0. Risk is High",
+    "meta_description": "HDFC Gold ETF Fund of Fund Direct Plan Growth is Gold Commodities mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 35.4. Risk is High",
     "category_helper_text": null,
     "blocked_reason": null,
     "brochure_link": null,
@@ -839,7 +839,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 986236.84494707,
-    "launch_date": "1999-12-09T18:30:00.060Z",
+    "launch_date": "1999-12-09T18:30:00.244Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -900,6 +900,62 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-15T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-14T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-13T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-12T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-11T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-10T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-09T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.2,
+        "base_expense_ratio": 0.17,
+        "as_on_date": "2026-09-08T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.2,
         "base_expense_ratio": 0.17,
@@ -1009,62 +1065,6 @@
         "expense_ratio": 0.2,
         "base_expense_ratio": 0.17,
         "as_on_date": "2026-08-23T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-08-22T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-08-21T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-08-20T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-08-19T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-08-18T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-08-17T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-08-16T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.2,
-        "base_expense_ratio": 0.17,
-        "as_on_date": "2026-08-15T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
       }
