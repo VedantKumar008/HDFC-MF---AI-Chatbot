@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Banking and PSU Debt Fund Direct Growth",
   "fund_name": "HDFC Banking and PSU Debt Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-banking-and-psu-debt-fund-direct-growth",
-  "scraped_at": "2026-09-17T08:50:02.152810+00:00",
+  "scraped_at": "2026-09-18T08:25:46.786564+00:00",
   "category": "Debt",
   "sub_category": "Banking and PSU",
   "super_category": "HDFC Banking and PSU Debt Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to generate income / capital appreciation through investments in debt and money market instruments consisting predominantly of securities issued by entities such as Scheduled Commercial Banks (SCBs), Public Sector undertakings (PSUs), Public Financial Institutions (PFIs), Municipal Corporations and such other bodies.",
   "fund_objective": "The scheme seeks to generate income / capital appreciation through investments in debt and money market instruments consisting predominantly of securities issued by entities such as Scheduled Commercial Banks (SCBs), Public Sector undertakings (PSUs), Public Financial Institutions (PFIs), Municipal Corporations and such other bodies.",
-  "nav": 25.4698,
-  "nav_date": "16-Sep-2026",
+  "nav": 25.4751,
+  "nav_date": "17-Sep-2026",
   "aum": 5186.0785,
   "expense_ratio": 0.35,
   "exit_load": "Nil",
@@ -1508,16 +1508,16 @@
       "return1d": null,
       "return1w": null,
       "return1m": null,
-      "return3m": 0.5156241614009791,
-      "return6m": 5.513552715460257,
-      "return9m": 5.134708313797054,
-      "return1y": 4.88033953110447,
-      "return2y": 5.630507015558055,
-      "return3y": 6.4292324146308975,
-      "return4y": 6.753980900380424,
-      "return5y": 6.711395639804374,
+      "return3m": 0.6693046810837296,
+      "return6m": 5.539039651445919,
+      "return9m": 5.154395844827968,
+      "return1y": 4.896437971879541,
+      "return2y": 5.6365175934699305,
+      "return3y": 6.431800043865363,
+      "return4y": 6.755462948292496,
+      "return5y": 6.712613256613678,
       "return7y": null,
-      "return10y": 6.906228636612363,
+      "return10y": 6.906711546640959,
       "return_default": null,
       "mean_return": null,
       "sharpe_ratio": null,
@@ -1564,17 +1564,17 @@
     "return_stats": [
       {
         "scheme_code": "128629",
-        "return1d": 0.06,
-        "return1w": -0.29,
-        "return1m": -0.39,
-        "return3m": 0.96,
-        "return6m": 2.64,
+        "return1d": 0.02,
+        "return1w": -0.24,
+        "return1m": -0.32,
+        "return3m": 0.97,
+        "return6m": 2.67,
         "return9m": null,
-        "return1y": 5.17,
+        "return1y": 5.11,
         "return2y": null,
         "return3y": 7.07,
         "return4y": null,
-        "return5y": 6.22,
+        "return5y": 6.21,
         "return7y": null,
         "return10y": 7.22,
         "return_default": 8.96,
@@ -1584,7 +1584,7 @@
         "standard_deviation": 1.7062838984158506,
         "risk_rating": 3,
         "risk": "Moderate",
-        "return_since_created": 7.7757978273,
+        "return_since_created": 7.7758229353,
         "cat_return3m": 1.333369641247619,
         "cat_return6m": 2.473155953457143,
         "cat_return1y": 7.372198229975028,
@@ -1593,10 +1593,10 @@
         "cat_return10y": 7.131918189784485,
         "cat_return_since_launch": null,
         "rank3m": 20,
-        "rank6m": 16,
+        "rank6m": 15,
         "rank1yr": 12,
         "rank3yr": 11,
-        "rank5yr": 7,
+        "rank5yr": 8,
         "rank10yr": 7,
         "rank_count3m": null,
         "rank_count6m": null,
@@ -1624,9 +1624,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 5.17,
+        "stat_1y": 5.11,
         "stat_3y": 7.07,
-        "stat_5y": 6.22,
+        "stat_5y": 6.21,
         "stat_all": 8.96,
         "title": "Fund Returns"
       },
@@ -1642,13 +1642,20 @@
         "type": "RANK_WITHIN_CATEGORY",
         "stat_1y": 12,
         "stat_3y": 11,
-        "stat_5y": 7,
+        "stat_5y": 8,
         "stat_all": null,
         "title": "Rank Within Category"
       }
     ],
     "portfolio_turnover": null,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.35,
+        "base_expense_ratio": 0.3,
+        "as_on_date": "2026-09-16T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.35,
         "base_expense_ratio": 0.3,
@@ -1723,13 +1730,6 @@
         "expense_ratio": 0.35,
         "base_expense_ratio": 0.3,
         "as_on_date": "2026-09-05T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.35,
-        "base_expense_ratio": 0.3,
-        "as_on_date": "2026-09-04T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
       }
@@ -1822,7 +1822,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 986236.84494707,
-    "launch_date": "1999-12-09T18:30:00.244Z",
+    "launch_date": "1999-12-09T18:30:00.587Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1899,6 +1899,13 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.35,
+        "base_expense_ratio": 0.3,
+        "as_on_date": "2026-09-16T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.35,
         "base_expense_ratio": 0.3,
@@ -2057,13 +2064,6 @@
         "expense_ratio": 0.35,
         "base_expense_ratio": 0.3,
         "as_on_date": "2026-08-24T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.35,
-        "base_expense_ratio": 0.3,
-        "as_on_date": "2026-08-23T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
       }
