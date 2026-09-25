@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Mid Cap Fund Direct Growth",
   "fund_name": "HDFC Mid Cap Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-  "scraped_at": "2026-09-24T08:39:02.564998+00:00",
+  "scraped_at": "2026-09-25T09:00:15.365289+00:00",
   "category": "Equity",
   "sub_category": "Mid Cap",
   "super_category": "HDFC Mid Cap Fund",
@@ -11,10 +11,10 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.",
   "fund_objective": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.",
-  "nav": 231.07,
-  "nav_date": "23-Sep-2026",
+  "nav": 226.836,
+  "nav_date": "24-Sep-2026",
   "aum": 108324.5467,
-  "expense_ratio": 0.76,
+  "expense_ratio": 0.75,
   "exit_load": "Exit load of 1% if redeemed within 1 year.",
   "risk_level": "Moderately High",
   "fund_manager": "Chirag Setalvad",
@@ -1282,19 +1282,19 @@
     "return_stats": [
       {
         "scheme_code": "118989",
-        "return1d": 0.5,
-        "return1w": 1.48,
-        "return1m": -2.33,
-        "return3m": 1.96,
-        "return6m": 16.34,
+        "return1d": -1.83,
+        "return1w": -1.17,
+        "return1m": -4.34,
+        "return3m": -0.47,
+        "return6m": 11.81,
         "return9m": null,
-        "return1y": 7.02,
+        "return1y": 5.74,
         "return2y": null,
-        "return3y": 17.58,
+        "return3y": 16.85,
         "return4y": null,
-        "return5y": 18.64,
+        "return5y": 18.37,
         "return7y": null,
-        "return10y": 17.28,
+        "return10y": 17.06,
         "return_default": 19.3,
         "mean_return": 5.62,
         "sharpe_ratio": 0.8548047726,
@@ -1302,7 +1302,7 @@
         "standard_deviation": 15.336868057150255,
         "risk_rating": 6,
         "risk": "Very High",
-        "return_since_created": 20.0425388931,
+        "return_since_created": 19.8766728971,
         "cat_return3m": 3.790142971673846,
         "cat_return6m": -0.01429769982222222,
         "cat_return1y": 1.9589569430918827,
@@ -1310,9 +1310,9 @@
         "cat_return5y": 21.52750809939988,
         "cat_return10y": 15.99766834466025,
         "cat_return_since_launch": null,
-        "rank3m": 24,
-        "rank6m": 49,
-        "rank1yr": 20,
+        "rank3m": 23,
+        "rank6m": 50,
+        "rank1yr": 21,
         "rank3yr": 16,
         "rank5yr": 4,
         "rank10yr": 8,
@@ -1342,9 +1342,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 7.02,
-        "stat_3y": 17.58,
-        "stat_5y": 18.64,
+        "stat_1y": 5.74,
+        "stat_3y": 16.85,
+        "stat_5y": 18.37,
         "stat_all": 19.3,
         "title": "Fund Returns"
       },
@@ -1358,7 +1358,7 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 20,
+        "stat_1y": 21,
         "stat_3y": 16,
         "stat_5y": 4,
         "stat_all": null,
@@ -1367,6 +1367,48 @@
     ],
     "portfolio_turnover": 13.0,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.75,
+        "base_expense_ratio": 0.61,
+        "as_on_date": "2026-09-22T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.75,
+        "base_expense_ratio": 0.61,
+        "as_on_date": "2026-09-21T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.75,
+        "base_expense_ratio": 0.61,
+        "as_on_date": "2026-09-20T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.75,
+        "base_expense_ratio": 0.61,
+        "as_on_date": "2026-09-19T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.75,
+        "base_expense_ratio": 0.61,
+        "as_on_date": "2026-09-18T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.75,
+        "base_expense_ratio": 0.61,
+        "as_on_date": "2026-09-17T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.76,
         "base_expense_ratio": 0.61,
@@ -1408,48 +1450,6 @@
         "as_on_date": "2026-09-11T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.75,
-        "base_expense_ratio": 0.61,
-        "as_on_date": "2026-09-10T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.75,
-        "base_expense_ratio": 0.61,
-        "as_on_date": "2026-09-09T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.75,
-        "base_expense_ratio": 0.61,
-        "as_on_date": "2026-09-08T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.75,
-        "base_expense_ratio": 0.61,
-        "as_on_date": "2026-09-07T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.75,
-        "base_expense_ratio": 0.61,
-        "as_on_date": "2026-09-06T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.75,
-        "base_expense_ratio": 0.61,
-        "as_on_date": "2026-09-05T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
       }
     ]
   },
@@ -1481,7 +1481,7 @@
     },
     {
       "question": "expense_analysis",
-      "answer": "Lower expense ratio: 0.76%"
+      "answer": "Lower expense ratio: 0.75%"
     },
     {
       "question": "alpha_analysis",
@@ -1503,7 +1503,7 @@
     "fund_management_section": "CS Chirag Setalvad Jan 2013 - Present View details Education Mr. Setalvad is a B. Sc and MBA from University of North Carolina. Experience Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V. Also manages these schemes HDFC Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC Children's Fund Direct Plan DM Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
-    "meta_description": "HDFC Mid Cap Fund Direct Growth is Mid Cap Equity mutual fund with risk-reward rating of 5/10. It has track record of 13 years, with three year return of 17.58. Risk is Very High",
+    "meta_description": "HDFC Mid Cap Fund Direct Growth is Mid Cap Equity mutual fund with risk-reward rating of 5/10. It has track record of 13 years, with three year return of 16.85. Risk is Very High",
     "category_helper_text": "Invests in stocks as per Contrarian investment strategy",
     "blocked_reason": null,
     "brochure_link": null,
@@ -1533,7 +1533,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 986236.84494707,
-    "launch_date": "1999-12-09T18:30:00.489Z",
+    "launch_date": "1999-12-09T18:30:00.197Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1579,8 +1579,8 @@
         "scheme_code": "118989",
         "analysis_type": "PROS",
         "analysis_subject": "expense_analysis",
-        "analysis_desc": "Lower expense ratio: 0.76%",
-        "analysis_data": "0.76",
+        "analysis_desc": "Lower expense ratio: 0.75%",
+        "analysis_data": "0.75",
         "rating": null
       },
       {
@@ -1610,6 +1610,48 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.75,
+        "base_expense_ratio": 0.61,
+        "as_on_date": "2026-09-22T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.75,
+        "base_expense_ratio": 0.61,
+        "as_on_date": "2026-09-21T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.75,
+        "base_expense_ratio": 0.61,
+        "as_on_date": "2026-09-20T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.75,
+        "base_expense_ratio": 0.61,
+        "as_on_date": "2026-09-19T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.75,
+        "base_expense_ratio": 0.61,
+        "as_on_date": "2026-09-18T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.75,
+        "base_expense_ratio": 0.61,
+        "as_on_date": "2026-09-17T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.76,
         "base_expense_ratio": 0.61,
@@ -1735,48 +1777,6 @@
         "as_on_date": "2026-08-30T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.74,
-        "base_expense_ratio": 0.6,
-        "as_on_date": "2026-08-29T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.74,
-        "base_expense_ratio": 0.6,
-        "as_on_date": "2026-08-28T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.74,
-        "base_expense_ratio": 0.6,
-        "as_on_date": "2026-08-27T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.74,
-        "base_expense_ratio": 0.6,
-        "as_on_date": "2026-08-26T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.74,
-        "base_expense_ratio": 0.6,
-        "as_on_date": "2026-08-25T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.74,
-        "base_expense_ratio": 0.6,
-        "as_on_date": "2026-08-24T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
       }
     ],
     "fund_news": null,
@@ -1790,8 +1790,8 @@
         "sub_sub_category": "",
         "aum": 15905.311,
         "mean_return": 9.4,
-        "return3y": 24.8,
-        "return1y": 10.87,
+        "return3y": 24,
+        "return1y": 9.56,
         "min_investment": 100,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -1830,8 +1830,8 @@
         "sub_sub_category": "",
         "aum": 7485.3680556,
         "mean_return": null,
-        "return3y": 22.54,
-        "return1y": 14.86,
+        "return3y": 21.55,
+        "return1y": 12.76,
         "min_investment": 500,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -1870,8 +1870,8 @@
         "sub_sub_category": "",
         "aum": 19890.9984,
         "mean_return": 8.89,
-        "return3y": 21.7,
-        "return1y": 7.85,
+        "return3y": 20.91,
+        "return1y": 6.67,
         "min_investment": 100,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -1910,8 +1910,8 @@
         "sub_sub_category": "",
         "aum": 52270.5519,
         "mean_return": 15.99,
-        "return3y": 18.75,
-        "return1y": 7.68,
+        "return3y": 18.2,
+        "return1y": 6.99,
         "min_investment": 100,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -1950,8 +1950,8 @@
         "sub_sub_category": "",
         "aum": 108324.5467,
         "mean_return": 5.62,
-        "return3y": 17.58,
-        "return1y": 7.02,
+        "return3y": 16.85,
+        "return1y": 5.74,
         "min_investment": 100,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -1972,7 +1972,7 @@
         "scheme_type": "Growth",
         "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/hdfc_groww.png",
         "groww_scheme_code": "INF179K01XQ0",
-        "expense_ratio": "0.76",
+        "expense_ratio": "0.75",
         "base_expense_ratio": "0.61",
         "swp_frequencies": null,
         "tag": null,
