@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Large & Mid Cap Fund Direct Growth",
   "fund_name": "HDFC Large & Mid Cap Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth",
-  "scraped_at": "2026-09-25T09:00:14.512311+00:00",
+  "scraped_at": "2026-09-26T08:46:28.599057+00:00",
   "category": "Equity",
   "sub_category": "Large & MidCap",
   "super_category": "HDFC Large & Mid Cap Fund",
@@ -11,10 +11,10 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to generate long term capital appreciation/income from a portfolio, predominantly invested in equity and equity related instruments.",
   "fund_objective": "The scheme seeks to generate long term capital appreciation/income from a portfolio, predominantly invested in equity and equity related instruments.",
-  "nav": 359.037,
-  "nav_date": "24-Sep-2026",
+  "nav": 359.518,
+  "nav_date": "25-Sep-2026",
   "aum": 30294.0183,
-  "expense_ratio": 0.91,
+  "expense_ratio": 0.92,
   "exit_load": "Exit load of 1% if redeemed within 1 year",
   "risk_level": "Moderately High Riskometer",
   "fund_manager": "Vinay Kulkarni",
@@ -2815,19 +2815,19 @@
   "historical_returns": {
     "simple_return": {
       "scheme_code": "130498",
-      "return1d": -1.77,
-      "return1w": -0.54,
-      "return1m": -3.77,
-      "return3m": -1.19,
-      "return6m": 10.63,
-      "return9m": -2.4,
-      "return1y": -0.39,
-      "return2y": -3.24,
-      "return3y": 42.77,
-      "return4y": 80.03,
-      "return5y": 92.21,
-      "return7y": 218.34,
-      "return10y": 282.97,
+      "return1d": 0.13,
+      "return1w": -1.22,
+      "return1m": -4.03,
+      "return3m": -0.91,
+      "return6m": 8.45,
+      "return9m": -2.27,
+      "return1y": 0.43,
+      "return2y": -2.91,
+      "return3y": 42.75,
+      "return4y": 80.27,
+      "return5y": 92.46,
+      "return7y": 223.88,
+      "return10y": 283.48,
       "return_default": null,
       "mean_return": null,
       "sharpe_ratio": null,
@@ -2835,14 +2835,14 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 436.46,
-      "cat_return3m": -0.5,
-      "cat_return6m": 11.61,
-      "cat_return1y": 2.06,
-      "cat_return3y": 47.06,
-      "cat_return5y": 78.1,
-      "cat_return10y": 275.63,
-      "cat_return_since_launch": 257.93,
+      "return_since_created": 437.18,
+      "cat_return3m": -0.34,
+      "cat_return6m": 9.43,
+      "cat_return1y": 2.87,
+      "cat_return3y": 47.56,
+      "cat_return5y": 79.24,
+      "cat_return10y": 277.95,
+      "cat_return_since_launch": 258.08,
       "rank3m": null,
       "rank6m": null,
       "rank1yr": null,
@@ -2932,12 +2932,12 @@
     "return_stats": [
       {
         "scheme_code": "130498",
-        "return1d": -1.77,
-        "return1w": -0.54,
-        "return1m": -3.77,
-        "return3m": -1.19,
-        "return6m": 10.63,
-        "return9m": -2.4,
+        "return1d": 0.13,
+        "return1w": -1.22,
+        "return1m": -4.03,
+        "return3m": -0.91,
+        "return6m": 8.45,
+        "return9m": -2.27,
         "return1y": -0.39,
         "return2y": -1.63,
         "return3y": 12.56,
@@ -2953,17 +2953,17 @@
         "risk_rating": null,
         "risk": "Very High",
         "return_since_created": 13.01,
-        "cat_return3m": 0.68,
-        "cat_return6m": 7.62,
-        "cat_return1y": 0.8,
-        "cat_return3y": 12.54,
-        "cat_return5y": 12.12,
-        "cat_return10y": 14.45,
-        "cat_return_since_launch": 15.79,
-        "rank3m": 22,
-        "rank6m": 17,
-        "rank1yr": 30,
-        "rank3yr": 17,
+        "cat_return3m": -0.58,
+        "cat_return6m": 10.3,
+        "cat_return1y": 1,
+        "cat_return3y": 12.67,
+        "cat_return5y": 11.66,
+        "cat_return10y": 14.16,
+        "cat_return_since_launch": 15.65,
+        "rank3m": 23,
+        "rank6m": 18,
+        "rank1yr": 32,
+        "rank3yr": 18,
         "rank5yr": 7,
         "rank10yr": 9,
         "rank_count3m": 41,
@@ -2992,9 +2992,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": -0.39,
-        "stat_3y": 12.56,
-        "stat_5y": 13.95,
+        "stat_1y": 0.43,
+        "stat_3y": 12.59,
+        "stat_5y": 13.97,
         "stat_all": 9.78,
         "title": "Fund Returns"
       },
@@ -3008,8 +3008,8 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 28,
-        "stat_3y": 18,
+        "stat_1y": 30,
+        "stat_3y": 17,
         "stat_5y": 7,
         "stat_all": null,
         "title": "Rank Within Category"
@@ -3017,6 +3017,20 @@
     ],
     "portfolio_turnover": 7.0,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.92,
+        "base_expense_ratio": 0.77,
+        "as_on_date": "2026-09-24T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.91,
+        "base_expense_ratio": 0.76,
+        "as_on_date": "2026-09-23T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.91,
         "base_expense_ratio": 0.76,
@@ -3086,20 +3100,6 @@
         "as_on_date": "2026-09-13T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.9,
-        "base_expense_ratio": 0.75,
-        "as_on_date": "2026-09-12T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.9,
-        "base_expense_ratio": 0.75,
-        "as_on_date": "2026-09-11T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
       }
     ]
   },
@@ -3134,7 +3134,7 @@
     },
     {
       "question": "expense_analysis",
-      "answer": "Lower expense ratio: 0.91%"
+      "answer": "Lower expense ratio: 0.92%"
     },
     {
       "question": "alpha_analysis",
@@ -3142,7 +3142,7 @@
     },
     {
       "question": "base_expense_analysis",
-      "answer": "Lower Base expense ratio: 0.76%"
+      "answer": "Lower Base expense ratio: 0.77%"
     },
     {
       "question": "Understand terms",
@@ -3186,7 +3186,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 986236.84494707,
-    "launch_date": "1999-12-09T18:30:00.083Z",
+    "launch_date": "1999-12-09T18:30:00.919Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -3224,8 +3224,8 @@
         "scheme_code": "130498",
         "analysis_type": "PROS",
         "analysis_subject": "expense_analysis",
-        "analysis_desc": "Lower expense ratio: 0.91%",
-        "analysis_data": "0.91",
+        "analysis_desc": "Lower expense ratio: 0.92%",
+        "analysis_data": "0.92",
         "rating": null
       },
       {
@@ -3240,8 +3240,8 @@
         "scheme_code": "130498",
         "analysis_type": "PROS",
         "analysis_subject": "base_expense_analysis",
-        "analysis_desc": "Lower Base expense ratio: 0.76%",
-        "analysis_data": "0.76",
+        "analysis_desc": "Lower Base expense ratio: 0.77%",
+        "analysis_data": "0.77",
         "rating": null
       }
     ],
@@ -3255,6 +3255,20 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.92,
+        "base_expense_ratio": 0.77,
+        "as_on_date": "2026-09-24T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.91,
+        "base_expense_ratio": 0.76,
+        "as_on_date": "2026-09-23T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.91,
         "base_expense_ratio": 0.76,
@@ -3408,20 +3422,6 @@
         "as_on_date": "2026-09-01T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.9,
-        "base_expense_ratio": 0.75,
-        "as_on_date": "2026-08-31T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.9,
-        "base_expense_ratio": 0.75,
-        "as_on_date": "2026-08-30T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
       }
     ],
     "fund_news": null,
@@ -3435,8 +3435,8 @@
         "sub_sub_category": "",
         "aum": 12387.4334,
         "mean_return": 14.07,
-        "return3y": 23.07,
-        "return1y": 8.04,
+        "return3y": 22.76,
+        "return1y": 8.3,
         "min_investment": 100,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -3475,8 +3475,8 @@
         "sub_sub_category": "",
         "aum": 20159.1024,
         "mean_return": 21.62,
-        "return3y": 22.29,
-        "return1y": 7.56,
+        "return3y": 22.01,
+        "return1y": 7.62,
         "min_investment": 500,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -3515,8 +3515,8 @@
         "sub_sub_category": "",
         "aum": 21020.4988,
         "mean_return": 9.05,
-        "return3y": 17.76,
-        "return1y": 3.56,
+        "return3y": 17.74,
+        "return1y": 4.01,
         "min_investment": 1000,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -3555,8 +3555,8 @@
         "sub_sub_category": "",
         "aum": 33591.7804242,
         "mean_return": 6.79,
-        "return3y": 15.05,
-        "return1y": 0.09,
+        "return3y": 15.13,
+        "return1y": 0.61,
         "min_investment": 500,
         "groww_rating": 5,
         "risk_rating": 6,
@@ -3577,8 +3577,8 @@
         "scheme_type": "Growth",
         "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/icici_groww.png",
         "groww_scheme_code": "INF109K011O5",
-        "expense_ratio": "1.27",
-        "base_expense_ratio": "0.67",
+        "expense_ratio": "1.28",
+        "base_expense_ratio": "0.68",
         "swp_frequencies": null,
         "tag": null,
         "sub_tag": null,
@@ -3595,8 +3595,8 @@
         "sub_sub_category": "",
         "aum": 7903.4958,
         "mean_return": 5.94,
-        "return3y": 14.29,
-        "return1y": -1.66,
+        "return3y": 14.2,
+        "return1y": -1.02,
         "min_investment": 5000,
         "groww_rating": 4,
         "risk_rating": 6,
