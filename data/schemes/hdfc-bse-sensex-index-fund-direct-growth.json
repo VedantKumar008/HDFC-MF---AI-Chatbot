@@ -3,7 +3,7 @@
   "scheme_name": "HDFC BSE Sensex Index Fund Direct Growth",
   "fund_name": "HDFC BSE Sensex Index Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-bse-sensex-index-fund-direct-growth",
-  "scraped_at": "2026-10-03T09:20:56.182764+00:00",
+  "scraped_at": "2026-10-04T10:00:25.381552+00:00",
   "category": "Equity",
   "sub_category": "Large Cap",
   "super_category": "HDFC BSE Sensex Index Fund",
@@ -905,7 +905,7 @@
         "risk": "Very High",
         "return_since_created": 11.01,
         "cat_return3m": -5.21,
-        "cat_return6m": 3.36,
+        "cat_return6m": 3.35,
         "cat_return1y": -5.08,
         "cat_return3y": 9.05,
         "cat_return5y": 8.36,
@@ -959,8 +959,8 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 99,
-        "stat_3y": 77,
+        "stat_1y": 100,
+        "stat_3y": 78,
         "stat_5y": 60,
         "stat_all": null,
         "title": "Rank Within Category"
@@ -1085,7 +1085,7 @@
     },
     {
       "question": "alpha_analysis",
-      "answer": "Lower alpha: -3.23 \nThe fund has generated returns lower than benchmark - BSE Sensex Total Return Index - in the last 3Y"
+      "answer": "Lower alpha: -3.25 \nThe fund has generated returns lower than benchmark - BSE Sensex Total Return Index - in the last 3Y"
     },
     {
       "question": "expense_analysis",
@@ -1141,7 +1141,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 986236.84494707,
-    "launch_date": "1999-12-09T18:30:00.719Z",
+    "launch_date": "1999-12-09T18:30:00.199Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1179,8 +1179,8 @@
         "scheme_code": "119065",
         "analysis_type": "CONS",
         "analysis_subject": "alpha_analysis",
-        "analysis_desc": "Lower alpha: -3.23 \nThe fund has generated returns lower than benchmark - BSE Sensex Total Return Index - in the last 3Y ",
-        "analysis_data": "-3.22872678233634",
+        "analysis_desc": "Lower alpha: -3.25 \nThe fund has generated returns lower than benchmark - BSE Sensex Total Return Index - in the last 3Y ",
+        "analysis_data": "-3.25321878017426",
         "rating": null
       },
       {
