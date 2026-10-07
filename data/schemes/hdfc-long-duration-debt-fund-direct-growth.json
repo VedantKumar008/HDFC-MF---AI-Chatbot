@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Long Term Fund Direct Growth",
   "fund_name": "HDFC Long Term Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-long-duration-debt-fund-direct-growth",
-  "scraped_at": "2026-10-06T10:37:33.547008+00:00",
+  "scraped_at": "2026-10-07T10:28:51.846597+00:00",
   "category": "Debt",
   "sub_category": "Long Duration",
   "super_category": "HDFC Long Term Fund",
@@ -11,9 +11,9 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to generate income / capital appreciation through investments in debt and money market instruments.",
   "fund_objective": "The scheme seeks to generate income / capital appreciation through investments in debt and money market instruments.",
-  "nav": 12.4441,
-  "nav_date": "05-Oct-2026",
-  "aum": 2695.35,
+  "nav": 12.4448,
+  "nav_date": "06-Oct-2026",
+  "aum": 2577.1891,
   "expense_ratio": 0.28,
   "exit_load": "Nil",
   "risk_level": "Moderately High",
@@ -358,9 +358,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 30.01,
+      "corpus_per": 29.06,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "GOVERNMENT OF INDIA 34733 GOI 05AG54 7.09 FV RS 100",
@@ -368,9 +368,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 19.8,
+      "corpus_per": 19.4,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "GOI Sec 7.36 12/09/2052",
@@ -378,9 +378,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 18.03,
+      "corpus_per": 18.69,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "GOVERNMENT OF INDIA 35840 GOI 15AP65 6.9 FV RS 100",
@@ -388,9 +388,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 8.17,
+      "corpus_per": 8.44,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100",
@@ -398,9 +398,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 7.73,
+      "corpus_per": 7.82,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "CENTRAL GOVERNMENT LOAN 30951 GOI 15DC51 6.99 FV RS 100",
@@ -408,9 +408,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 6.28,
+      "corpus_per": 6.46,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "6.62% Govt. of India (MD 28/11/2051)",
@@ -418,29 +418,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 2.66,
+      "corpus_per": 2.72,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "Net Current Assets",
-      "sector_name": "Unspecified",
-      "nature_name": "CASH",
-      "instrument_name": "Net Current Assets",
-      "rating": null,
-      "corpus_per": 1.96,
-      "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "GOVERNMENT OF INDIA 36320 GOI 18AG55 7.24 FV RS 100",
-      "sector_name": "Entities",
-      "nature_name": "DEBT",
-      "instrument_name": "GOI Securities",
-      "rating": null,
-      "corpus_per": 1.79,
-      "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "CENTRAL GOVERNMENT LOAN 23011 GOI 20SP50 7.16 FV RS 100",
@@ -448,9 +428,29 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 1.78,
+      "corpus_per": 1.83,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
+    },
+    {
+      "company_name": "Net Current Assets",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "instrument_name": "Net Current Assets",
+      "rating": null,
+      "corpus_per": 1.76,
+      "market_cap": null,
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 36320 GOI 18AG55 7.24 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
+      "rating": null,
+      "corpus_per": 1.66,
+      "market_cap": null,
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "CENTRAL GOVERNMENT LOAN 29633 GOI 17DC50 6.67 FV RS 100",
@@ -458,9 +458,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 1.18,
+      "corpus_per": 1.22,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Others Class A2 AIF",
@@ -468,9 +468,9 @@
       "nature_name": "DEBT",
       "instrument_name": "Alternative Investment Fund",
       "rating": null,
-      "corpus_per": 0.6,
+      "corpus_per": 0.63,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Repo",
@@ -478,48 +478,48 @@
       "nature_name": "CASH",
       "instrument_name": "Repo",
       "rating": null,
-      "corpus_per": 0.01,
+      "corpus_per": 0.31,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     }
   ],
   "asset_allocation": {
     "by_sector": [
       {
         "name": "Entities",
-        "percentage": 97.43
+        "percentage": 97.3
       },
       {
         "name": "Unspecified",
-        "percentage": 2.57
+        "percentage": 2.7
       }
     ],
     "by_nature": [
       {
         "name": "DEBT",
-        "percentage": 98.03
+        "percentage": 97.93
       },
       {
         "name": "CASH",
-        "percentage": 1.97
+        "percentage": 2.07
       }
     ],
     "by_instrument": [
       {
         "name": "GOI Securities",
-        "percentage": 97.43
+        "percentage": 97.3
       },
       {
         "name": "Net Current Assets",
-        "percentage": 1.96
+        "percentage": 1.76
       },
       {
         "name": "Alternative Investment Fund",
-        "percentage": 0.6
+        "percentage": 0.63
       },
       {
         "name": "Repo",
-        "percentage": 0.01
+        "percentage": 0.31
       }
     ],
     "by_market_cap": [
@@ -532,15 +532,15 @@
   "historical_returns": {
     "simple_return": {
       "scheme_code": "151313",
-      "return1d": 0.02,
-      "return1w": 0.26,
-      "return1m": -0.55,
-      "return3m": -2.3,
-      "return6m": 4.96,
-      "return9m": 1.01,
-      "return1y": 0.73,
-      "return2y": 5.03,
-      "return3y": 18.71,
+      "return1d": 0.01,
+      "return1w": -0.17,
+      "return1m": -0.54,
+      "return3m": -2.43,
+      "return6m": 4.1,
+      "return9m": 1.2,
+      "return1y": 0.45,
+      "return2y": 5.04,
+      "return3y": 20.18,
       "return4y": null,
       "return5y": null,
       "return7y": null,
@@ -552,14 +552,14 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 24.44,
-      "cat_return3m": -1.53,
-      "cat_return6m": 4.05,
-      "cat_return1y": 0.99,
-      "cat_return3y": 18.51,
-      "cat_return5y": 31.36,
-      "cat_return10y": 88.98,
-      "cat_return_since_launch": 23.64,
+      "return_since_created": 24.45,
+      "cat_return3m": -1.63,
+      "cat_return6m": 3.36,
+      "cat_return1y": 0.79,
+      "cat_return3y": 19.61,
+      "cat_return5y": 31.5,
+      "cat_return10y": 88.95,
+      "cat_return_since_launch": 23.67,
       "rank3m": null,
       "rank6m": null,
       "rank1yr": null,
@@ -593,8 +593,8 @@
       "return1d": null,
       "return1w": null,
       "return1m": null,
-      "return3m": -6.95,
-      "return6m": -0.67,
+      "return3m": -6.7,
+      "return6m": -0.64,
       "return9m": 2.11,
       "return1y": 1.93,
       "return2y": 1.59,
@@ -610,7 +610,7 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 4.24,
+      "return_since_created": 4.23,
       "cat_return3m": null,
       "cat_return6m": null,
       "cat_return1y": null,
@@ -649,15 +649,15 @@
     "return_stats": [
       {
         "scheme_code": "151313",
-        "return1d": 0.02,
-        "return1w": 0.26,
-        "return1m": -0.55,
-        "return3m": -2.3,
-        "return6m": 4.96,
-        "return9m": 1.01,
-        "return1y": 0.73,
+        "return1d": 0.01,
+        "return1w": -0.17,
+        "return1m": -0.54,
+        "return3m": -2.43,
+        "return6m": 4.1,
+        "return9m": 1.2,
+        "return1y": 0.45,
         "return2y": 2.48,
-        "return3y": 5.88,
+        "return3y": 6.31,
         "return4y": null,
         "return5y": null,
         "return7y": null,
@@ -680,7 +680,7 @@
         "rank3m": 9,
         "rank6m": 1,
         "rank1yr": 8,
-        "rank3yr": 4,
+        "rank3yr": 5,
         "rank5yr": null,
         "rank10yr": null,
         "rank_count3m": 11,
@@ -697,8 +697,8 @@
         "sortino_ratio": 0.08,
         "information_ratio": null,
         "plan_id": null,
-        "vro_return_ytd": 0.76,
-        "vro_return9m": 1.01,
+        "vro_return_ytd": 0.77,
+        "vro_return9m": 1.2,
         "vro_return2y": 2.48,
         "vro_return4y": null,
         "vro_return_date": null,
@@ -709,8 +709,8 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 0.73,
-        "stat_3y": 5.88,
+        "stat_1y": 0.45,
+        "stat_3y": 6.31,
         "stat_5y": null,
         "stat_all": null,
         "title": "Fund Returns"
@@ -726,7 +726,7 @@
       {
         "type": "RANK_WITHIN_CATEGORY",
         "stat_1y": 8,
-        "stat_3y": 5,
+        "stat_3y": 4,
         "stat_5y": null,
         "stat_all": null,
         "title": "Rank Within Category"
@@ -877,7 +877,7 @@
     "fund_management_section": "DM Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth AJ Anupam Joshi Mar 2026 - Present View details Education Mr. Joshi is a PGDM in Business Management. Experience Prior to joining HDFC Mutual Fund he has worked with IDFC AMC, Principal Asset Management Company and ICAP India Pvt. Ltd. Also manages these schemes HDFC Ultra Short to Short Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC FMP 1861D March 2022 Direct Growth HDFC FMP 1876D March 2022 Direct Growth HDFC Nifty G sec Dec 2026 Index Direct Growth HDFC Nifty G Sec July 2031 Index Direct Growth HDFC Nifty G Sec Jun 2027 Index Direct Growth HDFC Nifty G Sec Sep 2032 Index Direct Growth HDFC Long Term Fund Direct Growth HDFC Nifty SDL Oct 2026 Index Fund Direct Growth HDFC Nifty G Sec Apr 2029 Index Fund Direct Growth HDFC NIFTY G Sec Jun 2036 Index Fund Direct Growth HDFC NIFTY SDL Plus G Sec Jun 2027 40:60 Index Fund Direct Growth HDFC CRISIL IBX Financial Services 3 6 Months Debt Index Fund Direct Growth HDFC CRISIL IBX Financial Services 9 12 Months Debt Index Fund Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
-    "meta_description": "HDFC Long Term Fund Direct Growth is Long Duration Debt mutual fund with risk-reward rating of 2/10. It has track record of 3 years, with three year return of 5.88. Risk is Moderate",
+    "meta_description": "HDFC Long Term Fund Direct Growth is Long Duration Debt mutual fund with risk-reward rating of 2/10. It has track record of 3 years, with three year return of 6.31. Risk is Moderate",
     "category_helper_text": "Invest in Government securities (80%+)",
     "blocked_reason": null,
     "brochure_link": null,
@@ -907,7 +907,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 986236.84494707,
-    "launch_date": "1999-12-09T18:30:00.859Z",
+    "launch_date": "1999-12-09T18:30:00.883Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
