@@ -3,7 +3,7 @@
   "scheme_name": "HDFC BSE Sensex Index Fund Direct Growth",
   "fund_name": "HDFC BSE Sensex Index Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-bse-sensex-index-fund-direct-growth",
-  "scraped_at": "2026-10-09T10:48:32.130194+00:00",
+  "scraped_at": "2026-10-10T10:04:04.557129+00:00",
   "category": "Equity",
   "sub_category": "Large Cap",
   "super_category": "HDFC BSE Sensex Index Fund",
@@ -11,9 +11,9 @@
   "plan_type": "Direct",
   "description": "The scheme aims to generate returns that are commensurate with the performance of S&P BSE Sensex, subject to tracking errors.",
   "fund_objective": "The scheme aims to generate returns that are commensurate with the performance of S&P BSE Sensex, subject to tracking errors.",
-  "nav": 685.3295,
-  "nav_date": "08-Oct-2026",
-  "aum": 8495.5705,
+  "nav": 693.745,
+  "nav_date": "09-Oct-2026",
+  "aum": 7972.9546,
   "expense_ratio": 0.22,
   "exit_load": "Exit load of 0.25% if redeemed within 3 days",
   "risk_level": "Moderately High",
@@ -388,9 +388,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 11.84,
+      "corpus_per": 12.59,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "ICICI Bank Ltd",
@@ -398,9 +398,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 11.39,
+      "corpus_per": 11.03,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Reliance Industries Ltd",
@@ -408,9 +408,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 9.53,
+      "corpus_per": 9.16,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Bharti Airtel Ltd",
@@ -418,9 +418,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 6.11,
+      "corpus_per": 6.38,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Larsen & Toubro Ltd",
@@ -428,9 +428,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 5.17,
+      "corpus_per": 5.11,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "State Bank of India",
@@ -438,19 +438,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 4.83,
+      "corpus_per": 4.64,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "Infosys Ltd",
-      "sector_name": "Technology",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 4.31,
-      "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Axis Bank Ltd",
@@ -458,9 +448,19 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 4.02,
+      "corpus_per": 4.08,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
+    },
+    {
+      "company_name": "Infosys Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 4.08,
+      "market_cap": null,
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Kotak Mahindra Bank Ltd",
@@ -468,9 +468,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 3.37,
+      "corpus_per": 3.57,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Mahindra & Mahindra Ltd",
@@ -478,9 +478,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 3.26,
+      "corpus_per": 3.07,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Bajaj Finance Ltd",
@@ -488,9 +488,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 3.12,
+      "corpus_per": 2.99,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "ITC Ltd",
@@ -498,19 +498,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 2.71,
+      "corpus_per": 2.96,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "Tata Consultancy Services Ltd",
-      "sector_name": "Technology",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 2.63,
-      "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Zomato Ltd",
@@ -518,9 +508,19 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 2.6,
+      "corpus_per": 2.69,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
+    },
+    {
+      "company_name": "Tata Consultancy Services Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 2.41,
+      "market_cap": null,
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Sun Pharmaceutical Industries Ltd",
@@ -528,9 +528,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 2.31,
+      "corpus_per": 2.28,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Titan Company Ltd",
@@ -538,9 +538,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 2.29,
+      "corpus_per": 2.18,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Hindustan Unilever Ltd",
@@ -550,7 +550,7 @@
       "rating": null,
       "corpus_per": 1.95,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Maruti Suzuki India Ltd",
@@ -558,9 +558,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.9,
+      "corpus_per": 1.79,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "NTPC Ltd",
@@ -568,9 +568,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.71,
+      "corpus_per": 1.78,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Tata Steel Ltd",
@@ -578,49 +578,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.66,
+      "corpus_per": 1.77,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "Bharat Electronics Ltd",
-      "sector_name": "Industrials",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.63,
-      "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "HCL Technologies Ltd",
-      "sector_name": "Technology",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.52,
-      "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "Ultratech Cement Ltd",
-      "sector_name": "Materials",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.49,
-      "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "Power Grid Corporation of India Ltd",
-      "sector_name": "Energy & Utilities",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.32,
-      "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Adani Ports and Special Economic Zone Ltd",
@@ -628,9 +588,49 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.32,
+      "corpus_per": 1.63,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bharat Electronics Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.62,
+      "market_cap": null,
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
+    },
+    {
+      "company_name": "HCL Technologies Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.51,
+      "market_cap": null,
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
+    },
+    {
+      "company_name": "Ultratech Cement Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.5,
+      "market_cap": null,
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
+    },
+    {
+      "company_name": "Power Grid Corporation of India Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
+      "corpus_per": 1.38,
+      "market_cap": null,
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Interglobe Aviation Ltd",
@@ -638,9 +638,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.27,
+      "corpus_per": 1.3,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Asian Paints Ltd",
@@ -648,19 +648,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.27,
+      "corpus_per": 1.26,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "Bajaj Finserv Ltd",
-      "sector_name": "Financial",
-      "nature_name": "EQUITY",
-      "instrument_name": "Equity",
-      "rating": null,
-      "corpus_per": 1.24,
-      "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Tech Mahindra Ltd",
@@ -668,9 +658,19 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
+      "corpus_per": 1.14,
+      "market_cap": null,
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
+    },
+    {
+      "company_name": "Bajaj Finserv Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "instrument_name": "Equity",
+      "rating": null,
       "corpus_per": 1.13,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Trent Ltd",
@@ -678,19 +678,9 @@
       "nature_name": "EQUITY",
       "instrument_name": "Equity",
       "rating": null,
-      "corpus_per": 1.04,
+      "corpus_per": 1.01,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
-    },
-    {
-      "company_name": "Net Current Assets",
-      "sector_name": "Unspecified",
-      "nature_name": "CASH",
-      "instrument_name": "Net Current Assets",
-      "rating": null,
-      "corpus_per": 0.06,
-      "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Repo",
@@ -698,72 +688,82 @@
       "nature_name": "CASH",
       "instrument_name": "Repo",
       "rating": null,
-      "corpus_per": 3.649e-05,
+      "corpus_per": 0.05,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
+    },
+    {
+      "company_name": "Net Payables",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "instrument_name": "Net Payables",
+      "rating": null,
+      "corpus_per": -0.04,
+      "market_cap": null,
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     }
   ],
   "asset_allocation": {
     "by_sector": [
       {
         "name": "Financial",
-        "percentage": 39.81
+        "percentage": 40.03
       },
       {
         "name": "Technology",
-        "percentage": 18.3
+        "percentage": 18.21
       },
       {
         "name": "Energy & Utilities",
-        "percentage": 12.56
+        "percentage": 12.32
       },
       {
         "name": "Industrials",
-        "percentage": 9.39
+        "percentage": 9.66
       },
       {
         "name": "Consumer Discretionary",
-        "percentage": 8.49
+        "percentage": 8.05
       },
       {
         "name": "Consumer Staples",
-        "percentage": 4.66
+        "percentage": 4.91
       },
       {
         "name": "Materials",
-        "percentage": 4.42
+        "percentage": 4.53
       },
       {
         "name": "Healthcare",
-        "percentage": 2.31
+        "percentage": 2.28
       },
       {
         "name": "Unspecified",
-        "percentage": 0.06
+        "percentage": 0.01
       }
     ],
     "by_nature": [
       {
         "name": "EQUITY",
-        "percentage": 99.94
+        "percentage": 99.99
       },
       {
         "name": "CASH",
-        "percentage": 0.06
+        "percentage": 0.01
       }
     ],
     "by_instrument": [
       {
         "name": "Equity",
-        "percentage": 99.94
-      },
-      {
-        "name": "Net Current Assets",
-        "percentage": 0.06
+        "percentage": 99.99
       },
       {
         "name": "Repo",
-        "percentage": 0.0
+        "percentage": 0.05
+      },
+      {
+        "name": "Net Payables",
+        "percentage": -0.04
       }
     ],
     "by_market_cap": [
@@ -776,19 +776,19 @@
   "historical_returns": {
     "simple_return": {
       "scheme_code": "119065",
-      "return1d": -1.44,
-      "return1w": -0.45,
-      "return1m": -5.29,
-      "return3m": -6.24,
-      "return6m": -7.06,
-      "return9m": -14.38,
-      "return1y": -11.77,
-      "return2y": -10.76,
-      "return3y": 11.45,
-      "return4y": 27.76,
-      "return5y": 25.04,
-      "return7y": 102.68,
-      "return10y": 178.68,
+      "return1d": 1.23,
+      "return1w": 0.78,
+      "return1m": -3.09,
+      "return3m": -5.39,
+      "return6m": -4.78,
+      "return9m": -12.7,
+      "return1y": -11.12,
+      "return2y": -9.48,
+      "return3y": 13.65,
+      "return4y": 29.33,
+      "return5y": 26.58,
+      "return7y": 101.71,
+      "return10y": 182.11,
       "return_default": null,
       "mean_return": null,
       "sharpe_ratio": null,
@@ -796,14 +796,14 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 318.82,
-      "cat_return3m": -5.45,
-      "cat_return6m": -3.3,
-      "cat_return1y": -6.59,
-      "cat_return3y": 27.7,
-      "cat_return5y": 42.37,
-      "cat_return10y": 190.03,
-      "cat_return_since_launch": 169.27,
+      "return_since_created": 323.96,
+      "cat_return3m": -4.85,
+      "cat_return6m": -1.63,
+      "cat_return1y": -6.05,
+      "cat_return3y": 30.24,
+      "cat_return5y": 43.95,
+      "cat_return10y": 193.36,
+      "cat_return_since_launch": 172.28,
       "rank3m": null,
       "rank6m": null,
       "rank1yr": null,
@@ -893,12 +893,12 @@
     "return_stats": [
       {
         "scheme_code": "119065",
-        "return1d": -1.44,
-        "return1w": -0.45,
-        "return1m": -5.29,
-        "return3m": -6.24,
-        "return6m": -7.06,
-        "return9m": -14.38,
+        "return1d": 1.23,
+        "return1w": 0.78,
+        "return1m": -3.09,
+        "return3m": -5.39,
+        "return6m": -4.78,
+        "return9m": -12.7,
         "return1y": -11.77,
         "return2y": -5.53,
         "return3y": 3.67,
@@ -914,24 +914,24 @@
         "risk_rating": null,
         "risk": "Very High",
         "return_since_created": 10.96,
-        "cat_return3m": -5.21,
-        "cat_return6m": 3.35,
-        "cat_return1y": -5.08,
-        "cat_return3y": 9.05,
-        "cat_return5y": 8.36,
-        "cat_return10y": 11.82,
-        "cat_return_since_launch": 12.4,
+        "cat_return3m": -5.55,
+        "cat_return6m": -3.5,
+        "cat_return1y": -6.73,
+        "cat_return3y": 8.69,
+        "cat_return5y": 7.68,
+        "cat_return10y": 11.53,
+        "cat_return_since_launch": 12.29,
         "rank3m": 66,
-        "rank6m": 102,
-        "rank1yr": 100,
-        "rank3yr": 77,
+        "rank6m": 103,
+        "rank1yr": 101,
+        "rank3yr": 78,
         "rank5yr": 61,
         "rank10yr": 26,
         "rank_count3m": 116,
         "rank_count6m": 112,
-        "rank_count1yr": 107,
+        "rank_count1yr": 108,
         "rank_count3yr": 82,
-        "rank_count5yr": 64,
+        "rank_count5yr": 65,
         "rank_count10yr": 42,
         "index_return1y": null,
         "index_return3y": null,
@@ -953,9 +953,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": -11.77,
-        "stat_3y": 3.67,
-        "stat_5y": 4.57,
+        "stat_1y": -11.12,
+        "stat_3y": 4.35,
+        "stat_5y": 4.82,
         "stat_all": 13.4,
         "title": "Fund Returns"
       },
@@ -1151,7 +1151,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 986236.84494707,
-    "launch_date": "1999-12-09T18:30:00.658Z",
+    "launch_date": "1999-12-09T18:30:00.084Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1411,9 +1411,9 @@
         "return3y": 12.28,
         "return1y": -2.24,
         "return5y": 9.85,
-        "return1m": -6.29,
-        "return3m": -3.71,
-        "return6m": 1.82,
+        "return1m": -4.55,
+        "return3m": -3.36,
+        "return6m": 3.28,
         "return_since_created": 14.27,
         "min_investment": 1000,
         "groww_rating": 5,
@@ -1456,9 +1456,9 @@
         "return3y": 11.13,
         "return1y": -4.21,
         "return5y": 8.95,
-        "return1m": -6.06,
-        "return3m": -4.25,
-        "return6m": -1.29,
+        "return1m": -4.34,
+        "return3m": -3.89,
+        "return6m": 0.49,
         "return_since_created": 12.28,
         "min_investment": 1000,
         "groww_rating": 4,
@@ -1480,8 +1480,8 @@
         "scheme_type": "Growth",
         "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/idfc_groww.png",
         "groww_scheme_code": "INF194K01Z44",
-        "expense_ratio": "1.07",
-        "base_expense_ratio": "0.76",
+        "expense_ratio": "1.08",
+        "base_expense_ratio": "0.77",
         "swp_frequencies": null,
         "tag": null,
         "sub_tag": null,
@@ -1496,14 +1496,14 @@
         "category": "Equity",
         "sub_category": "Large Cap",
         "sub_sub_category": "",
-        "aum": 54133.6602,
+        "aum": 51296.0649,
         "mean_return": 10.39,
         "return3y": 9.14,
         "return1y": -8.14,
         "return5y": 11.18,
-        "return1m": -5.62,
-        "return3m": -5.8,
-        "return6m": -4.24,
+        "return1m": -3.65,
+        "return3m": -5.22,
+        "return6m": -2.48,
         "return_since_created": 14.43,
         "min_investment": 100,
         "groww_rating": 5,
@@ -1541,14 +1541,14 @@
         "category": "Equity",
         "sub_category": "Large Cap",
         "sub_sub_category": "",
-        "aum": 80206.20324258,
+        "aum": 76352.23211222,
         "mean_return": 10.07,
         "return3y": 9,
         "return1y": -8.86,
         "return5y": 9.53,
-        "return1m": -5.41,
-        "return3m": -6.37,
-        "return6m": -5.63,
+        "return1m": -3.51,
+        "return3m": -5.6,
+        "return6m": -3.67,
         "return_since_created": 13.84,
         "min_investment": 100,
         "groww_rating": 5,
@@ -1586,14 +1586,14 @@
         "category": "Equity",
         "sub_category": "Large Cap",
         "sub_sub_category": "",
-        "aum": 39933.3663,
+        "aum": 37293.9508,
         "mean_return": 8.42,
         "return3y": 7.16,
         "return1y": -7.54,
         "return5y": 8.91,
-        "return1m": -6.37,
-        "return3m": -6.38,
-        "return6m": -3.79,
+        "return1m": -4.65,
+        "return3m": -6.08,
+        "return6m": -1.79,
         "return_since_created": 12.36,
         "min_investment": 100,
         "groww_rating": 4,

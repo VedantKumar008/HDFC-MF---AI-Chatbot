@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Silver ETF FoF Direct Growth",
   "fund_name": "HDFC Silver ETF FoF Direct-Growth",
   "groww_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-  "scraped_at": "2026-10-09T10:48:41.203879+00:00",
+  "scraped_at": "2026-10-10T10:04:15.973461+00:00",
   "category": "Commodities",
   "sub_category": "Silver",
   "super_category": "HDFC Silver ETF FoF Direct-Growth",
@@ -11,9 +11,9 @@
   "plan_type": "Direct",
   "description": "The scheme is seek to capital appreciation by investing in units of HDFC Silver ETF (HSETF).",
   "fund_objective": "The scheme is seek to capital appreciation by investing in units of HDFC Silver ETF (HSETF).",
-  "nav": 35.5319,
-  "nav_date": "08-Oct-2026",
-  "aum": 4698.5047,
+  "nav": 36.1739,
+  "nav_date": "09-Oct-2026",
+  "aum": 4497.0028,
   "expense_ratio": 0.21,
   "exit_load": "Exit load of 1%, if redeemed within 15 days.",
   "risk_level": "Very High",
@@ -388,9 +388,9 @@
       "nature_name": "MF",
       "instrument_name": "Mutual Fund",
       "rating": null,
-      "corpus_per": 100.29,
+      "corpus_per": 100.32,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Repo",
@@ -398,9 +398,9 @@
       "nature_name": "CASH",
       "instrument_name": "Repo",
       "rating": null,
-      "corpus_per": 0.3,
+      "corpus_per": 0.33,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     },
     {
       "company_name": "Net Payables",
@@ -408,9 +408,9 @@
       "nature_name": "CASH",
       "instrument_name": "Net Payables",
       "rating": null,
-      "corpus_per": -0.59,
+      "corpus_per": -0.65,
       "market_cap": null,
-      "portfolio_date": "2026-08-30T18:30:00.000Z"
+      "portfolio_date": "2026-09-29T18:30:00.000Z"
     }
   ],
   "asset_allocation": {
@@ -423,25 +423,25 @@
     "by_nature": [
       {
         "name": "MF",
-        "percentage": 100.29
+        "percentage": 100.32
       },
       {
         "name": "CASH",
-        "percentage": -0.29
+        "percentage": -0.32
       }
     ],
     "by_instrument": [
       {
         "name": "Mutual Fund",
-        "percentage": 100.29
+        "percentage": 100.32
       },
       {
         "name": "Repo",
-        "percentage": 0.3
+        "percentage": 0.33
       },
       {
         "name": "Net Payables",
-        "percentage": -0.59
+        "percentage": -0.65
       }
     ],
     "by_market_cap": [
@@ -454,16 +454,16 @@
   "historical_returns": {
     "simple_return": {
       "scheme_code": "150737",
-      "return1d": -1.43,
-      "return1w": -1.39,
-      "return1m": -7.01,
-      "return3m": -2,
-      "return6m": -11.11,
-      "return9m": -8.24,
-      "return1y": 36.53,
-      "return2y": 131.69,
-      "return3y": 194.94,
-      "return4y": 255.32,
+      "return1d": 1.81,
+      "return1w": 0.39,
+      "return1m": -5.85,
+      "return3m": -1.72,
+      "return6m": -6.5,
+      "return9m": -9.55,
+      "return1y": 28.72,
+      "return2y": 139.67,
+      "return3y": 199.33,
+      "return4y": 261.74,
       "return5y": null,
       "return7y": null,
       "return10y": null,
@@ -474,14 +474,14 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 255.32,
-      "cat_return3m": -1.99,
-      "cat_return6m": -10.76,
-      "cat_return1y": 36.17,
-      "cat_return3y": 195.11,
+      "return_since_created": 261.74,
+      "cat_return3m": -1.56,
+      "cat_return6m": -6.43,
+      "cat_return1y": 32.57,
+      "cat_return3y": 199.97,
       "cat_return5y": null,
       "cat_return10y": null,
-      "cat_return_since_launch": 151.04,
+      "cat_return_since_launch": 155.47,
       "rank3m": null,
       "rank6m": null,
       "rank1yr": null,
@@ -571,12 +571,12 @@
     "return_stats": [
       {
         "scheme_code": "150737",
-        "return1d": -1.43,
-        "return1w": -1.39,
-        "return1m": -7.01,
-        "return3m": -2,
-        "return6m": -11.11,
-        "return9m": -8.24,
+        "return1d": 1.81,
+        "return1w": 0.39,
+        "return1m": -5.85,
+        "return3m": -1.72,
+        "return6m": -6.5,
+        "return9m": -9.55,
         "return1y": 36.53,
         "return2y": 52.21,
         "return3y": 43.27,
@@ -592,16 +592,16 @@
         "risk_rating": null,
         "risk": "Very High",
         "return_since_created": 38.17,
-        "cat_return3m": -1.31,
-        "cat_return6m": -7.11,
-        "cat_return1y": 52.35,
-        "cat_return3y": 44.04,
+        "cat_return3m": -2,
+        "cat_return6m": -10.75,
+        "cat_return1y": 40.04,
+        "cat_return3y": 44.27,
         "cat_return5y": null,
         "cat_return10y": null,
-        "cat_return_since_launch": 30.43,
+        "cat_return_since_launch": 29.91,
         "rank3m": 6,
-        "rank6m": 15,
-        "rank1yr": 5,
+        "rank6m": 16,
+        "rank1yr": 6,
         "rank3yr": 5,
         "rank5yr": null,
         "rank10yr": null,
@@ -631,8 +631,8 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 36.53,
-        "stat_3y": 43.27,
+        "stat_1y": 28.72,
+        "stat_3y": 44.07,
         "stat_5y": null,
         "stat_all": null,
         "title": "Fund Returns"
@@ -647,7 +647,7 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 7,
+        "stat_1y": 5,
         "stat_3y": 5,
         "stat_5y": null,
         "stat_all": null,
@@ -842,7 +842,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 986236.84494707,
-    "launch_date": "1999-12-09T18:30:00.360Z",
+    "launch_date": "1999-12-09T18:30:00.993Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
