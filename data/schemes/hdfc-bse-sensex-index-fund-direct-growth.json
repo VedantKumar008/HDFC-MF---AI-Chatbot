@@ -3,7 +3,7 @@
   "scheme_name": "HDFC BSE Sensex Index Fund Direct Growth",
   "fund_name": "HDFC BSE Sensex Index Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-bse-sensex-index-fund-direct-growth",
-  "scraped_at": "2026-10-11T10:13:47.249691+00:00",
+  "scraped_at": "2026-10-12T11:12:07.373039+00:00",
   "category": "Equity",
   "sub_category": "Large Cap",
   "super_category": "HDFC BSE Sensex Index Fund",
@@ -969,8 +969,8 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 100,
-        "stat_3y": 77,
+        "stat_1y": 101,
+        "stat_3y": 78,
         "stat_5y": 61,
         "stat_all": null,
         "title": "Rank Within Category"
@@ -1151,7 +1151,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 986236.84494707,
-    "launch_date": "1999-12-09T18:30:00.826Z",
+    "launch_date": "1999-12-09T18:30:00.506Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
