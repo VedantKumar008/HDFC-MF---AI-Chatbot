@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Silver ETF FoF Direct Growth",
   "fund_name": "HDFC Silver ETF FoF Direct-Growth",
   "groww_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-  "scraped_at": "2026-10-18T08:14:12.849770+00:00",
+  "scraped_at": "2026-10-19T09:11:37.428741+00:00",
   "category": "Commodities",
   "sub_category": "Silver",
   "super_category": "HDFC Silver ETF FoF Direct-Growth",
@@ -797,6 +797,10 @@
       "answer": "Consistently lower annualised returns than category average for the past 1Y and 3Y"
     },
     {
+      "question": "rank_analysis",
+      "answer": "1Y category rank: 4"
+    },
+    {
       "question": "base_expense_analysis",
       "answer": "Lower base expense ratio: 0.18%"
     },
@@ -842,7 +846,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 934075.65943461,
-    "launch_date": "1999-12-09T18:30:00.469Z",
+    "launch_date": "1999-12-09T18:30:00.080Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -882,6 +886,14 @@
         "analysis_subject": "c_return_analysis",
         "analysis_desc": "Consistently lower annualised returns than category average for the past 1Y and 3Y",
         "analysis_data": "c_return_analysis",
+        "rating": null
+      },
+      {
+        "scheme_code": "150737",
+        "analysis_type": "PROS",
+        "analysis_subject": "rank_analysis",
+        "analysis_desc": "1Y category rank: 4",
+        "analysis_data": "rank_analysis",
         "rating": null
       },
       {

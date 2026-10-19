@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Flexi Cap Direct Plan Growth",
   "fund_name": "HDFC Flexi Cap Direct Plan-Growth",
   "groww_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-  "scraped_at": "2026-10-18T08:14:15.979959+00:00",
+  "scraped_at": "2026-10-19T09:11:40.421049+00:00",
   "category": "Equity",
   "sub_category": "Flexi Cap",
   "super_category": "HDFC Flexi Cap Direct Plan-Growth",
@@ -1412,9 +1412,9 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 35,
-        "stat_3y": 9,
-        "stat_5y": 3,
+        "stat_1y": 37,
+        "stat_3y": 10,
+        "stat_5y": 4,
         "stat_all": null,
         "title": "Rank Within Category"
       }
@@ -1587,7 +1587,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 934075.65943461,
-    "launch_date": "1999-12-09T18:30:00.721Z",
+    "launch_date": "1999-12-09T18:30:00.286Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
