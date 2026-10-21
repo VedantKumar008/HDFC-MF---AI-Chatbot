@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Nifty Smallcap 250 Index Fund Direct Growth",
   "fund_name": "HDFC Nifty Smallcap 250 Index Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-nifty-smallcap-250-index-fund-direct-growth",
-  "scraped_at": "2026-10-20T08:46:55.261659+00:00",
+  "scraped_at": "2026-10-21T08:46:58.077981+00:00",
   "category": "Equity",
   "sub_category": "Small Cap",
   "super_category": "HDFC Nifty Smallcap 250 Index Fund",
@@ -13,7 +13,7 @@
   "fund_objective": "The scheme seeks to generate returns that are commensurate (before fees and expenses) with the performance of the NIFTY Smallcap 250 Index, subject to tracking error.",
   "nav": 18.9787,
   "nav_date": "19-Oct-2026",
-  "aum": 753.7173,
+  "aum": 753.72,
   "expense_ratio": 0.4,
   "exit_load": "Nil",
   "risk_level": "Very High",
@@ -3056,7 +3056,8 @@
       "vro_return4y": null,
       "vro_return_date": null,
       "vro_modified_ts": null,
-      "vro_row_number": null
+      "vro_row_number": null,
+      "aum": null
     },
     "sip_return": {
       "scheme_code": "151727",
@@ -3114,7 +3115,8 @@
       "vro_return4y": null,
       "vro_return_date": null,
       "vro_modified_ts": null,
-      "vro_row_number": null
+      "vro_row_number": null,
+      "aum": null
     },
     "return_stats": [
       {
@@ -3140,13 +3142,13 @@
         "risk_rating": null,
         "risk": "Very High",
         "return_since_created": 20.1,
-        "cat_return3m": -0.37,
-        "cat_return6m": 11.88,
-        "cat_return1y": 7.94,
-        "cat_return3y": 14.46,
-        "cat_return5y": 14.3,
-        "cat_return10y": 17.28,
-        "cat_return_since_launch": 20.01,
+        "cat_return3m": -0.91,
+        "cat_return6m": 9.21,
+        "cat_return1y": 6.95,
+        "cat_return3y": 13.92,
+        "cat_return5y": 14.25,
+        "cat_return10y": 16.99,
+        "cat_return_since_launch": 19.91,
         "rank3m": 43,
         "rank6m": 39,
         "rank1yr": 37,
@@ -3173,7 +3175,8 @@
         "vro_return4y": null,
         "vro_return_date": null,
         "vro_modified_ts": null,
-        "vro_row_number": null
+        "vro_row_number": null,
+        "aum": 753.72
       }
     ],
     "stats": [
@@ -3374,7 +3377,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 934075.65943461,
-    "launch_date": "1999-12-09T18:30:00.744Z",
+    "launch_date": "1999-12-09T18:30:00.235Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",

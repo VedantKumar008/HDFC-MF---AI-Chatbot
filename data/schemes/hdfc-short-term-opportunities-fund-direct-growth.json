@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Short Term Fund Direct Plan Growth",
   "fund_name": "HDFC Short Term Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth",
-  "scraped_at": "2026-10-20T08:47:07.750408+00:00",
+  "scraped_at": "2026-10-21T08:47:09.913829+00:00",
   "category": "Debt",
   "sub_category": "Short Duration",
   "super_category": "HDFC Short Term Fund",
@@ -13,7 +13,7 @@
   "fund_objective": "The scheme seeks to generate regular income through investment in debt securities and money market instruments.",
   "nav": 35.3559,
   "nav_date": "19-Oct-2026",
-  "aum": 14218.5225,
+  "aum": 14218.52,
   "expense_ratio": 0.39,
   "exit_load": "Nil",
   "risk_level": "Moderately Low",
@@ -1919,7 +1919,8 @@
       "vro_return4y": null,
       "vro_return_date": null,
       "vro_modified_ts": null,
-      "vro_row_number": null
+      "vro_row_number": null,
+      "aum": null
     },
     "sip_return": {
       "scheme_code": "119016",
@@ -1977,7 +1978,8 @@
       "vro_return4y": null,
       "vro_return_date": null,
       "vro_modified_ts": null,
-      "vro_row_number": null
+      "vro_row_number": null,
+      "aum": null
     },
     "return_stats": [
       {
@@ -2003,11 +2005,11 @@
         "risk_rating": null,
         "risk": "Moderate",
         "return_since_created": 7.85,
-        "cat_return3m": 0.5,
-        "cat_return6m": 2.31,
-        "cat_return1y": 4.48,
-        "cat_return3y": 7.17,
-        "cat_return5y": 6.47,
+        "cat_return3m": 0.52,
+        "cat_return6m": 2.33,
+        "cat_return1y": 4.46,
+        "cat_return3y": 7.18,
+        "cat_return5y": 6.48,
         "cat_return10y": 6.64,
         "cat_return_since_launch": 7.45,
         "rank3m": 22,
@@ -2036,7 +2038,8 @@
         "vro_return4y": 7.37,
         "vro_return_date": null,
         "vro_modified_ts": null,
-        "vro_row_number": null
+        "vro_row_number": null,
+        "aum": 14218.52
       }
     ],
     "stats": [
@@ -2059,8 +2062,8 @@
       {
         "type": "RANK_WITHIN_CATEGORY",
         "stat_1y": 13,
-        "stat_3y": 12,
-        "stat_5y": 9,
+        "stat_3y": 13,
+        "stat_5y": 7,
         "stat_all": null,
         "title": "Rank Within Category"
       }
@@ -2251,7 +2254,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 934075.65943461,
-    "launch_date": "1999-12-09T18:30:00.221Z",
+    "launch_date": "1999-12-09T18:30:00.775Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",

@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Multi Cap Fund Direct Growth",
   "fund_name": "HDFC Multi Cap Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-multi-cap-fund-direct-growth",
-  "scraped_at": "2026-10-20T08:46:50.731479+00:00",
+  "scraped_at": "2026-10-21T08:46:53.212087+00:00",
   "category": "Equity",
   "sub_category": "Multi Cap",
   "super_category": "HDFC Multi Cap Fund",
@@ -13,7 +13,7 @@
   "fund_objective": "The scheme seeks to generate long term capital appreciation by investing in equity and equity related securities of large cap, mid cap and small cap companies.",
   "nav": 18.766,
   "nav_date": "19-Oct-2026",
-  "aum": 19490.0051,
+  "aum": 19490.01,
   "expense_ratio": 0.96,
   "exit_load": "Exit load of 1% if redeemed within 1 year.",
   "risk_level": "Very High",
@@ -1643,7 +1643,8 @@
       "vro_return4y": null,
       "vro_return_date": null,
       "vro_modified_ts": null,
-      "vro_row_number": null
+      "vro_row_number": null,
+      "aum": null
     },
     "sip_return": {
       "scheme_code": "149368",
@@ -1701,7 +1702,8 @@
       "vro_return4y": null,
       "vro_return_date": null,
       "vro_modified_ts": null,
-      "vro_row_number": null
+      "vro_row_number": null,
+      "aum": null
     },
     "return_stats": [
       {
@@ -1727,13 +1729,13 @@
         "risk_rating": null,
         "risk": "Very High",
         "return_since_created": 13.83,
-        "cat_return3m": -1.89,
-        "cat_return6m": 4.91,
-        "cat_return1y": 1.58,
-        "cat_return3y": 13.76,
-        "cat_return5y": 12.52,
+        "cat_return3m": -2.89,
+        "cat_return6m": 2.81,
+        "cat_return1y": 0.51,
+        "cat_return3y": 13.45,
+        "cat_return5y": 12.43,
         "cat_return10y": null,
-        "cat_return_since_launch": 18.54,
+        "cat_return_since_launch": 18.29,
         "rank3m": 33,
         "rank6m": 35,
         "rank1yr": 36,
@@ -1760,7 +1762,8 @@
         "vro_return4y": 14.76,
         "vro_return_date": null,
         "vro_modified_ts": null,
-        "vro_row_number": null
+        "vro_row_number": null,
+        "aum": 19490.01
       }
     ],
     "stats": [
@@ -1953,7 +1956,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 934075.65943461,
-    "launch_date": "1999-12-09T18:30:00.340Z",
+    "launch_date": "1999-12-09T18:30:00.976Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
