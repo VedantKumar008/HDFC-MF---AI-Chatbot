@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Medium Term Fund Direct Growth",
   "fund_name": "HDFC Medium Term Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-medium-term-debt-fund-direct-growth",
-  "scraped_at": "2026-10-28T09:55:55.152885+00:00",
+  "scraped_at": "2026-10-29T10:17:50.291405+00:00",
   "category": "Debt",
   "sub_category": "Medium Duration",
   "super_category": "HDFC Medium Term Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to generate income / capital appreciation through investments in Debt and Money Market Instruments.",
   "fund_objective": "The scheme seeks to generate income / capital appreciation through investments in Debt and Money Market Instruments.",
-  "nav": 65.8144,
-  "nav_date": "27-Oct-2026",
+  "nav": 65.8225,
+  "nav_date": "28-Oct-2026",
   "aum": 3498.9,
   "expense_ratio": 0.7,
   "exit_load": "Nil",
@@ -1175,19 +1175,19 @@
   "historical_returns": {
     "simple_return": {
       "scheme_code": "119081",
-      "return1d": 0.02,
-      "return1w": -0.33,
-      "return1m": -0.2,
-      "return3m": 0.22,
-      "return6m": 2.61,
-      "return9m": 4.29,
-      "return1y": 5.29,
-      "return2y": 14.27,
-      "return3y": 24.83,
-      "return4y": 34.03,
-      "return5y": 37.9,
-      "return7y": 63.43,
-      "return10y": 103.04,
+      "return1d": 0.01,
+      "return1w": -0.13,
+      "return1m": -0.16,
+      "return3m": 0.21,
+      "return6m": 2.72,
+      "return9m": 4.3,
+      "return1y": 5.28,
+      "return2y": 14.28,
+      "return3y": 24.84,
+      "return4y": 34.05,
+      "return5y": 37.94,
+      "return7y": 63.45,
+      "return10y": 103.05,
       "return_default": null,
       "mean_return": null,
       "sharpe_ratio": null,
@@ -1195,13 +1195,13 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 190.2,
+      "return_since_created": 190.24,
       "cat_return3m": 54.74,
-      "cat_return6m": 59.95,
-      "cat_return1y": 66.61,
-      "cat_return3y": 21.48,
-      "cat_return5y": 37.44,
-      "cat_return10y": 89.61,
+      "cat_return6m": 60.01,
+      "cat_return1y": 66.62,
+      "cat_return3y": 21.49,
+      "cat_return5y": 37.47,
+      "cat_return10y": 89.65,
       "cat_return_since_launch": 88.44,
       "rank3m": null,
       "rank6m": null,
@@ -1237,13 +1237,13 @@
       "return1d": null,
       "return1w": null,
       "return1m": null,
-      "return3m": -0.56,
-      "return6m": 3.34,
+      "return3m": -0.47,
+      "return6m": 3.36,
       "return9m": 4.64,
-      "return1y": 4.89,
+      "return1y": 4.88,
       "return2y": 5.92,
       "return3y": 6.76,
-      "return4y": 7.11,
+      "return4y": 7.1,
       "return5y": 7.09,
       "return7y": null,
       "return10y": 7.23,
@@ -1294,19 +1294,19 @@
     "return_stats": [
       {
         "scheme_code": "119081",
-        "return1d": 0.02,
-        "return1w": -0.33,
-        "return1m": -0.2,
-        "return3m": 0.22,
-        "return6m": 2.61,
-        "return9m": 4.29,
-        "return1y": 5.29,
-        "return2y": 6.88,
+        "return1d": 0.01,
+        "return1w": -0.13,
+        "return1m": -0.16,
+        "return3m": 0.21,
+        "return6m": 2.72,
+        "return9m": 4.3,
+        "return1y": 5.28,
+        "return2y": 6.9,
         "return3y": 7.66,
-        "return4y": 7.59,
-        "return5y": 6.63,
+        "return4y": 7.6,
+        "return5y": 6.64,
         "return7y": 7.26,
-        "return10y": 7.33,
+        "return10y": 7.34,
         "return_default": 8.83,
         "mean_return": 7.56,
         "sharpe_ratio": 1.2,
@@ -1323,8 +1323,8 @@
         "cat_return10y": 6.31,
         "cat_return_since_launch": 7.36,
         "rank3m": 2,
-        "rank6m": 3,
-        "rank1yr": 4,
+        "rank6m": 2,
+        "rank1yr": 3,
         "rank3yr": 6,
         "rank5yr": 6,
         "rank10yr": 5,
@@ -1342,10 +1342,10 @@
         "sortino_ratio": 2.01,
         "information_ratio": null,
         "plan_id": null,
-        "vro_return_ytd": 4.24,
-        "vro_return9m": 4.29,
-        "vro_return2y": 6.88,
-        "vro_return4y": 7.59,
+        "vro_return_ytd": 4.25,
+        "vro_return9m": 4.3,
+        "vro_return2y": 6.9,
+        "vro_return4y": 7.6,
         "vro_return_date": null,
         "vro_modified_ts": null,
         "vro_row_number": null,
@@ -1355,9 +1355,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 5.29,
+        "stat_1y": 5.28,
         "stat_3y": 7.66,
-        "stat_5y": 6.63,
+        "stat_5y": 6.64,
         "stat_all": 8.83,
         "title": "Fund Returns"
       },
@@ -1380,6 +1380,13 @@
     ],
     "portfolio_turnover": null,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.7,
+        "base_expense_ratio": 0.59,
+        "as_on_date": "2026-10-27T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.7,
         "base_expense_ratio": 0.59,
@@ -1456,13 +1463,6 @@
         "as_on_date": "2026-10-16T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.7,
-        "base_expense_ratio": 0.59,
-        "as_on_date": "2026-10-15T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
       }
     ]
   },
@@ -1497,7 +1497,7 @@
     },
     {
       "question": "c_return_analysis",
-      "answer": "1Y annualised returns lower than category average by 2.66%"
+      "answer": "1Y annualised returns lower than category average by 2.67%"
     },
     {
       "question": "exit_load",
@@ -1509,7 +1509,7 @@
     },
     {
       "question": "rank_analysis",
-      "answer": "1Y category rank: 3"
+      "answer": "1Y category rank: 4"
     },
     {
       "question": "rating_analysis",
@@ -1561,7 +1561,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 934075.65943461,
-    "launch_date": "1999-12-09T18:30:00.416Z",
+    "launch_date": "1999-12-09T18:30:00.592Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1599,7 +1599,7 @@
         "scheme_code": "119081",
         "analysis_type": "CONS",
         "analysis_subject": "c_return_analysis",
-        "analysis_desc": "1Y annualised returns lower than category average by 2.66%",
+        "analysis_desc": "1Y annualised returns lower than category average by 2.67%",
         "analysis_data": "c_return_analysis",
         "rating": null
       },
@@ -1623,7 +1623,7 @@
         "scheme_code": "119081",
         "analysis_type": "PROS",
         "analysis_subject": "rank_analysis",
-        "analysis_desc": "1Y category rank: 3",
+        "analysis_desc": "1Y category rank: 4",
         "analysis_data": "rank_analysis",
         "rating": null
       },
@@ -1654,6 +1654,13 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.7,
+        "base_expense_ratio": 0.59,
+        "as_on_date": "2026-10-27T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.7,
         "base_expense_ratio": 0.59,
@@ -1812,13 +1819,6 @@
         "expense_ratio": 0.7,
         "base_expense_ratio": 0.59,
         "as_on_date": "2026-10-04T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.7,
-        "base_expense_ratio": 0.59,
-        "as_on_date": "2026-10-03T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
       }
