@@ -3,7 +3,7 @@
   "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
   "fund_name": "HDFC ELSS - Tax Saver Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-  "scraped_at": "2026-10-30T10:19:36.438547+00:00",
+  "scraped_at": "2026-10-31T09:52:38.914543+00:00",
   "category": "Equity",
   "sub_category": "ELSS",
   "super_category": "HDFC ELSS - Tax Saver Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.",
   "fund_objective": "The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.",
-  "nav": 1432.285,
-  "nav_date": "29-Oct-2026",
+  "nav": 1434.915,
+  "nav_date": "30-Oct-2026",
   "aum": 14948.74,
   "expense_ratio": 1.2,
   "exit_load": "Nil",
@@ -983,19 +983,19 @@
   "historical_returns": {
     "simple_return": {
       "scheme_code": "119060",
-      "return1d": 0.87,
-      "return1w": 1.38,
-      "return1m": 0.94,
+      "return1d": 0.18,
+      "return1w": 2.22,
+      "return1m": 1.27,
       "return3m": -4.75,
-      "return6m": -1.75,
-      "return9m": -7.2,
-      "return1y": -10.2,
-      "return2y": -1.5,
-      "return3y": 43.39,
-      "return4y": 66.98,
-      "return5y": 83.62,
-      "return7y": 169.77,
-      "return10y": 228.25,
+      "return6m": -0.92,
+      "return9m": -7.01,
+      "return1y": -9.55,
+      "return2y": -0.56,
+      "return3y": 43.24,
+      "return4y": 67.28,
+      "return5y": 83.96,
+      "return7y": 168.18,
+      "return10y": 228.86,
       "return_default": null,
       "mean_return": null,
       "sharpe_ratio": null,
@@ -1003,14 +1003,14 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 481.25,
-      "cat_return3m": -4.67,
-      "cat_return6m": -1.35,
-      "cat_return1y": -4.72,
-      "cat_return3y": 39.44,
-      "cat_return5y": 63.23,
-      "cat_return10y": 244.85,
-      "cat_return_since_launch": 341.47,
+      "return_since_created": 482.32,
+      "cat_return3m": -4.97,
+      "cat_return6m": -0.92,
+      "cat_return1y": -4.64,
+      "cat_return3y": 38.66,
+      "cat_return5y": 62.73,
+      "cat_return10y": 243.83,
+      "cat_return_since_launch": 340.13,
       "rank3m": null,
       "rank6m": null,
       "rank1yr": null,
@@ -1102,12 +1102,12 @@
     "return_stats": [
       {
         "scheme_code": "119060",
-        "return1d": 0.87,
-        "return1w": 1.38,
-        "return1m": 0.94,
+        "return1d": 0.18,
+        "return1w": 2.22,
+        "return1m": 1.27,
         "return3m": -4.75,
-        "return6m": -1.75,
-        "return9m": -7.2,
+        "return6m": -0.92,
+        "return9m": -7.01,
         "return1y": -10.2,
         "return2y": -0.76,
         "return3y": 12.73,
@@ -1123,13 +1123,13 @@
         "risk_rating": null,
         "risk": "Very High",
         "return_since_created": 13.57,
-        "cat_return3m": -5.65,
-        "cat_return6m": -4.16,
-        "cat_return1y": -8.03,
-        "cat_return3y": 10.11,
-        "cat_return5y": 8.87,
-        "cat_return10y": 12.45,
-        "cat_return_since_launch": 16.69,
+        "cat_return3m": -4.79,
+        "cat_return6m": -1.79,
+        "cat_return1y": -6.29,
+        "cat_return3y": 11.2,
+        "cat_return5y": 9.71,
+        "cat_return10y": 12.81,
+        "cat_return_since_launch": 16.84,
         "rank3m": 19,
         "rank6m": 14,
         "rank1yr": 34,
@@ -1163,9 +1163,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": -10.2,
-        "stat_3y": 12.73,
-        "stat_5y": 12.92,
+        "stat_1y": -9.02,
+        "stat_3y": 12.8,
+        "stat_5y": 12.95,
         "stat_all": 12.03,
         "title": "Fund Returns"
       },
@@ -1188,6 +1188,20 @@
     ],
     "portfolio_turnover": 32.0,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 1.2,
+        "base_expense_ratio": 0.97,
+        "as_on_date": "2026-10-30T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.2,
+        "base_expense_ratio": 0.97,
+        "as_on_date": "2026-10-29T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 1.2,
         "base_expense_ratio": 0.97,
@@ -1255,20 +1269,6 @@
         "expense_ratio": 1.2,
         "base_expense_ratio": 0.97,
         "as_on_date": "2026-10-19T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.2,
-        "base_expense_ratio": 0.97,
-        "as_on_date": "2026-10-18T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.2,
-        "base_expense_ratio": 0.97,
-        "as_on_date": "2026-10-17T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
       }
@@ -1372,7 +1372,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 934075.65943461,
-    "launch_date": "1999-12-09T18:30:00.379Z",
+    "launch_date": "1999-12-09T18:30:00.888Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1457,6 +1457,20 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 1.2,
+        "base_expense_ratio": 0.97,
+        "as_on_date": "2026-10-30T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 1.2,
+        "base_expense_ratio": 0.97,
+        "as_on_date": "2026-10-29T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 1.2,
         "base_expense_ratio": 0.97,
@@ -1608,20 +1622,6 @@
         "expense_ratio": 1.2,
         "base_expense_ratio": 0.97,
         "as_on_date": "2026-10-07T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.2,
-        "base_expense_ratio": 0.97,
-        "as_on_date": "2026-10-06T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 1.2,
-        "base_expense_ratio": 0.97,
-        "as_on_date": "2026-10-05T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
       }
