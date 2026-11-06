@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Long Term Fund Direct Growth",
   "fund_name": "HDFC Long Term Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-long-duration-debt-fund-direct-growth",
-  "scraped_at": "2026-11-05T11:19:25.189746+00:00",
+  "scraped_at": "2026-11-06T11:17:09.910154+00:00",
   "category": "Debt",
   "sub_category": "Long Term",
   "super_category": "HDFC Long Term Fund",
@@ -11,8 +11,8 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to generate income / capital appreciation through investments in debt and money market instruments.",
   "fund_objective": "The scheme seeks to generate income / capital appreciation through investments in debt and money market instruments.",
-  "nav": 12.5154,
-  "nav_date": "04-Nov-2026",
+  "nav": 12.6302,
+  "nav_date": "05-Nov-2026",
   "aum": 2516.34,
   "expense_ratio": 0.28,
   "exit_load": "Nil",
@@ -353,9 +353,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 29.06,
+      "corpus_per": 27.9,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "GOVERNMENT OF INDIA 34733 GOI 05AG54 7.09 FV RS 100",
@@ -363,9 +363,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 19.4,
+      "corpus_per": 18.87,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "GOI Sec 7.36 12/09/2052",
@@ -373,9 +373,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 18.69,
+      "corpus_per": 18.76,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "GOVERNMENT OF INDIA 35840 GOI 15AP65 6.9 FV RS 100",
@@ -383,9 +383,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 8.44,
+      "corpus_per": 8.48,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100",
@@ -393,9 +393,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 7.82,
+      "corpus_per": 7.86,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "CENTRAL GOVERNMENT LOAN 30951 GOI 15DC51 6.99 FV RS 100",
@@ -403,9 +403,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 6.46,
+      "corpus_per": 6.47,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "6.62% Govt. of India (MD 28/11/2051)",
@@ -413,9 +413,19 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 2.72,
+      "corpus_per": 2.75,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
+    },
+    {
+      "company_name": "Repo",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "instrument_name": "Repo",
+      "rating": null,
+      "corpus_per": 1.84,
+      "market_cap": null,
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "CENTRAL GOVERNMENT LOAN 23011 GOI 20SP50 7.16 FV RS 100",
@@ -423,9 +433,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 1.83,
+      "corpus_per": 1.84,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "Net Current Assets",
@@ -433,9 +443,9 @@
       "nature_name": "CASH",
       "instrument_name": "Net Current Assets",
       "rating": null,
-      "corpus_per": 1.76,
+      "corpus_per": 1.68,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "GOVERNMENT OF INDIA 36320 GOI 18AG55 7.24 FV RS 100",
@@ -443,9 +453,9 @@
       "nature_name": "DEBT",
       "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 1.66,
+      "corpus_per": 1.29,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "CENTRAL GOVERNMENT LOAN 29633 GOI 17DC50 6.67 FV RS 100",
@@ -455,7 +465,7 @@
       "rating": null,
       "corpus_per": 1.22,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "Others Class A2 AIF",
@@ -463,58 +473,58 @@
       "nature_name": "DEBT",
       "instrument_name": "Alternative Investment Fund",
       "rating": null,
-      "corpus_per": 0.63,
+      "corpus_per": 0.65,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
-      "company_name": "Repo",
-      "sector_name": "Unspecified",
-      "nature_name": "CASH",
-      "instrument_name": "Repo",
+      "company_name": "7.71% GOI 18-May-2066",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "instrument_name": "GOI Securities",
       "rating": null,
-      "corpus_per": 0.31,
+      "corpus_per": 0.39,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     }
   ],
   "asset_allocation": {
     "by_sector": [
       {
         "name": "Entities",
-        "percentage": 97.3
+        "percentage": 95.83
       },
       {
         "name": "Unspecified",
-        "percentage": 2.7
+        "percentage": 4.17
       }
     ],
     "by_nature": [
       {
         "name": "DEBT",
-        "percentage": 97.93
+        "percentage": 96.48
       },
       {
         "name": "CASH",
-        "percentage": 2.07
+        "percentage": 3.52
       }
     ],
     "by_instrument": [
       {
         "name": "GOI Securities",
-        "percentage": 97.3
-      },
-      {
-        "name": "Net Current Assets",
-        "percentage": 1.76
-      },
-      {
-        "name": "Alternative Investment Fund",
-        "percentage": 0.63
+        "percentage": 95.83
       },
       {
         "name": "Repo",
-        "percentage": 0.31
+        "percentage": 1.84
+      },
+      {
+        "name": "Net Current Assets",
+        "percentage": 1.68
+      },
+      {
+        "name": "Alternative Investment Fund",
+        "percentage": 0.65
       }
     ],
     "by_market_cap": [
@@ -527,15 +537,15 @@
   "historical_returns": {
     "simple_return": {
       "scheme_code": "151313",
-      "return1d": 1.06,
-      "return1w": 2.38,
-      "return1m": 0.59,
-      "return3m": -0.7,
-      "return6m": 2.09,
-      "return9m": 1.91,
-      "return1y": 2.02,
-      "return2y": 5.33,
-      "return3y": 19.43,
+      "return1d": 0.92,
+      "return1w": 2.88,
+      "return1m": 1.5,
+      "return3m": -0.06,
+      "return6m": 3.14,
+      "return9m": 2.59,
+      "return1y": 2.95,
+      "return2y": 6.33,
+      "return3y": 20.53,
       "return4y": null,
       "return5y": null,
       "return7y": null,
@@ -547,14 +557,14 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 25.15,
-      "cat_return3m": -0.18,
-      "cat_return6m": 2.2,
-      "cat_return1y": 2.07,
-      "cat_return3y": 19.48,
-      "cat_return5y": 32.78,
-      "cat_return10y": 91.06,
-      "cat_return_since_launch": 24.84,
+      "return_since_created": 26.3,
+      "cat_return3m": 0.19,
+      "cat_return6m": 2.92,
+      "cat_return1y": 2.64,
+      "cat_return3y": 20.15,
+      "cat_return5y": 33.33,
+      "cat_return10y": 92.12,
+      "cat_return_since_launch": 25.52,
       "rank3m": null,
       "rank6m": null,
       "rank1yr": null,
@@ -646,12 +656,12 @@
     "return_stats": [
       {
         "scheme_code": "151313",
-        "return1d": 1.06,
-        "return1w": 2.38,
-        "return1m": 0.59,
-        "return3m": -0.7,
-        "return6m": 2.09,
-        "return9m": 1.91,
+        "return1d": 0.92,
+        "return1w": 2.88,
+        "return1m": 1.5,
+        "return3m": -0.06,
+        "return6m": 3.14,
+        "return9m": 2.59,
         "return1y": 2.02,
         "return2y": 2.63,
         "return3y": 6.09,
@@ -667,13 +677,13 @@
         "risk_rating": null,
         "risk": "Moderate",
         "return_since_created": 6.1,
-        "cat_return3m": -1.49,
-        "cat_return6m": 1.54,
-        "cat_return1y": 1.18,
-        "cat_return3y": 5.94,
-        "cat_return5y": 5.37,
-        "cat_return10y": 6.85,
-        "cat_return_since_launch": 7.77,
+        "cat_return3m": -0.5,
+        "cat_return6m": 2.25,
+        "cat_return1y": 2.25,
+        "cat_return3y": 6.23,
+        "cat_return5y": 5.58,
+        "cat_return10y": 6.98,
+        "cat_return_since_launch": 7.84,
         "rank3m": 8,
         "rank6m": 8,
         "rank1yr": 7,
@@ -707,8 +717,8 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 2.02,
-        "stat_3y": 6.09,
+        "stat_1y": 2.95,
+        "stat_3y": 6.4,
         "stat_5y": null,
         "stat_all": null,
         "title": "Fund Returns"
@@ -723,7 +733,7 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 8,
+        "stat_1y": 7,
         "stat_3y": 5,
         "stat_5y": null,
         "stat_all": null,
@@ -732,6 +742,27 @@
     ],
     "portfolio_turnover": null,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.28,
+        "base_expense_ratio": 0.24,
+        "as_on_date": "2026-11-03T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.28,
+        "base_expense_ratio": 0.24,
+        "as_on_date": "2026-11-02T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.28,
+        "base_expense_ratio": 0.24,
+        "as_on_date": "2026-11-01T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.28,
         "base_expense_ratio": 0.24,
@@ -792,27 +823,6 @@
         "expense_ratio": 0.28,
         "base_expense_ratio": 0.24,
         "as_on_date": "2026-10-23T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.28,
-        "base_expense_ratio": 0.24,
-        "as_on_date": "2026-10-22T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.28,
-        "base_expense_ratio": 0.24,
-        "as_on_date": "2026-10-21T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.28,
-        "base_expense_ratio": 0.24,
-        "as_on_date": "2026-10-20T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
       }
@@ -905,7 +915,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 934075.65943461,
-    "launch_date": "1999-12-09T18:30:00.136Z",
+    "launch_date": "1999-12-09T18:30:00.772Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -982,6 +992,27 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.28,
+        "base_expense_ratio": 0.24,
+        "as_on_date": "2026-11-03T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.28,
+        "base_expense_ratio": 0.24,
+        "as_on_date": "2026-11-02T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.28,
+        "base_expense_ratio": 0.24,
+        "as_on_date": "2026-11-01T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.28,
         "base_expense_ratio": 0.24,
@@ -1128,27 +1159,6 @@
         "as_on_date": "2026-10-11T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.28,
-        "base_expense_ratio": 0.24,
-        "as_on_date": "2026-10-10T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.28,
-        "base_expense_ratio": 0.24,
-        "as_on_date": "2026-10-09T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.28,
-        "base_expense_ratio": 0.24,
-        "as_on_date": "2026-10-08T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
       }
     ],
     "fund_news": null,
@@ -1160,14 +1170,14 @@
         "category": "Debt",
         "sub_category": "Long Term",
         "sub_sub_category": "",
-        "aum": 822.48,
+        "aum": 794.49,
         "mean_return": 5.99,
         "return3y": 6.6,
         "return1y": 1.97,
         "return5y": 5.45,
-        "return1m": 0.58,
-        "return3m": -0.74,
-        "return6m": 2.21,
+        "return1m": 1.09,
+        "return3m": -0.35,
+        "return6m": 3.06,
         "return_since_created": 7.63,
         "min_investment": 5000,
         "groww_rating": 4,
@@ -1205,14 +1215,14 @@
         "category": "Debt",
         "sub_category": "Long Term",
         "sub_sub_category": "",
-        "aum": 1245.82,
+        "aum": 1226.11,
         "mean_return": 6.01,
         "return3y": 6.47,
         "return1y": 2.75,
         "return5y": null,
-        "return1m": 1.13,
-        "return3m": 0.32,
-        "return6m": 2.65,
+        "return1m": 1.42,
+        "return3m": 0.46,
+        "return6m": 3.06,
         "return_since_created": 6.6,
         "min_investment": 5000,
         "groww_rating": 3,
@@ -1250,14 +1260,14 @@
         "category": "Debt",
         "sub_category": "Long Term",
         "sub_sub_category": "",
-        "aum": 5838.78,
+        "aum": 5629.24,
         "mean_return": 5.71,
         "return3y": 6.34,
         "return1y": 1.89,
         "return5y": 5.74,
-        "return1m": 1.03,
-        "return3m": -0.87,
-        "return6m": 2.56,
+        "return1m": 1.65,
+        "return3m": -0.61,
+        "return6m": 3.17,
         "return_since_created": 7.74,
         "min_investment": 5000,
         "groww_rating": 3,
@@ -1300,9 +1310,9 @@
         "return3y": 6.09,
         "return1y": 2.02,
         "return5y": null,
-        "return1m": 0.59,
-        "return3m": -0.7,
-        "return6m": 2.09,
+        "return1m": 1.5,
+        "return3m": -0.06,
+        "return6m": 3.14,
         "return_since_created": 6.1,
         "min_investment": 100,
         "groww_rating": 2,
@@ -1340,14 +1350,14 @@
         "category": "Debt",
         "sub_category": "Long Term",
         "sub_sub_category": "",
-        "aum": 154.44,
+        "aum": 156.87,
         "mean_return": 5.56,
         "return3y": 5.92,
         "return1y": 2.19,
         "return5y": null,
-        "return1m": 0.57,
-        "return3m": -0.62,
-        "return6m": 2.04,
+        "return1m": 1.33,
+        "return3m": 0.11,
+        "return6m": 3.2,
         "return_since_created": 6.19,
         "min_investment": 5000,
         "groww_rating": 2,
