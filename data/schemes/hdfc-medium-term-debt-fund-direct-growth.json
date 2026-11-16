@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Medium Term Fund Direct Growth",
   "fund_name": "HDFC Medium Term Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-medium-term-debt-fund-direct-growth",
-  "scraped_at": "2026-11-15T11:20:11.840569+00:00",
+  "scraped_at": "2026-11-16T11:52:24.130321+00:00",
   "category": "Debt",
   "sub_category": "Medium Term",
   "super_category": "HDFC Medium Term Fund",
@@ -1514,7 +1514,7 @@
     },
     {
       "question": "rank_analysis",
-      "answer": "1Y category rank: 4"
+      "answer": "1Y category rank: 3"
     },
     {
       "question": "rating_analysis",
@@ -1566,7 +1566,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 933671.13933074,
-    "launch_date": "1999-12-09T18:30:00.090Z",
+    "launch_date": "1999-12-09T18:30:00.632Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1628,7 +1628,7 @@
         "scheme_code": "119081",
         "analysis_type": "PROS",
         "analysis_subject": "rank_analysis",
-        "analysis_desc": "1Y category rank: 4",
+        "analysis_desc": "1Y category rank: 3",
         "analysis_data": "rank_analysis",
         "rating": null
       },
@@ -2053,7 +2053,7 @@
         "sub_tag": null,
         "note_text": null,
         "deep_link": null,
-        "fund_name": "DSP Medium Term Direct-Growth"
+        "fund_name": "DSP Medium Term Fund"
       }
     ]
   }

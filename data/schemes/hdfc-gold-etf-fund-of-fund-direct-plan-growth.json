@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
   "fund_name": "HDFC Gold ETF Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-  "scraped_at": "2026-11-15T11:20:29.063982+00:00",
+  "scraped_at": "2026-11-16T11:52:41.983585+00:00",
   "category": "Commodities",
   "sub_category": "Gold",
   "super_category": "HDFC Gold ETF Fund",
@@ -388,9 +388,9 @@
       "nature_name": "MF",
       "instrument_name": "Mutual Fund",
       "rating": null,
-      "corpus_per": 100.12,
+      "corpus_per": 100.04,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "Repo",
@@ -398,9 +398,9 @@
       "nature_name": "CASH",
       "instrument_name": "Repo",
       "rating": null,
-      "corpus_per": 0.13,
+      "corpus_per": 0.03,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "Net Payables",
@@ -408,9 +408,9 @@
       "nature_name": "CASH",
       "instrument_name": "Net Payables",
       "rating": null,
-      "corpus_per": -0.25,
+      "corpus_per": -0.07,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     }
   ],
   "asset_allocation": {
@@ -423,25 +423,25 @@
     "by_nature": [
       {
         "name": "MF",
-        "percentage": 100.12
+        "percentage": 100.04
       },
       {
         "name": "CASH",
-        "percentage": -0.12
+        "percentage": -0.04
       }
     ],
     "by_instrument": [
       {
         "name": "Mutual Fund",
-        "percentage": 100.12
+        "percentage": 100.04
       },
       {
         "name": "Repo",
-        "percentage": 0.13
+        "percentage": 0.03
       },
       {
         "name": "Net Payables",
-        "percentage": -0.25
+        "percentage": -0.07
       }
     ],
     "by_market_cap": [
@@ -650,7 +650,7 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 10,
+        "stat_1y": 11,
         "stat_3y": 8,
         "stat_5y": 5,
         "stat_all": null,
@@ -856,7 +856,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 933671.13933074,
-    "launch_date": "1999-12-09T18:30:00.662Z",
+    "launch_date": "1999-12-09T18:30:00.642Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",

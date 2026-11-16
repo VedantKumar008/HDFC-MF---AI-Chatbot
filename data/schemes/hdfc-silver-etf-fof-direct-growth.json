@@ -3,10 +3,10 @@
   "scheme_name": "HDFC Silver ETF FoF Direct Growth",
   "fund_name": "HDFC Silver ETF FoF",
   "groww_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-  "scraped_at": "2026-11-15T11:20:30.580143+00:00",
+  "scraped_at": "2026-11-16T11:52:43.548801+00:00",
   "category": "Commodities",
   "sub_category": "Silver",
-  "super_category": "HDFC Silver ETF FoF Direct-Growth",
+  "super_category": "HDFC Silver ETF FoF Fund",
   "scheme_type": "Growth",
   "plan_type": "Direct",
   "description": "The scheme is seek to capital appreciation by investing in units of HDFC Silver ETF (HSETF).",
@@ -388,9 +388,9 @@
       "nature_name": "MF",
       "instrument_name": "Mutual Fund",
       "rating": null,
-      "corpus_per": 100.32,
+      "corpus_per": 99.87,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "Repo",
@@ -398,9 +398,9 @@
       "nature_name": "CASH",
       "instrument_name": "Repo",
       "rating": null,
-      "corpus_per": 0.33,
+      "corpus_per": 0.23,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     },
     {
       "company_name": "Net Payables",
@@ -408,9 +408,9 @@
       "nature_name": "CASH",
       "instrument_name": "Net Payables",
       "rating": null,
-      "corpus_per": -0.65,
+      "corpus_per": -0.1,
       "market_cap": null,
-      "portfolio_date": "2026-09-29T18:30:00.000Z"
+      "portfolio_date": "2026-10-30T18:30:00.000Z"
     }
   ],
   "asset_allocation": {
@@ -423,25 +423,25 @@
     "by_nature": [
       {
         "name": "MF",
-        "percentage": 100.32
+        "percentage": 99.87
       },
       {
         "name": "CASH",
-        "percentage": -0.32
+        "percentage": 0.13
       }
     ],
     "by_instrument": [
       {
         "name": "Mutual Fund",
-        "percentage": 100.32
+        "percentage": 99.87
       },
       {
         "name": "Repo",
-        "percentage": 0.33
+        "percentage": 0.23
       },
       {
         "name": "Net Payables",
-        "percentage": -0.65
+        "percentage": -0.1
       }
     ],
     "by_market_cap": [
@@ -650,7 +650,7 @@
       },
       {
         "type": "RANK_WITHIN_CATEGORY",
-        "stat_1y": 11,
+        "stat_1y": 12,
         "stat_3y": 6,
         "stat_5y": null,
         "stat_all": null,
@@ -845,7 +845,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 933671.13933074,
-    "launch_date": "1999-12-09T18:30:00.479Z",
+    "launch_date": "1999-12-09T18:30:00.417Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
