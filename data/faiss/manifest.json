@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-11-16T11:53:14.400207+00:00",
+  "built_at": "2026-11-17T12:15:03.638431+00:00",
   "scheme_count": 21,
-  "chunk_count": 545,
+  "chunk_count": 546,
   "embedding_model": "all-MiniLM-L6-v2",
   "embedding_dimension": 384,
   "index_type": "IndexFlatIP",
