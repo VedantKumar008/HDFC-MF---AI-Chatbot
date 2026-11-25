@@ -3,7 +3,7 @@
   "scheme_name": "HDFC NIFTY 50 Index Fund Direct Growth",
   "fund_name": "HDFC NIFTY 50 Index Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-nifty-50-index-fund-direct-growth",
-  "scraped_at": "2026-11-24T14:05:08.775178+00:00",
+  "scraped_at": "2026-11-25T13:18:25.291308+00:00",
   "category": "Equity",
   "sub_category": "Large Cap",
   "super_category": "HDFC NIFTY 50 Index Fund",
@@ -1116,19 +1116,19 @@
         "risk_rating": null,
         "risk": "Very High",
         "return_since_created": 12,
-        "cat_return3m": 4.47,
-        "cat_return6m": 9.17,
-        "cat_return1y": 2.06,
-        "cat_return3y": 12.72,
-        "cat_return5y": 10.46,
-        "cat_return10y": 13.88,
-        "cat_return_since_launch": 13.23,
-        "rank3m": 42,
-        "rank6m": 58,
-        "rank1yr": 82,
-        "rank3yr": 63,
-        "rank5yr": 49,
-        "rank10yr": 21,
+        "cat_return3m": 2.9,
+        "cat_return6m": 7.1,
+        "cat_return1y": 1.16,
+        "cat_return3y": 12.02,
+        "cat_return5y": 10.41,
+        "cat_return10y": 13.77,
+        "cat_return_since_launch": 13.09,
+        "rank3m": 46,
+        "rank6m": 64,
+        "rank1yr": 90,
+        "rank3yr": 71,
+        "rank5yr": 53,
+        "rank10yr": 23,
         "rank_count3m": 118,
         "rank_count6m": 116,
         "rank_count1yr": 111,
@@ -1181,6 +1181,27 @@
     ],
     "portfolio_turnover": 12.0,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.29,
+        "base_expense_ratio": 0.22,
+        "as_on_date": "2026-11-22T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.29,
+        "base_expense_ratio": 0.22,
+        "as_on_date": "2026-11-21T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.29,
+        "base_expense_ratio": 0.22,
+        "as_on_date": "2026-11-20T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.29,
         "base_expense_ratio": 0.22,
@@ -1241,27 +1262,6 @@
         "expense_ratio": 0.29,
         "base_expense_ratio": 0.22,
         "as_on_date": "2026-11-11T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.29,
-        "base_expense_ratio": 0.22,
-        "as_on_date": "2026-11-10T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.29,
-        "base_expense_ratio": 0.22,
-        "as_on_date": "2026-11-09T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.29,
-        "base_expense_ratio": 0.22,
-        "as_on_date": "2026-11-08T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
       }
@@ -1365,7 +1365,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 933671.13933074,
-    "launch_date": "1999-12-09T18:30:00.920Z",
+    "launch_date": "1999-12-09T18:30:00.644Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1450,6 +1450,27 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.29,
+        "base_expense_ratio": 0.22,
+        "as_on_date": "2026-11-22T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.29,
+        "base_expense_ratio": 0.22,
+        "as_on_date": "2026-11-21T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.29,
+        "base_expense_ratio": 0.22,
+        "as_on_date": "2026-11-20T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.29,
         "base_expense_ratio": 0.22,
@@ -1594,27 +1615,6 @@
         "expense_ratio": 0.29,
         "base_expense_ratio": 0.22,
         "as_on_date": "2026-10-30T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.29,
-        "base_expense_ratio": 0.22,
-        "as_on_date": "2026-10-29T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.29,
-        "base_expense_ratio": 0.22,
-        "as_on_date": "2026-10-28T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.29,
-        "base_expense_ratio": 0.22,
-        "as_on_date": "2026-10-27T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
       }
@@ -1837,8 +1837,8 @@
         "scheme_type": "Growth",
         "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/hdfc_groww.png",
         "groww_scheme_code": "INF179K01YV8",
-        "expense_ratio": "0.99",
-        "base_expense_ratio": "0.81",
+        "expense_ratio": "0.98",
+        "base_expense_ratio": "0.8",
         "swp_frequencies": null,
         "tag": null,
         "sub_tag": null,
