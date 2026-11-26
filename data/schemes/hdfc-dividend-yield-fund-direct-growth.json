@@ -3,7 +3,7 @@
   "scheme_name": "HDFC Dividend Yield Fund Direct Growth",
   "fund_name": "HDFC Dividend Yield Fund",
   "groww_url": "https://groww.in/mutual-funds/hdfc-dividend-yield-fund-direct-growth",
-  "scraped_at": "2026-11-25T13:18:07.821529+00:00",
+  "scraped_at": "2026-11-26T12:59:05.478683+00:00",
   "category": "Equity",
   "sub_category": "Thematic",
   "super_category": "HDFC Dividend Yield Fund",
@@ -11,10 +11,10 @@
   "plan_type": "Direct",
   "description": "The scheme seeks to provide capital appreciation and/or dividend distribution by predominantly investing in a well-diversified portfolio of equity and equity related instruments of dividend yielding companies.",
   "fund_objective": "The scheme seeks to provide capital appreciation and/or dividend distribution by predominantly investing in a well-diversified portfolio of equity and equity related instruments of dividend yielding companies.",
-  "nav": 27.371,
-  "nav_date": "23-Nov-2026",
+  "nav": 27.695,
+  "nav_date": "25-Nov-2026",
   "aum": 5184.46,
-  "expense_ratio": 0.85,
+  "expense_ratio": 0.86,
   "exit_load": "Exit load of 1% if redeemed within 1 year.",
   "risk_level": "Moderately High",
   "fund_manager": "Gopal Agrawal",
@@ -1486,17 +1486,17 @@
   "historical_returns": {
     "simple_return": {
       "scheme_code": "148609",
-      "return1d": -1.51,
-      "return1w": 0.1,
-      "return1m": 8.66,
-      "return3m": 1.11,
-      "return6m": 5.29,
-      "return9m": 2.07,
-      "return1y": 0.75,
-      "return2y": 6.04,
-      "return3y": 36.83,
-      "return4y": 73.27,
-      "return5y": 90.55,
+      "return1d": 1.18,
+      "return1w": 1.64,
+      "return1m": 9.95,
+      "return3m": 2.14,
+      "return6m": 5.23,
+      "return9m": 3.75,
+      "return1y": 2.54,
+      "return2y": 5.84,
+      "return3y": 38.82,
+      "return4y": 72.39,
+      "return5y": 92.37,
       "return7y": null,
       "return10y": null,
       "return_default": null,
@@ -1506,14 +1506,14 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 173.71,
-      "cat_return3m": 0.02,
-      "cat_return6m": 3.6,
-      "cat_return1y": 1.19,
-      "cat_return3y": 42.36,
-      "cat_return5y": 86.17,
-      "cat_return10y": 299.64,
-      "cat_return_since_launch": 175.36,
+      "return_since_created": 176.95,
+      "cat_return3m": 0.67,
+      "cat_return6m": 3.47,
+      "cat_return1y": 2.72,
+      "cat_return3y": 43.94,
+      "cat_return5y": 87.84,
+      "cat_return10y": 298.36,
+      "cat_return_since_launch": 178.01,
       "rank3m": null,
       "rank6m": null,
       "rank1yr": null,
@@ -1548,14 +1548,14 @@
       "return1d": null,
       "return1w": null,
       "return1m": null,
-      "return3m": 36.94,
-      "return6m": 14.82,
-      "return9m": 13.26,
-      "return1y": 8.37,
-      "return2y": 5.44,
-      "return3y": 4.82,
-      "return4y": 9.51,
-      "return5y": 11.81,
+      "return3m": 46.39,
+      "return6m": 19.46,
+      "return9m": 16.39,
+      "return1y": 10.71,
+      "return2y": 6.6,
+      "return3y": 5.59,
+      "return4y": 10.08,
+      "return5y": 12.26,
       "return7y": null,
       "return10y": null,
       "return_default": null,
@@ -1565,7 +1565,7 @@
       "standard_deviation": null,
       "risk_rating": null,
       "risk": null,
-      "return_since_created": 13.45,
+      "return_since_created": 13.83,
       "cat_return3m": null,
       "cat_return6m": null,
       "cat_return1y": null,
@@ -1605,17 +1605,17 @@
     "return_stats": [
       {
         "scheme_code": "148609",
-        "return1d": -1.51,
-        "return1w": 0.1,
-        "return1m": 8.66,
-        "return3m": 1.11,
-        "return6m": 5.29,
-        "return9m": 2.07,
-        "return1y": 0.75,
-        "return2y": 2.97,
-        "return3y": 11.01,
-        "return4y": 14.72,
-        "return5y": 13.76,
+        "return1d": 1.18,
+        "return1w": 1.64,
+        "return1m": 9.95,
+        "return3m": 2.14,
+        "return6m": 5.23,
+        "return9m": 3.75,
+        "return1y": 2.54,
+        "return2y": 2.88,
+        "return3y": 11.53,
+        "return4y": 14.57,
+        "return5y": 13.97,
         "return7y": null,
         "return10y": null,
         "return_default": 64.51,
@@ -1625,7 +1625,7 @@
         "standard_deviation": 15.75,
         "risk_rating": null,
         "risk": "Very High",
-        "return_since_created": 18.49,
+        "return_since_created": 18.71,
         "cat_return3m": 0.03,
         "cat_return6m": 3.66,
         "cat_return1y": 1.15,
@@ -1637,7 +1637,7 @@
         "rank6m": 4,
         "rank1yr": 5,
         "rank3yr": 6,
-        "rank5yr": 4,
+        "rank5yr": 3,
         "rank10yr": null,
         "rank_count3m": 11,
         "rank_count6m": 11,
@@ -1653,10 +1653,10 @@
         "sortino_ratio": 0.52,
         "information_ratio": 0.32,
         "plan_id": null,
-        "vro_return_ytd": 0.93,
-        "vro_return9m": 2.07,
-        "vro_return2y": 2.97,
-        "vro_return4y": 14.72,
+        "vro_return_ytd": 2.12,
+        "vro_return9m": 3.75,
+        "vro_return2y": 2.88,
+        "vro_return4y": 14.57,
         "vro_return_date": null,
         "vro_modified_ts": null,
         "vro_row_number": null,
@@ -1666,9 +1666,9 @@
     "stats": [
       {
         "type": "FUND_RETURN",
-        "stat_1y": 0.75,
-        "stat_3y": 11.01,
-        "stat_5y": 13.76,
+        "stat_1y": 2.54,
+        "stat_3y": 11.53,
+        "stat_5y": 13.97,
         "stat_all": 64.51,
         "title": "Fund Returns"
       },
@@ -1691,6 +1691,20 @@
     ],
     "portfolio_turnover": 6.0,
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.86,
+        "base_expense_ratio": 0.71,
+        "as_on_date": "2026-11-24T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.86,
+        "base_expense_ratio": 0.71,
+        "as_on_date": "2026-11-23T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.85,
         "base_expense_ratio": 0.7,
@@ -1760,20 +1774,6 @@
         "as_on_date": "2026-11-13T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.85,
-        "base_expense_ratio": 0.7,
-        "as_on_date": "2026-11-12T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.85,
-        "base_expense_ratio": 0.7,
-        "as_on_date": "2026-11-11T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
       }
     ]
   },
@@ -1801,11 +1801,11 @@
     },
     {
       "question": "expense_analysis",
-      "answer": "Lower expense ratio: 0.85%"
+      "answer": "Lower expense ratio: 0.86%"
     },
     {
       "question": "base_expense_analysis",
-      "answer": "Lower base expense ratio: 0.7%"
+      "answer": "Lower base expense ratio: 0.71%"
     },
     {
       "question": "Understand terms",
@@ -1819,7 +1819,7 @@
     "fund_management_section": "PR Priya Ranjan May 2022 - Present View details Education Mr. Ranjan is B.E(Computer Science) and PGDBM (Finance). Experience He has over 14 years of experience in equity research. Also manages these schemes HDFC Gilt Fund Direct Growth HDFC Dividend Yield Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth GA Gopal Agrawal Nov 2020 - Present View details Education Mr.Agrawal is a B.E and MBM. Experience Prior to joining HDFC Mutual Fund he has worked with DSP Mutual Fund, Tata AMC, Mirae Asset Mutual Fund ,SBI Mutual Fund, Kotak Securities, HDFC Securities, IDBI Capital, UTI Securities and IPCL. Also manages these schemes HDFC Balanced Advantage Fund Direct Growth H SIF Hybrid Long Short Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC Dividend Yield Fund Direct Growth",
     "minimum_investments_section": "Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100",
     "returns_and_rankings_section": "",
-    "meta_description": "HDFC Dividend Yield Fund Direct Growth is Thematic Equity mutual fund with risk-reward rating of null/10. It has track record of 6 years, with three year return of 11.01. Risk is Very High",
+    "meta_description": "HDFC Dividend Yield Fund Direct Growth is Thematic Equity mutual fund with risk-reward rating of null/10. It has track record of 6 years, with three year return of 11.53. Risk is Very High",
     "category_helper_text": "Invests in stocks as per Contrarian investment strategy",
     "blocked_reason": null,
     "brochure_link": "https://files.hdfcfund.com/s3fs-public/Others/2020-11/Leaflet%20-%20HDFC%20Dividend%20Yield%20Fund.pdf",
@@ -1849,7 +1849,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 933671.13933074,
-    "launch_date": "1999-12-09T18:30:00.482Z",
+    "launch_date": "1999-12-09T18:30:00.328Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -1887,16 +1887,16 @@
         "scheme_code": "148609",
         "analysis_type": "PROS",
         "analysis_subject": "expense_analysis",
-        "analysis_desc": "Lower expense ratio: 0.85%",
-        "analysis_data": "0.85",
+        "analysis_desc": "Lower expense ratio: 0.86%",
+        "analysis_data": "0.86",
         "rating": null
       },
       {
         "scheme_code": "148609",
         "analysis_type": "PROS",
         "analysis_subject": "base_expense_analysis",
-        "analysis_desc": "Lower base expense ratio: 0.7%",
-        "analysis_data": "0.7",
+        "analysis_desc": "Lower base expense ratio: 0.71%",
+        "analysis_data": "0.71",
         "rating": null
       }
     ],
@@ -1910,6 +1910,20 @@
       "tags": null
     },
     "historic_fund_expense": [
+      {
+        "expense_ratio": 0.86,
+        "base_expense_ratio": 0.71,
+        "as_on_date": "2026-11-24T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
+      {
+        "expense_ratio": 0.86,
+        "base_expense_ratio": 0.71,
+        "as_on_date": "2026-11-23T00:00:00",
+        "frequency": null,
+        "turn_over_ratio": null
+      },
       {
         "expense_ratio": 0.85,
         "base_expense_ratio": 0.7,
@@ -2061,20 +2075,6 @@
         "expense_ratio": 0.88,
         "base_expense_ratio": 0.72,
         "as_on_date": "2026-11-01T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.88,
-        "base_expense_ratio": 0.72,
-        "as_on_date": "2026-10-31T00:00:00",
-        "frequency": null,
-        "turn_over_ratio": null
-      },
-      {
-        "expense_ratio": 0.88,
-        "base_expense_ratio": 0.72,
-        "as_on_date": "2026-10-30T00:00:00",
         "frequency": null,
         "turn_over_ratio": null
       }
